@@ -1,33 +1,33 @@
-require 'rubygems'
-require 'rails'
-require 'net/http'
-require 'open-uri'
+# require 'rubygems'
+# require 'rails'
+# require 'net/http'
+# require 'open-uri'
 
-# Dir.mkdir(Rails.root.join('lib', 'data', 'newfolder'))
+# # Dir.mkdir(Rails.root.join('lib', 'data', 'newfolder'))
 
-UPLOAD_DIR_ROOT = "CTDOTGOV_UPLOAD_" #Root name of directory for ClinicalTrials.gov downloads
-UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cond=hand+cancer&studyxml=true"
+# UPLOAD_DIR_ROOT = "CTDOTGOV_UPLOAD_" #Root name of directory for ClinicalTrials.gov downloads
+# UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cond=hand+cancer&studyxml=true"
 
-timestamp = Time.now.to_i.to_s
+# timestamp = Time.now.to_i.to_s
 
-upload_dir_full_name = UPLOAD_DIR_ROOT + timestamp
-
-
-#Create necessary directories
-
-Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name) 
-Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name + '/Zip') 
-Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name + '/XML') 
-
-# Download zip file to directory
+# upload_dir_full_name = UPLOAD_DIR_ROOT + timestamp
 
 
-File.open("/my/local/path/sample.flv", "wb") do |saved_file|
-  # the following "open" is provided by open-uri
-  open("http://somedomain.net/flv/sample/sample.flv", "rb") do |read_file|
-    saved_file.write(read_file.read)
-  end
-end
+# #Create necessary directories
+
+# Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name) 
+# Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name + '/Zip') 
+# Dir.mkdir('/Users/danmckeon/workspace/cancer_resources/lib/data/' + upload_dir_full_name + '/XML') 
+
+# # Download zip file to directory
+
+
+# File.open("/my/local/path/sample.flv", "wb") do |saved_file|
+#   # the following "open" is provided by open-uri
+#   open("http://somedomain.net/flv/sample/sample.flv", "rb") do |read_file|
+#     saved_file.write(read_file.read)
+#   end
+# end
 
 # Net::HTTP.start("clinicaltrials.gov") do |http|
 #     resp = http.get("/ct2/results?term=&recr=Recruiting&cond=hand+cancer&studyxml=true")
