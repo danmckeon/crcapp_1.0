@@ -1,0 +1,2 @@
+module ClinicalTrialSearchHelper
+end
