@@ -133,6 +133,7 @@ Dir.glob(expl_xml_dir_path) do |xml_file|
   @ct_record.save
 end
 
+# Meaningless note
 
 # Misc Notes:
   # Root file path on my computer: '/Users/danmckeon/workspace/cancer_resources/lib/data/'
