@@ -63,24 +63,28 @@ public
     @parsed_file[:secondary_outcome_time_frame] = file_to_parse.xpath("//secondary_outcome//time_frame").text
     @parsed_file[:secondary_outcome_safety_issue] = file_to_parse.xpath("//secondary_outcome//safety_issue").text
     @parsed_file[:number_of_groups] = file_to_parse.xpath("//number_of_arms").text
-    # TODO: Enrollment Type already a field, but need to determine how to the type field, which is not text   
+    # TODO: REMOVE ENROLLMENT TYPE   
     @parsed_file[:enrollment_number] = file_to_parse.xpath("//enrollment").text
     @parsed_file[:condition] = file_to_parse.xpath("//condition").text
     @parsed_file[:arm_group_label] = file_to_parse.xpath("//arm_group//arm_group_label").text
     @parsed_file[:arm_group_description] = file_to_parse.xpath("//arm_group//description").text
-    # TODO: Biospec description already a field, but need to fid a trial where it is present to code it   
+    # TODO: REMOVE BIOSPEC DESCRIPTION   
     @parsed_file[:criteria] = file_to_parse.xpath("//eligibility//criteria//textblock").text
     @parsed_file[:gender] = file_to_parse.xpath("//eligibility//gender").text
     @parsed_file[:minimum_age] = file_to_parse.xpath("//eligibility//minimum_age").text
     @parsed_file[:maximum_age] = file_to_parse.xpath("//eligibility//maximum_age").text
     @parsed_file[:healthy_volunteers] = file_to_parse.xpath("//eligibility//healthy_volunteers").text
+    # TODO: REMOVE ALL COLUMNS WITHE NAME, ROLE, AFFILIATION...
+    #TODO: ADD COLUMNS FOR OVERALL_OFFICIAL, OVERALL_CONTACT, OVERALL_CONTACT_BACKUP, CONTACT, CONTACT_BACKUP
     @parsed_file[:overall_official_name] = file_to_parse.xpath("//overall_official//last_name").text # TODO: Ensure last_name is bringing up full name for all studies
     @parsed_file[:overall_official_role] = file_to_parse.xpath("//overall_official//role").text
     @parsed_file[:overall_official_affiliation] = file_to_parse.xpath("//overall_official//affiliation").text
     @parsed_file[:overall_contact_name] = file_to_parse.xpath("//overall_contact//last_name").text
     @parsed_file[:overall_contact_phone] = file_to_parse.xpath("//overall_contact//phone").text
     @parsed_file[:overall_contact_email] = file_to_parse.xpath("//overall_contact//email").text
-    # TODO: Add overall contact backup info (already a category)
+    @parsed_file[:overall_contact_backup_name] = file_to_parse.xpath("//overall_contact_backup").text # See what happens with just this
+#    @parsed_file[:overall_contact_backup_phone] = file_to_parse.xpath("//overall_contact//phone").text
+#    @parsed_file[:overall_contact_backup_email] = file_to_parse.xpath("//overall_contact//email").text
     @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").text
     @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").text
     @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").text
@@ -117,7 +121,7 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
 
-download_zip_file(SHORT_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+download_zip_file(LONGER_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
 
 # FileUtils.destroy_all #Trying to clear cache
