@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160527001633) do
+ActiveRecord::Schema.define(version: 20160615230121) do
 
   create_table "c_clinical_trials", force: :cascade do |t|
     t.string   "org_study_id"
@@ -36,12 +36,10 @@ ActiveRecord::Schema.define(version: 20160527001633) do
     t.string   "secondary_outcome_time_frame"
     t.string   "secondary_outcome_safety_issue"
     t.integer  "number_of_groups"
-    t.string   "enrollment_type"
     t.integer  "enrollment_number"
     t.string   "condition"
     t.string   "arm_group_label"
     t.string   "arm_group_description"
-    t.string   "biospec_description"
     t.string   "eligibility"
     t.string   "sampling_method"
     t.string   "criteria"

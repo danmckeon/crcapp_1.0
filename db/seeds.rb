@@ -62,13 +62,11 @@ public
     @parsed_file[:secondary_outcome_measure] = file_to_parse.xpath("//secondary_outcome//measure").text
     @parsed_file[:secondary_outcome_time_frame] = file_to_parse.xpath("//secondary_outcome//time_frame").text
     @parsed_file[:secondary_outcome_safety_issue] = file_to_parse.xpath("//secondary_outcome//safety_issue").text
-    @parsed_file[:number_of_groups] = file_to_parse.xpath("//number_of_arms").text
-    # TODO: REMOVE ENROLLMENT TYPE   
+    @parsed_file[:number_of_groups] = file_to_parse.xpath("//number_of_arms").text 
     @parsed_file[:enrollment_number] = file_to_parse.xpath("//enrollment").text
     @parsed_file[:condition] = file_to_parse.xpath("//condition").text
     @parsed_file[:arm_group_label] = file_to_parse.xpath("//arm_group//arm_group_label").text
-    @parsed_file[:arm_group_description] = file_to_parse.xpath("//arm_group//description").text
-    # TODO: REMOVE BIOSPEC DESCRIPTION   
+    @parsed_file[:arm_group_description] = file_to_parse.xpath("//arm_group//description").text  
     @parsed_file[:criteria] = file_to_parse.xpath("//eligibility//criteria//textblock").text
     @parsed_file[:gender] = file_to_parse.xpath("//eligibility//gender").text
     @parsed_file[:minimum_age] = file_to_parse.xpath("//eligibility//minimum_age").text
