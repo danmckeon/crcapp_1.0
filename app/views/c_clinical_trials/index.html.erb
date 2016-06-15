@@ -1,0 +1,148 @@
+<p id="notice"><%= notice %></p>
+
+<h1>All Cancer Clinical Trials from ClinicalTrials.gov</h1>
+<p><em>Below is just a sample of data, many more parameters have been collected than those listed below</em></p>
+
+<%= will_paginate %>
+
+<table>
+  <thead>
+    <tr>
+<!--       <th>Org study</th>
+      <th>Secondary</th> -->
+      <th>Nct</th>
+<!--       <th>Nct alias</th> -->
+      <th>Brief title</th>
+<!--       <th>Official title</th>
+      <th>Lead sponsor name</th>
+      <th>Lead sponsor class</th> -->
+      <th>Brief summary</th>
+<!--       <th>Detailed description</th>
+      <th>Overall status</th>
+      <th>Start date</th> -->
+<!--       <th>Phase</th> -->
+<!--       <th>Study type</th>
+      <th>Study design</th>
+      <th>Primary outcome measure</th>
+      <th>Primary outcome time frame</th>
+      <th>Primary outcome safety issue</th>
+      <th>Secondary outcome measure</th>
+      <th>Secondary outcome time frame</th>
+      <th>Secondary outcome safety issue</th>
+      <th>Number of groups</th> -->
+<!--       <th>Enrollment type</th> -->
+<!--       <th>Enrollment number</th>
+      <th>Condition</th>
+      <th>Arm group label</th>
+      <th>Arm group description</th>
+      <th>Biospec description</th> 
+      <th>Eligibility</th>
+      <th>Sampling method</th>
+      <th>Criteria</th>
+      <th>Gender</th> -->
+<!--       <th>Minimum age</th>
+      <th>Maximum age</th> -->
+<!--       <th>Healthy volunteers</th>
+      <th>Overall official name</th>
+      <th>Overall official role</th>
+      <th>Overall official affiliation</th>
+      <th>Overall contact name</th>
+      <th>Overall contact phone</th>
+      <th>Overall contact email</th>
+      <th>Overall contact backup name</th>
+      <th>Overall contact backup phone</th>
+      <th>Overall contact backup email</th>
+      <th>Location name</th>
+      <th>Location city</th>
+      <th>Location state</th>
+      <th>Location zip</th>
+      <th>Location country</th>
+      <th>Results reference citation</th>
+      <th>Results reference pmid</th>
+      <th>Verification date</th>
+      <th>Lastchanged date</th>
+      <th>Firstreceived date</th>
+      <th>Responsible party type</th>
+      <th>Keyword</th>
+      <th>Is fda regulated</th>
+      <th>Has expanded access</th>
+      <th>Condition browse mesh term</th> -->
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @c_clinical_trials.each do |c_clinical_trial| %>
+      <tr>
+<!--         <td><%= c_clinical_trial.org_study_id %></td>
+        <td><%= c_clinical_trial.secondary_id %></td> -->
+        <td><%= c_clinical_trial.nct_id %></td>
+<!--         <td><%= c_clinical_trial.nct_alias %></td> -->
+        <td><%= c_clinical_trial.brief_title %></td>
+<!--         <td><%= c_clinical_trial.official_title %></td>
+        <td><%= c_clinical_trial.lead_sponsor_name %></td>
+        <td><%= c_clinical_trial.lead_sponsor_class %></td> -->
+        <td><%= c_clinical_trial.brief_summary %></td>
+<!--         <td><%= c_clinical_trial.detailed_description %></td>
+        <td><%= c_clinical_trial.overall_status %></td>
+        <td><%= c_clinical_trial.start_date %></td>
+        <td><%= c_clinical_trial.phase %></td>
+        <td><%= c_clinical_trial.study_type %></td>
+        <td><%= c_clinical_trial.study_design %></td>
+        <td><%= c_clinical_trial.primary_outcome_measure %></td>
+        <td><%= c_clinical_trial.primary_outcome_time_frame %></td>
+        <td><%= c_clinical_trial.primary_outcome_safety_issue %></td>
+        <td><%= c_clinical_trial.secondary_outcome_measure %></td>
+        <td><%= c_clinical_trial.secondary_outcome_time_frame %></td>
+        <td><%= c_clinical_trial.secondary_outcome_safety_issue %></td>
+        <td><%= c_clinical_trial.number_of_groups %></td> -->
+<!--         <td><%= c_clinical_trial.enrollment_type %></td> -->
+<!--         <td><%= c_clinical_trial.enrollment_number %></td>
+        <td><%= c_clinical_trial.condition %></td>
+        <td><%= c_clinical_trial.arm_group_label %></td>
+        <td><%= c_clinical_trial.arm_group_description %></td>
+        <td><%= c_clinical_trial.biospec_description %></td>
+        <td><%= c_clinical_trial.eligibility %></td>
+        <td><%= c_clinical_trial.sampling_method %></td>
+        <td><%= c_clinical_trial.criteria %></td>
+        <td><%= c_clinical_trial.gender %></td> -->
+<!--         <td><%= c_clinical_trial.minimum_age %></td>
+        <td><%= c_clinical_trial.maximum_age %></td> -->
+<!--         <td><%= c_clinical_trial.healthy_volunteers %></td>
+        <td><%= c_clinical_trial.overall_official_name %></td>
+        <td><%= c_clinical_trial.overall_official_role %></td>
+        <td><%= c_clinical_trial.overall_official_affiliation %></td>
+        <td><%= c_clinical_trial.overall_contact_name %></td>
+        <td><%= c_clinical_trial.overall_contact_phone %></td>
+        <td><%= c_clinical_trial.overall_contact_email %></td>
+        <td><%= c_clinical_trial.overall_contact_backup_name %></td>
+        <td><%= c_clinical_trial.overall_contact_backup_phone %></td>
+        <td><%= c_clinical_trial.overall_contact_backup_email %></td>
+        <td><%= c_clinical_trial.location_name %></td>
+        <td><%= c_clinical_trial.location_city %></td>
+        <td><%= c_clinical_trial.location_state %></td>
+        <td><%= c_clinical_trial.location_zip %></td>
+        <td><%= c_clinical_trial.location_country %></td>
+        <td><%= c_clinical_trial.results_reference_citation %></td>
+        <td><%= c_clinical_trial.results_reference_PMID %></td>
+        <td><%= c_clinical_trial.verification_date %></td>
+        <td><%= c_clinical_trial.lastchanged_date %></td>
+        <td><%= c_clinical_trial.firstreceived_date %></td>
+        <td><%= c_clinical_trial.responsible_party_type %></td>
+        <td><%= c_clinical_trial.keyword %></td>
+        <td><%= c_clinical_trial.is_fda_regulated %></td>
+        <td><%= c_clinical_trial.has_expanded_access %></td>
+        <td><%= c_clinical_trial.condition_browse_mesh_term %></td>
+        <td><%= link_to 'Show', c_clinical_trial %></td>
+        <td><%= link_to 'Edit', edit_c_clinical_trial_path(c_clinical_trial) %></td>
+        <td><%= link_to 'Destroy', c_clinical_trial, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= will_paginate %>
+
+<br>
+
+<!-- <%= link_to 'New C clinical trial', new_c_clinical_trial_path %> -->

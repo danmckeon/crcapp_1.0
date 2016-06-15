@@ -1,0 +1,253 @@
+<%= form_for(@c_clinical_trial) do |f| %>
+  <% if @c_clinical_trial.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@c_clinical_trial.errors.count, "error") %> prohibited this c_clinical_trial from being saved:</h2>
+
+      <ul>
+      <% @c_clinical_trial.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :org_study_id %><br>
+    <%= f.text_field :org_study_id %>
+  </div>
+  <div class="field">
+    <%= f.label :secondary_id %><br>
+    <%= f.text_field :secondary_id %>
+  </div>
+  <div class="field">
+    <%= f.label :nct_id %><br>
+    <%= f.text_field :nct_id %>
+  </div>
+  <div class="field">
+    <%= f.label :nct_alias %><br>
+    <%= f.text_field :nct_alias %>
+  </div>
+  <div class="field">
+    <%= f.label :brief_title %><br>
+    <%= f.text_field :brief_title %>
+  </div>
+  <div class="field">
+    <%= f.label :official_title %><br>
+    <%= f.text_field :official_title %>
+  </div>
+  <div class="field">
+    <%= f.label :lead_sponsor_name %><br>
+    <%= f.text_field :lead_sponsor_name %>
+  </div>
+  <div class="field">
+    <%= f.label :lead_sponsor_class %><br>
+    <%= f.text_field :lead_sponsor_class %>
+  </div>
+  <div class="field">
+    <%= f.label :brief_summary %><br>
+    <%= f.text_field :brief_summary %>
+  </div>
+  <div class="field">
+    <%= f.label :detailed_description %><br>
+    <%= f.text_field :detailed_description %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_status %><br>
+    <%= f.text_field :overall_status %>
+  </div>
+  <div class="field">
+    <%= f.label :start_date %><br>
+    <%= f.text_field :start_date %>
+  </div>
+  <div class="field">
+    <%= f.label :phase %><br>
+    <%= f.text_field :phase %>
+  </div>
+  <div class="field">
+    <%= f.label :study_type %><br>
+    <%= f.text_field :study_type %>
+  </div>
+  <div class="field">
+    <%= f.label :study_design %><br>
+    <%= f.text_field :study_design %>
+  </div>
+  <div class="field">
+    <%= f.label :primary_outcome_measure %><br>
+    <%= f.text_field :primary_outcome_measure %>
+  </div>
+  <div class="field">
+    <%= f.label :primary_outcome_time_frame %><br>
+    <%= f.text_field :primary_outcome_time_frame %>
+  </div>
+  <div class="field">
+    <%= f.label :primary_outcome_safety_issue %><br>
+    <%= f.text_field :primary_outcome_safety_issue %>
+  </div>
+  <div class="field">
+    <%= f.label :secondary_outcome_measure %><br>
+    <%= f.text_field :secondary_outcome_measure %>
+  </div>
+  <div class="field">
+    <%= f.label :secondary_outcome_time_frame %><br>
+    <%= f.text_field :secondary_outcome_time_frame %>
+  </div>
+  <div class="field">
+    <%= f.label :secondary_outcome_safety_issue %><br>
+    <%= f.text_field :secondary_outcome_safety_issue %>
+  </div>
+  <div class="field">
+    <%= f.label :number_of_groups %><br>
+    <%= f.number_field :number_of_groups %>
+  </div>
+  <div class="field">
+    <%= f.label :enrollment_type %><br>
+    <%= f.text_field :enrollment_type %>
+  </div>
+  <div class="field">
+    <%= f.label :enrollment_number %><br>
+    <%= f.number_field :enrollment_number %>
+  </div>
+  <div class="field">
+    <%= f.label :condition %><br>
+    <%= f.text_field :condition %>
+  </div>
+  <div class="field">
+    <%= f.label :arm_group_label %><br>
+    <%= f.text_field :arm_group_label %>
+  </div>
+  <div class="field">
+    <%= f.label :arm_group_description %><br>
+    <%= f.text_field :arm_group_description %>
+  </div>
+  <div class="field">
+    <%= f.label :biospec_description %><br>
+    <%= f.text_field :biospec_description %>
+  </div>
+  <div class="field">
+    <%= f.label :eligibility %><br>
+    <%= f.text_field :eligibility %>
+  </div>
+  <div class="field">
+    <%= f.label :sampling_method %><br>
+    <%= f.text_field :sampling_method %>
+  </div>
+  <div class="field">
+    <%= f.label :criteria %><br>
+    <%= f.text_field :criteria %>
+  </div>
+  <div class="field">
+    <%= f.label :gender %><br>
+    <%= f.text_field :gender %>
+  </div>
+  <div class="field">
+    <%= f.label :minimum_age %><br>
+    <%= f.text_field :minimum_age %>
+  </div>
+  <div class="field">
+    <%= f.label :maximum_age %><br>
+    <%= f.text_field :maximum_age %>
+  </div>
+  <div class="field">
+    <%= f.label :healthy_volunteers %><br>
+    <%= f.text_field :healthy_volunteers %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_official_name %><br>
+    <%= f.text_field :overall_official_name %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_official_role %><br>
+    <%= f.text_field :overall_official_role %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_official_affiliation %><br>
+    <%= f.text_field :overall_official_affiliation %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_name %><br>
+    <%= f.text_field :overall_contact_name %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_phone %><br>
+    <%= f.text_field :overall_contact_phone %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_email %><br>
+    <%= f.text_field :overall_contact_email %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_backup_name %><br>
+    <%= f.text_field :overall_contact_backup_name %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_backup_phone %><br>
+    <%= f.text_field :overall_contact_backup_phone %>
+  </div>
+  <div class="field">
+    <%= f.label :overall_contact_backup_email %><br>
+    <%= f.text_field :overall_contact_backup_email %>
+  </div>
+  <div class="field">
+    <%= f.label :location_name %><br>
+    <%= f.text_field :location_name %>
+  </div>
+  <div class="field">
+    <%= f.label :location_city %><br>
+    <%= f.text_field :location_city %>
+  </div>
+  <div class="field">
+    <%= f.label :location_state %><br>
+    <%= f.text_field :location_state %>
+  </div>
+  <div class="field">
+    <%= f.label :location_zip %><br>
+    <%= f.text_field :location_zip %>
+  </div>
+  <div class="field">
+    <%= f.label :location_country %><br>
+    <%= f.text_field :location_country %>
+  </div>
+  <div class="field">
+    <%= f.label :results_reference_citation %><br>
+    <%= f.text_field :results_reference_citation %>
+  </div>
+  <div class="field">
+    <%= f.label :results_reference_PMID %><br>
+    <%= f.number_field :results_reference_PMID %>
+  </div>
+  <div class="field">
+    <%= f.label :verification_date %><br>
+    <%= f.text_field :verification_date %>
+  </div>
+  <div class="field">
+    <%= f.label :lastchanged_date %><br>
+    <%= f.text_field :lastchanged_date %>
+  </div>
+  <div class="field">
+    <%= f.label :firstreceived_date %><br>
+    <%= f.text_field :firstreceived_date %>
+  </div>
+  <div class="field">
+    <%= f.label :responsible_party_type %><br>
+    <%= f.text_field :responsible_party_type %>
+  </div>
+  <div class="field">
+    <%= f.label :keyword %><br>
+    <%= f.text_field :keyword %>
+  </div>
+  <div class="field">
+    <%= f.label :is_fda_regulated %><br>
+    <%= f.text_field :is_fda_regulated %>
+  </div>
+  <div class="field">
+    <%= f.label :has_expanded_access %><br>
+    <%= f.text_field :has_expanded_access %>
+  </div>
+  <div class="field">
+    <%= f.label :condition_browse_mesh_term %><br>
+    <%= f.text_field :condition_browse_mesh_term %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
