@@ -66,3 +66,6 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#Remove all those pesky Zip and XMLs
+/lib/data/*
