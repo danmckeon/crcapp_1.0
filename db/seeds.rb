@@ -74,7 +74,7 @@ public
     @parsed_file[:minimum_age] = file_to_parse.xpath("//eligibility//minimum_age").text
     @parsed_file[:maximum_age] = file_to_parse.xpath("//eligibility//maximum_age").text
     @parsed_file[:healthy_volunteers] = file_to_parse.xpath("//eligibility//healthy_volunteers").text
-    # TODO: REMOVE ALL COLUMNS WITHE NAME, ROLE, AFFILIATION...
+    # TODO: REMOVE ALL COLUMNS WITH NAME, ROLE, AFFILIATION...
     #TODO: ADD COLUMNS FOR OVERALL_OFFICIAL, OVERALL_CONTACT, OVERALL_CONTACT_BACKUP, CONTACT, CONTACT_BACKUP
     @parsed_file[:overall_official_name] = file_to_parse.xpath("//overall_official//last_name").text # TODO: Ensure last_name is bringing up full name for all studies
     @parsed_file[:overall_official_role] = file_to_parse.xpath("//overall_official//role").text
@@ -83,14 +83,16 @@ public
     @parsed_file[:overall_contact_phone] = file_to_parse.xpath("//overall_contact//phone").text
     @parsed_file[:overall_contact_email] = file_to_parse.xpath("//overall_contact//email").text
     @parsed_file[:overall_contact_backup_name] = file_to_parse.xpath("//overall_contact_backup").text # See what happens with just this
-#    @parsed_file[:overall_contact_backup_phone] = file_to_parse.xpath("//overall_contact//phone").text
-#    @parsed_file[:overall_contact_backup_email] = file_to_parse.xpath("//overall_contact//email").text
+    @parsed_file[:overall_contact_backup_phone] = file_to_parse.xpath("//overall_contact//phone").text
+    @parsed_file[:overall_contact_backup_email] = file_to_parse.xpath("//overall_contact//email").text
     @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").text
     @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").text
     @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").text
     @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").text
     @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").text
-    # Find file with results to add results reference citation and PMID
+    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").text
+    @parsed_file[:results_reference_citation] = file_to_parse.xpath("//results_reference//citation").text
+    @parsed_file[:results_reference_PMID] = file_to_parse.xpath("//results_reference//pmid").text
     @parsed_file[:verification_date] = file_to_parse.xpath("//verification_date").text
     @parsed_file[:lastchanged_date] = file_to_parse.xpath("//lastchanged_date").text
     @parsed_file[:firstreceived_date] = file_to_parse.xpath("//firstreceived_date").text
