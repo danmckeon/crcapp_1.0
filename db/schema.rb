@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160615230121) do
+ActiveRecord::Schema.define(version: 20160615233701) do
 
   create_table "c_clinical_trials", force: :cascade do |t|
     t.string   "org_study_id"
@@ -47,15 +47,6 @@ ActiveRecord::Schema.define(version: 20160615230121) do
     t.string   "minimum_age"
     t.string   "maximum_age"
     t.string   "healthy_volunteers"
-    t.string   "overall_official_name"
-    t.string   "overall_official_role"
-    t.string   "overall_official_affiliation"
-    t.string   "overall_contact_name"
-    t.string   "overall_contact_phone"
-    t.string   "overall_contact_email"
-    t.string   "overall_contact_backup_name"
-    t.string   "overall_contact_backup_phone"
-    t.string   "overall_contact_backup_email"
     t.string   "location_name"
     t.string   "location_city"
     t.string   "location_state"
@@ -73,6 +64,11 @@ ActiveRecord::Schema.define(version: 20160615230121) do
     t.string   "condition_browse_mesh_term"
     t.datetime "created_at",                     null: false
     t.datetime "updated_at",                     null: false
+    t.string   "overall_official"
+    t.string   "contact"
+    t.string   "contact_backup"
+    t.string   "overall_contact"
+    t.string   "overall_contact_backup"
   end
 
   create_table "clinical_trials", force: :cascade do |t|

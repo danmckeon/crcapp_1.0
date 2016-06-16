@@ -3,7 +3,7 @@
 <h1>All Cancer Clinical Trials from ClinicalTrials.gov</h1>
 <p><em>Below is just a sample of data, many more parameters have been collected than those listed below</em></p>
 
-<%= will_paginate %>
+<%= will_paginate %> 
 
 <table>
   <thead>
@@ -19,9 +19,9 @@
       <th>Brief Summary</th>
 <!--       <th>Detailed description</th>
       <th>Overall status</th>
-      <th>Start date</th> -->
-<!--       <th>Phase</th> -->
-<!--       <th>Study type</th>
+      <th>Start date</th>
+      <th>Phase</th>
+      <th>Study type</th>
       <th>Study design</th>
       <th>Primary outcome measure</th>
       <th>Primary outcome time frame</th>
@@ -29,27 +29,23 @@
       <th>Secondary outcome measure</th>
       <th>Secondary outcome time frame</th>
       <th>Secondary outcome safety issue</th>
-      <th>Number of groups</th> -->
-<!--       <th>Enrollment number</th>
+      <th>Number of groups</th>
+      <th>Enrollment number</th> -->
       <th>Condition</th>
-      <th>Arm group label</th>
-      <th>Arm group description</th> 
+<!--      <th>Arm group label</th>
+      <th>Arm group description</th> --> 
       <th>Eligibility</th>
-      <th>Sampling method</th>
+<!--      <th>Sampling method</th>
       <th>Criteria</th>
-      <th>Gender</th> -->
-<!--       <th>Minimum age</th>
-      <th>Maximum age</th> -->
-<!--       <th>Healthy volunteers</th>
-      <th>Overall official name</th>
-      <th>Overall official role</th>
-      <th>Overall official affiliation</th>
-      <th>Overall contact name</th>
-      <th>Overall contact phone</th>
-      <th>Overall contact email</th> -->
-      <th>Overall contact backup name</th>
-<!--      <th>Overall contact backup phone</th>
-      <th>Overall contact backup email</th>
+      <th>Gender</th> 
+      <th>Minimum age</th>
+      <th>Maximum age</th>
+      <th>Healthy volunteers</th>
+      <th>Overall Official</th>
+      <th>Overall Contact</th>
+      <th>Overall Contact Backup</th>
+      <th>Contact</th>
+      <th>Contact Backup</th>
       <th>Location name</th>
       <th>Location city</th>
       <th>Location state</th>
@@ -93,27 +89,23 @@
         <td><%= c_clinical_trial.secondary_outcome_measure %></td>
         <td><%= c_clinical_trial.secondary_outcome_time_frame %></td>
         <td><%= c_clinical_trial.secondary_outcome_safety_issue %></td>
-        <td><%= c_clinical_trial.number_of_groups %></td> -->
-<!--         <td><%= c_clinical_trial.enrollment_number %></td>
+        <td><%= c_clinical_trial.number_of_groups %></td> 
+        <td><%= c_clinical_trial.enrollment_number %></td> -->
         <td><%= c_clinical_trial.condition %></td>
-        <td><%= c_clinical_trial.arm_group_label %></td>
-        <td><%= c_clinical_trial.arm_group_description %></td>
+<!--        <td><%= c_clinical_trial.arm_group_label %></td>
+        <td><%= c_clinical_trial.arm_group_description %></td> -->
         <td><%= c_clinical_trial.eligibility %></td>
-        <td><%= c_clinical_trial.sampling_method %></td>
+<!--        <td><%= c_clinical_trial.sampling_method %></td>
         <td><%= c_clinical_trial.criteria %></td>
-        <td><%= c_clinical_trial.gender %></td> -->
-<!--         <td><%= c_clinical_trial.minimum_age %></td>
-        <td><%= c_clinical_trial.maximum_age %></td> -->
-<!--         <td><%= c_clinical_trial.healthy_volunteers %></td>
-        <td><%= c_clinical_trial.overall_official_name %></td>
-        <td><%= c_clinical_trial.overall_official_role %></td>
-        <td><%= c_clinical_trial.overall_official_affiliation %></td>
-        <td><%= c_clinical_trial.overall_contact_name %></td>
-        <td><%= c_clinical_trial.overall_contact_phone %></td>
-        <td><%= c_clinical_trial.overall_contact_email %></td> -->
-        <td><%= c_clinical_trial.overall_contact_backup_name %></td>
-<!--        <td><%= c_clinical_trial.overall_contact_backup_phone %></td>
-        <td><%= c_clinical_trial.overall_contact_backup_email %></td>
+        <td><%= c_clinical_trial.gender %></td> 
+        <td><%= c_clinical_trial.minimum_age %></td>
+        <td><%= c_clinical_trial.maximum_age %></td>
+        <td><%= c_clinical_trial.healthy_volunteers %></td>
+        <td><%= c_clinical_trial.overall_official %></td>
+        <td><%= c_clinical_trial.overall_contact %></td>
+        <td><%= c_clinical_trial.overall_contact_backup %></td>
+        <td><%= c_clinical_trial.contact %></td>
+        <td><%= c_clinical_trial.contact_backup %></td>
         <td><%= c_clinical_trial.location_name %></td>
         <td><%= c_clinical_trial.location_city %></td>
         <td><%= c_clinical_trial.location_state %></td>
@@ -137,7 +129,7 @@
   </tbody>
 </table>
 
-<%= will_paginate %>
+ <%= will_paginate %>
 
 <br>
 

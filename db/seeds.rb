@@ -67,22 +67,15 @@ public
     @parsed_file[:condition] = file_to_parse.xpath("//condition").text
     @parsed_file[:arm_group_label] = file_to_parse.xpath("//arm_group//arm_group_label").text
     @parsed_file[:arm_group_description] = file_to_parse.xpath("//arm_group//description").text  
-    @parsed_file[:criteria] = file_to_parse.xpath("//eligibility//criteria//textblock").text
+    @parsed_file[:eligibility] = file_to_parse.xpath("//eligibility//criteria//textblock").text
     @parsed_file[:gender] = file_to_parse.xpath("//eligibility//gender").text
     @parsed_file[:minimum_age] = file_to_parse.xpath("//eligibility//minimum_age").text
     @parsed_file[:maximum_age] = file_to_parse.xpath("//eligibility//maximum_age").text
-    @parsed_file[:healthy_volunteers] = file_to_parse.xpath("//eligibility//healthy_volunteers").text
-    # TODO: REMOVE ALL COLUMNS WITH NAME, ROLE, AFFILIATION...
-    #TODO: ADD COLUMNS FOR OVERALL_OFFICIAL, OVERALL_CONTACT, OVERALL_CONTACT_BACKUP, CONTACT, CONTACT_BACKUP
-    @parsed_file[:overall_official_name] = file_to_parse.xpath("//overall_official//last_name").text # TODO: Ensure last_name is bringing up full name for all studies
-    @parsed_file[:overall_official_role] = file_to_parse.xpath("//overall_official//role").text
-    @parsed_file[:overall_official_affiliation] = file_to_parse.xpath("//overall_official//affiliation").text
-    @parsed_file[:overall_contact_name] = file_to_parse.xpath("//overall_contact//last_name").text
-    @parsed_file[:overall_contact_phone] = file_to_parse.xpath("//overall_contact//phone").text
-    @parsed_file[:overall_contact_email] = file_to_parse.xpath("//overall_contact//email").text
-    @parsed_file[:overall_contact_backup_name] = file_to_parse.xpath("//overall_contact_backup").text # See what happens with just this
-    @parsed_file[:overall_contact_backup_phone] = file_to_parse.xpath("//overall_contact//phone").text
-    @parsed_file[:overall_contact_backup_email] = file_to_parse.xpath("//overall_contact//email").text
+    @parsed_file[:overall_official] = file_to_parse.xpath("//overall_official").text 
+    @parsed_file[:overall_contact] = file_to_parse.xpath("//overall_contact").text
+    @parsed_file[:overall_contact_backup] = file_to_parse.xpath("//overall_contact_backup").text
+    @parsed_file[:contact] = file_to_parse.xpath("//contact").text
+    @parsed_file[:contact_backup] = file_to_parse.xpath("//contact_backup").text
     @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").text
     @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").text
     @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").text
