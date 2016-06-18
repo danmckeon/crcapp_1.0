@@ -100,6 +100,7 @@ public
 
 SHORT_SAMPLE_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=hand+cancer&studyxml=true"
 LONGER_SAMPLE_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=mouth+cancer&studyxml=true"
+LUNG_CANCER_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=lung+cancer&studyxml=true"
 FULL_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&studyxml=true"
 
 # Assign variables
@@ -114,7 +115,7 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
 
-download_zip_file(LONGER_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+download_zip_file(LUNG_CANCER_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
 
 # FileUtils.destroy_all #Trying to clear cache
