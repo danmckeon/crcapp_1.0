@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616002313) do
+ActiveRecord::Schema.define(version: 20160616002927) do
 
   create_table "c_clinical_trials", force: :cascade do |t|
     t.string   "org_study_id"
@@ -69,6 +69,8 @@ ActiveRecord::Schema.define(version: 20160616002313) do
     t.string   "contact_backup"
     t.string   "overall_contact"
     t.string   "overall_contact_backup"
+    t.integer  "age_minimum_int"
+    t.integer  "age_maximum_int"
   end
 
   create_table "users", force: :cascade do |t|
