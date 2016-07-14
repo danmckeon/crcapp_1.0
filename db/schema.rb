@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616002927) do
+ActiveRecord::Schema.define(version: 20160623215619) do
 
   create_table "c_clinical_trials", force: :cascade do |t|
     t.string   "org_study_id"

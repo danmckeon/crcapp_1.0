@@ -33,8 +33,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'fileutils'
 # For unzipping file
 gem 'rubyzip'
-
+# For password protection while in production mode
 gem 'rack-wwwhisper', '~> 1.0'
+# For calculating distance from zip code to clinical trial site
+gem 'geokit'
+
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby

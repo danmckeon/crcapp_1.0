@@ -1,10 +1,3 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
-#
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
 require 'rubygems'
 require 'rails'
 require 'net/http'
@@ -16,8 +9,9 @@ require 'nokogiri'
 public
 
   def assign_parent_dir_name
-    timestamp = Time.now.to_i.to_s
-    parent_dir_name = "CTDOTGOV_UPLOAD_" + timestamp
+#    timestamp = Time.now.to_i.to_s
+#    parent_dir_name = "CTDOTGOV_UPLOAD_" + timestamp
+    parent_dir_name = "CTDOTGOV_UPLOAD_1465941648" # Toggle this row comment and 2 rows above with internet connection
     return parent_dir_name
   end
 
@@ -76,8 +70,10 @@ public
     @parsed_file[:overall_contact_backup] = file_to_parse.xpath("//overall_contact_backup").text
     @parsed_file[:contact] = file_to_parse.xpath("//contact").text
     @parsed_file[:contact_backup] = file_to_parse.xpath("//contact_backup").text
-    @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").text
-    @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").text
+    location_array_xml = Array.new
+    location_array_xml = file_to_parse.xpath("//location//facility")
+    @parsed_file[:location_name] = find_location_data(location_array_xml, "name")
+    @parsed_file[:location_city] = location_array[1]
     @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").text
     @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").text
     @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").text
@@ -92,10 +88,40 @@ public
     @parsed_file[:is_fda_regulated] = file_to_parse.xpath("//is_fda_regulated").text
     @parsed_file[:has_expanded_access] = file_to_parse.xpath("//has_expanded_access").text
     @parsed_file[:condition_browse_mesh_term] = file_to_parse.xpath("//condition_browse//mesh_term").text
+    @parsed_file[:age_minimum_int] = calculate_min_age_int(@parsed_file[:minimum_age])
+    @parsed_file[:age_maximum_int] = calculate_max_age_int(@parsed_file[:maximum_age])
     return @parsed_file
   end
 
+def find_location_data(location_array_xml, tag)
+  location_array_string = Array.new
+  startTag = "<" + tag + ">"
+  location_array_xml.each do |x|
+    location_array_string[:name] = 
 
+end
+
+
+
+def calculate_min_age_int(min_age_string)
+  min_age_string_array = min_age_string.split(' ')
+  if min_age_string_array[1] == "Years"
+    age_minimum_int = min_age_string_array[0].to_i
+  else
+    age_minimum_int = 0
+  end
+  return age_minimum_int
+end
+
+def calculate_max_age_int(max_age_string)
+  max_age_string_array = max_age_string.split(' ')
+  if max_age_string_array[1] == "Years"
+    age_maximum_int = max_age_string_array[0].to_i
+  else
+    age_maximum_int = 150
+  end
+  return age_maximum_int
+end
 
 
 SHORT_SAMPLE_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=hand+cancer&studyxml=true"
@@ -113,9 +139,11 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 # Run methods
 
-create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
+# Toggle comment on two lines below with internet connection
 
-download_zip_file(LUNG_CANCER_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+#create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
+
+#download_zip_file(SHORT_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
 
 # FileUtils.destroy_all #Trying to clear cache

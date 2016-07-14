@@ -45,13 +45,13 @@
       <th>Overall Contact</th>
       <th>Overall Contact Backup</th>
       <th>Contact</th>
-      <th>Contact Backup</th>
+      <th>Contact Backup</th> -->
       <th>Location name</th>
       <th>Location city</th>
       <th>Location state</th>
       <th>Location zip</th>
       <th>Location country</th>
-      <th>Results reference citation</th>
+<!--      <th>Results reference citation</th>
       <th>Results reference pmid</th>
       <th>Verification date</th>
       <th>Lastchanged date</th>
@@ -61,6 +61,8 @@
       <th>Is fda regulated</th>
       <th>Has expanded access</th>
       <th>Condition browse mesh term</th> -->
+      <th>Minimum Age_Int</th>
+      <th>Maximum Age_Int</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -105,13 +107,13 @@
         <td><%= c_clinical_trial.overall_contact %></td>
         <td><%= c_clinical_trial.overall_contact_backup %></td>
         <td><%= c_clinical_trial.contact %></td>
-        <td><%= c_clinical_trial.contact_backup %></td>
+        <td><%= c_clinical_trial.contact_backup %></td> -->
         <td><%= c_clinical_trial.location_name %></td>
         <td><%= c_clinical_trial.location_city %></td>
         <td><%= c_clinical_trial.location_state %></td>
         <td><%= c_clinical_trial.location_zip %></td>
         <td><%= c_clinical_trial.location_country %></td>
-        <td><%= c_clinical_trial.results_reference_citation %></td>
+<!--        <td><%= c_clinical_trial.results_reference_citation %></td>
         <td><%= c_clinical_trial.results_reference_PMID %></td>
         <td><%= c_clinical_trial.verification_date %></td>
         <td><%= c_clinical_trial.lastchanged_date %></td>
@@ -124,6 +126,8 @@
         <td><%= link_to 'Show', c_clinical_trial %></td>
         <td><%= link_to 'Edit', edit_c_clinical_trial_path(c_clinical_trial) %></td>
         <td><%= link_to 'Destroy', c_clinical_trial, method: :delete, data: { confirm: 'Are you sure?' } %></td> -->
+        <td><%= c_clinical_trial.age_minimum_int %></td>
+        <td><%= c_clinical_trial.age_maximum_int %></td>
       </tr>
     <% end %>
   </tbody>
