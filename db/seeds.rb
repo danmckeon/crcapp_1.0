@@ -9,9 +9,9 @@ require 'nokogiri'
 public
 
   def assign_parent_dir_name
-#    timestamp = Time.now.to_i.to_s
-#    parent_dir_name = "CTDOTGOV_UPLOAD_" + timestamp
-    parent_dir_name = "CTDOTGOV_UPLOAD_1465941648" # Toggle this row comment and 2 rows above with internet connection
+    timestamp = Time.now.to_i.to_s
+    parent_dir_name = "CTDOTGOV_UPLOAD_" + timestamp
+#    parent_dir_name = "CTDOTGOV_UPLOAD_1465941648" # Toggle this row comment and 2 rows above with internet connection
     return parent_dir_name
   end
 
@@ -70,14 +70,12 @@ public
     @parsed_file[:overall_contact_backup] = file_to_parse.xpath("//overall_contact_backup").text
     @parsed_file[:contact] = file_to_parse.xpath("//contact").text
     @parsed_file[:contact_backup] = file_to_parse.xpath("//contact_backup").text
-    location_array_xml = Array.new
-    location_array_xml = file_to_parse.xpath("//location//facility")
-    @parsed_file[:location_name] = find_location_data(location_array_xml, "name")
-    @parsed_file[:location_city] = location_array[1]
-    @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").text
-    @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").text
-    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").text
-    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").text
+#    location_array_xml = file_to_parse.xpath("//location//facility").text
+    @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").map{ |name| name.text }
+    @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").map{ |city| city.text }
+    @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").map{ |state| state.text }
+    @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").map{ |zip| zip.text }
+    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").map{ |country| country.text }
     @parsed_file[:results_reference_citation] = file_to_parse.xpath("//results_reference//citation").text
     @parsed_file[:results_reference_PMID] = file_to_parse.xpath("//results_reference//pmid").text
     @parsed_file[:verification_date] = file_to_parse.xpath("//verification_date").text
@@ -93,13 +91,9 @@ public
     return @parsed_file
   end
 
-def find_location_data(location_array_xml, tag)
-  location_array_string = Array.new
-  startTag = "<" + tag + ">"
-  location_array_xml.each do |x|
-    location_array_string[:name] = 
-
-end
+# def find_location_name(location_array_xml)
+#   location_name_array = /^.+name>(.+)<.+$/.match(location_array_xml)
+# end
 
 
 
@@ -141,13 +135,10 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 # Toggle comment on two lines below with internet connection
 
-#create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
+create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
 
-#download_zip_file(SHORT_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+download_zip_file(SHORT_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
-
-# FileUtils.destroy_all #Trying to clear cache
-#Zip.destroy_all #Trying to clear cache
 CClinicalTrial.destroy_all # Clear database
 
 # Parse XML files

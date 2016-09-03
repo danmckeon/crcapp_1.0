@@ -1,7 +1,9 @@
-@import "bootstrap-sprockets";
+/* @import "bootstrap-sprockets";
 @import "bootstrap";
-
+*/
 /* mixins, variables, etc. */
+
+/*
 
 $gray-medium-light: #eaeaea;
 
@@ -11,7 +13,11 @@ $gray-medium-light: #eaeaea;
   box-sizing:         border-box;
 }
 
+*/
+
 /* universal */
+
+/*
 
 body {
   padding-top: 60px;
@@ -32,7 +38,11 @@ textarea {
   }
 }
 
+*/
+
 /* typography */
+
+/*
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
@@ -59,8 +69,11 @@ p {
   line-height: 1.7em;
 }
 
+*/
 
 /* header */
+
+/*
 
 #logo {
   float: left;
@@ -77,7 +90,11 @@ p {
   }
 }
 
+*/
+
 /* footer */
+
+/*
 
 footer {
   margin-top: 45px;
@@ -102,6 +119,8 @@ footer {
     }
   }
 }
+
+*/
 
 /* table */
 table { 
@@ -141,6 +160,8 @@ tr:nth-child(odd) td { background: #FEFEFE; }
 
 /* miscellaneous */
 
+/*
+
 .debug_dump {
   clear: both;
   float: left;
@@ -149,7 +170,11 @@ tr:nth-child(odd) td { background: #FEFEFE; }
   @include box_sizing;
 }
 
+*/
+
 /* sidebar */
+
+/*
 
 aside {
   section.user_info {
@@ -186,7 +211,11 @@ aside {
   margin-top: 15px;
 }
 
+*/
+
 /* forms */
+
+/*
 
 input, textarea, select, .uneditable-input {
   border: 1px solid #bbb;
@@ -227,3 +256,6 @@ input {
   width: auto;
   margin-left: 0;
 }
+
+*/
+
