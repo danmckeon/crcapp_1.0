@@ -3,12 +3,25 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
 
-<div class="clinical_trial_search">
-  <div class="clinical_trial_search_container">
-    <h1>Clinical Trial Search</h1>
-  </div>
+<div class = "header">
+
+<!--/*  <%= link_to image_tag("logo_crc.png"), root_path, :class => "logo" %> -->
 </div>
 
+<div class="clinical_trial_search_section">
+  <h1>Clinical Trial Search</h1>
+  <div class="clinical_trial_search_horizontal_separator">
+  </div>
+  <p class="clinical_trial_search_text">
+    Our mission is to provide the best possible options for anyone diagnosed with cancer. Review the most up-to-date information for cancer clinical trials and find in our network which trial could represent the best care available for you.
+  </p>
+  <div class="clinical_trial_search_box">
+    <p class="fpo_clinical_trial_text">
+      FPO: <br> Clinical Trial Search Parameters <br> To Be Inserted Here
+    </p>
+  </div>
+</div>
+<div>
   <%= link_to "Sign up now!", signup_path %>
   <%= link_to "Show Clinical Trial Data", clinicaltrials_path %>
 </div>

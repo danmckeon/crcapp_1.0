@@ -1,3 +1,14 @@
+/* TODO
+
+Format header
+Get logo to only occupy the height in the header
+Format links on nav bar
+
+*/
+
+
+
+
 /* mixins, variables, etc. */
 
 /* universal */
@@ -8,33 +19,86 @@
 h1 {
   font-family: "trajan-pro-3",sans-serif;
   color: white;
-  font-size:7vw;
-  font-weight:400;
-  line-height:73px;
+  font-size:6vw;
+  font-weight:normal;
+  line-height:6vw; 
   position: absolute; 
-  top: 200px; 
-  left: 0; 
-  width: 100%; 
+  top:.19 * 40.9956vw; 
+  left:11.8vw; 
+  width: 30%;
 }
+
 
 /* header */
 
-/* home page section */
+.header {
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
 
-.clinical_trial_search {
-  background-image: image-url("background_clinical_trial_search_no_header_no_search.png"); 
+.logo {
+  height:100%;
+}
+
+/* home page clinical trial search section */
+
+.clinical_trial_search_section {
+  background-image: image-url("background_clinical_trial_search.png"); 
   background-size: contain;
   background-repeat: no-repeat;
   width:100%;
   height: 0;
-  padding-top:40.6296%;
+  padding-top:40.9956%;
+  position:relative;
+  z-index:-1;
+  }
+
+.clinical_trial_search_horizontal_separator {
+  width:7.2vw;
+  background: white;
+  height:.1vh;
+  position:absolute;
+  top:.76 * 40.9956vw;
+  z-index:1;
+  left:12.4vw;
 }
 
-.clinical_trial_search_container {
-  width:50%;
-  float: right;
-  background: blue;
+.clinical_trial_search_text {
+  font-family: "futura-pt",sans-serif;
+  color: white;
+  font-size:2vw;
+  position: absolute;
+  top:.75 * 40.9956vw;
+  line-height: 2.2vw;
+  left:12.2vw; 
 }
+
+.clinical_trial_search_box {
+  background-image: image-url("clinical_trial_search_box.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  right:-1vw;
+  top:.1vw;
+  width: 101vw;
+  height: 175vw;
+  position: absolute;
+  opacity:1;
+  z-index:2;
+}
+
+.fpo_clinical_trial_text {
+  font-family: "futura-pt",sans-serif;
+  color:red;
+  font-weight:bold;
+  font-size:4vw;
+  line-height:4vw;
+  text-align:left;
+  position:relative;
+  padding-left:48vw;
+  padding-top:12vw;
+}
+
 
 /* EVERYTHING BELOW IS COMMENTED OUT - WAS PREVIOUSLY PART OF APP BUT 
 NOW DESIGN HAS CHANGED */

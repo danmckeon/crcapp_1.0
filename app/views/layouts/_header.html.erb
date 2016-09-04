@@ -1,9 +1,12 @@
 <header class="navbar navbar-fixed-top navbar-inverse">
   <div class="container">
-    <%= link_to "cancer research connect", root_path, id: "logo" %>
+    <%= link_to image_tag("logo_crc.png"), root_path, class: "logo" %>
     <nav>
-      <ul class="nav navbar-nav navbar-right">
-        <li><%= link_to "Home",   root_path %></li>
+      <ul>
+        <li><%= link_to "Clinical Trial Search", '#' %></li>
+        <li><%= link_to "Clinical Trials 101", '#' %></li>
+        <li><%= link_to "The FDA Process", '#' %></li>
+        <li><%= link_to "Who We Are", '#' %></li>
         <% if logged_in? %>
           <li><%= link_to "Users", '#' %></li>
           <li class="dropdown">
