@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="385">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00691132</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2007NT127</org_study_id>
+    <secondary_id>R01CA122244</secondary_id>
+    <secondary_id>0712M22651</secondary_id>
+    <nct_id>NCT00691132</nct_id>
+  </id_info>
+  <brief_title>Phenethyl Isothiocyanate in Preventing Lung Cancer in Smokers</brief_title>
+  <official_title>Randomized Trial of PEITC as a Modifier of NNK Metabolism in Smokers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Masonic Cancer Center, University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Masonic Cancer Center, University of Minnesota</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Chemoprevention is the use of certain drugs to keep cancer from forming. The use
+      of phenethyl isothiocyanate may prevent lung cancer in people who smoke cigarettes.
+
+      PURPOSE: This randomized clinical trial is studying phenethyl isothiocyanate to see how well
+      it works in preventing lung cancer in smokers.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To determine whether oral phenethyl isothiocyanate (PEITC) affects urinary levels of
+           biomarkers of 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone (NNK) metabolism in
+           current smokers.
+
+      Secondary
+
+        -  To determine the effect of GSTM1 genotype on PEITC's impact on urinary biomarkers of
+           NNK metabolism.
+
+        -  To determine the effect of GSTM1 genotype on the metabolism and excretion of PEITC as
+           measured by urinary levels of its major metabolite.
+
+        -  To determine whether oral PEITC affects molecular markers of cell proliferation (Ki-67)
+           and apoptosis (caspase-3 and TUNEL) in bronchial tissue.
+
+      OUTLINE: Patients are stratified according to GST genotypes (GSTM1 null-null genotype vs
+      GSTM1-positive genotype). All participants are initially enrolled in the short-term trial.
+      After the completion of the short-term trial, only those participants meeting certain
+      criteria may proceed to the long-term trial.
+
+        -  Short-term trial: Participants are randomized to 1 of 2 treatment arms.
+
+             -  Arm I: Participants are asked to smoke only deuterated NNK cigarettes (provided by
+                the study) and record the exact number of cigarettes smoked and alcoholic drinks
+                consumed each day for 1 month. Participants receive oral phenethyl isothiocyanate
+                (PEITC) four times daily for 5 days in week 2 and oral placebo four times daily
+                for 5 days in week 4. Participants keep a diary of all food and beverages consumed
+                on the days that PEITC or placebo are taken.
+
+             -  Arm II: Participants receive oral placebo four times daily for 5 days in week 2
+                and oral PEITC four times daily for 5 days in week 4. Participants are also asked
+                to smoke only deuterated NNK cigarettes, record the number of cigarettes smoked
+                and alcoholic drinks consumed each day, and keep a food and beverage diary as in
+                arm I.
+
+      After completion of the short-term trial, participants undergo a wash-out period for 1 month
+      in which they are asked to resume smoking regular cigarettes. Participants are offered
+      smoking cessation assistance, if desired. Only those participants meeting certain criteria
+      may proceed to the long-term trial after the 1-month wash-out period.
+
+        -  Long-term trial: Participants are randomized to 1 of 2 treatment arms.
+
+             -  Arm I: Participants receive oral PEITC twice daily for 12 months.
+
+             -  Arm II: Participants receive oral placebo twice daily for 12 months. Participants
+                in both arms complete a 3-day food diary monthly for 12 months and a
+                food-frequency questionnaire at baseline and at the completion of study treatment.
+
+      All participants undergo blood and urine sample collection periodically for laboratory
+      studies. Participants enrolled in the long-term trial also undergo bronchoscopy and tissue
+      biopsy at baseline and at the completion study treatment. Urine samples are examined by
+      liquid chromatography-electrospray ionization-tandem mass spectrometry (LC-ESI-MS/MS) for
+      various biomarkers. Tissue samples are examined by IHC for Ki-67, TUNEL, and caspase-3
+      expression.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2009</start_date>
+  <completion_date type="Anticipated">January 2013</completion_date>
+  <primary_completion_date type="Anticipated">January 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Urinary levels of biomarkers of NNK metabolism</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Total NNAL, free NNAL, keto acid and hydroxyacids will be measured by liquid chromatography-electrospray ionization-tandem mass spectrometry (LC-ESI-MS/MS).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Effects of GSTM1 genotype on phenethyl isothiocyanate (PEITC)-NNK association and on the metabolism and excretion of PEITC</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured by high-performance liquid chromatography (HPLC). The aim is to determine the possible differential effects of GSTM1 genotype on PEITC excretion, using the method of Chung et al. The method will result in quantitative recovery of the PEITC-NAC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Histopathological evaluation of lung lesions</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will use the World Health Organization (WHO) criteria to score all lung biopsies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Molecular markers of cell proliferation (Ki-67) in bronchial tissue</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Ki-67. The proliferation index will be determined by immunohistochemistry (IHC) detection of Ki-67 positive cells.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Molecular markers of apoptosis (caspase-3 and TUNEL) in bronchial tissue</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Apoptosis biomarkers: The terminal deoxynucleotidyl transferase (TdT)-mediated dUTP nick-end labeling (TUNEL) technique has been extensively used for the detection and quantification of apoptosis in histological tissue sections. We will use the ApopTag in situ hybridization detection kit (Oncor, Gaithersburg, MD) to identify apoptotic cells in tissue sections prepared from study subjects' lung biopsies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunohistochemistry (IHC) Quantitation</measure>
+    <time_frame>Baseline and Completion of Study Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Three representative fields per slide will be photographed with a digital camera. The pictures will be analyzed by two trained associates to score IHC slides independently; both scorers will be blinded to the treatment status of the subject. Total number of cells will be determined with ImageProPlus Program for each picture. The percentage of IHC-positive cells over total cells examined will be recorded.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>Tobacco Use Disorder</condition>
+  <arm_group>
+    <arm_group_label>Arm I (short-term trial)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are asked to smoke only deuterated NNK cigarettes (provided by the study) and record the exact number of cigarettes smoked and alcoholic drinks consumed each day for 1 month. Participants receive oral phenethyl isothiocyanate (PEITC) four times daily for 5 days in week 2 and oral placebo four times daily for 5 days in week 4. Participants keep a diary of all food and beverages consumed on the days that PEITC or placebo are taken.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (short-term trial)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive oral placebo four times daily for 5 days in week 2 and oral PEITC four times daily for 5 days in week 4. Participants are also asked to smoke only deuterated NNK cigarettes, record the number of cigarettes smoked and alcoholic drinks consumed each day, and keep a food and beverage diary as in arm I.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm I (long-term trial)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive oral PEITC twice daily for 12 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (long-term trial)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive oral placebo twice daily for 12 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>phenethyl isothiocyanate</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I (short-term trial)</arm_group_label>
+    <arm_group_label>Arm II (short-term trial)</arm_group_label>
+    <arm_group_label>Arm I (long-term trial)</arm_group_label>
+    <other_name>PEITC</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>Given orally</description>
+    <arm_group_label>Arm I (short-term trial)</arm_group_label>
+    <arm_group_label>Arm II (short-term trial)</arm_group_label>
+    <arm_group_label>Arm II (long-term trial)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+        Initial from phone interview:
+
+          -  Currently smoking 10-45 cigarettes per day for the past year;
+
+          -  Between the ages of 21 and 70 years;
+
+          -  In apparently good physical health with no unstable medical conditions including
+             seizures or cancer;
+
+          -  In stable and good mental health, i.e., currently do not experience unstable or
+             untreated psychiatric diagnosis, including substance abuse, as determined by the
+             DSM-IV criteria, during the past six months;
+
+          -  Not using any other tobacco or nicotine-containing products;
+
+          -  Not on methadone maintenance or stimulants such as ephedra; not a regular user of
+             street drugs and if uses occasionally, willing to abstain during the study; not
+             taking any drugs known to be P4501A6 substrates such as phenobarbital, rifampicin,
+             dexamethasone, ketoconazole, methoxsalen, pilocarpine, or tranylcypromine due to
+             their role in NNK metabolism;
+
+          -  Does not average more than 21 alcoholic drinks per week;
+
+          -  Willing to perform study activities such as having blood sample drawn, urine
+             collection, multiple clinic visits;
+
+          -  For female subjects of child bearing potential, not known to be pregnant or nursing,
+             or planning to become pregnant within next 12 months.
+
+        For enrollment in the Short-Term Trial:
+
+          -  Subjects who are generally healthy with liver enzyme and blood count values within
+             the ranges shown below based on blood samples drawn at the second screening visit.
+             Specifically:
+
+               -  White blood cells ≥ 3,000/mL
+
+               -  Total bilirubin ≤ 1.5 x upper limits of normal (ULN)
+
+               -  AST (SGOT)/ALT (SGPT) ≤ 2.5 x ULN
+
+               -  BUN and serum creatinine ≤ 1.5 x ULN
+
+        For enrollment in the Long-Term Trial:
+
+          -  Participated in the short-term trial and invited to participate in the long-term
+             trial;
+
+          -  Possess the GSTM1 null-null genotype;
+
+          -  Smoke 20 or more cigarettes/day with a cumulative smoking history of 20 or more
+             pack-years (one pack-year equals to smoking a pack of cigarettes a day for one year);
+
+          -  Normal liver enzymes based on blood sample drawn during 1 month wash-out;
+
+          -  Determined to be a good candidate for the bronchoscopy procedure by a primary care
+             physician.
+
+        Exclusion Criteria:
+
+          -  Subjects with uncontrolled hypertension, uncontrolled diabetes mellitus, unstable
+             coronary artery disease, history of cancer other than non-melanoma skin cancer, and
+             pregnant or lactating women will not be eligible.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jian-Min Yuan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Masonic Cancer Center, University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center, University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Strayer</last_name>
+      <phone>612-626-8885</phone>
+      <email>swan0156@umn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jian-Min Yuan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/UMN-2007NT127</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>August 2012</verification_date>
+  <lastchanged_date>August 29, 2012</lastchanged_date>
+  <firstreceived_date>June 4, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>non-small cell lung cancer</keyword>
+  <keyword>small cell lung cancer</keyword>
+  <keyword>tobacco use disorder</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Phenethyl isothiocyanate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

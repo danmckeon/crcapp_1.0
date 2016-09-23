@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="103">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02323854</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVEMPR0437</org_study_id>
+    <nct_id>NCT02323854</nct_id>
+  </id_info>
+  <brief_title>The EMPrint™ Ablate and RESect Study in Patients With Metastatic Lung Tumors (EMPRESS)</brief_title>
+  <acronym>EMPRESS</acronym>
+  <official_title>The EMPrint™ Ablate and RESect Study in Patients With Metastatic Lung Tumors (EMPRESS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medtronic - MITG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medtronic - MITG</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Post market prospective, non-randomized, single-arm, multicenter study, designed to
+      demonstrate dose response of an ablation system using a percutaneous approach in patients
+      with primary, metastatic, or recurrent primary lung tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Endpoint: Dose response as indicated by CT imaging, measurement of maximum diameter
+      and volume.
+
+      Secondary Endpoint: Assessment of complete tumor ablation immediately post-procedure.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2015</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Supportive Care</study_design>
+  <primary_outcome>
+    <measure>Dose Response</measure>
+    <time_frame>Day 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Dose response evaluated post-procedure, determined by CT imaging</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complete tumor ablation</measure>
+    <time_frame>Day 30</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Complete tumor ablation measured for each tumor at the cellular level determined by histopathologic evaluations.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Ablation and Surgical Resection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Ablation of lung tumor; followed by surgical resection of the ablation zone.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Ablation and Surgical Resection</intervention_name>
+    <description>Percutaneous antenna will be placed into the target tumor under CT image guidance. Target tumor will be ablated.
+The antenna will be removed and the planned surgical resection will be conducted as scheduled.</description>
+    <arm_group_label>Ablation and Surgical Resection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject or authorized representative has provided informed consent.
+
+          -  Subject is ≥18 years of age.
+
+          -  At least one pulmonary metastasis ≤ 3.0 cm in maximum diameter resulting from distant
+             primary cancers or at least one recurrence of primary lung cancer ≤ 3.0 cm in maximum
+             diameter.
+
+          -  Subject has been confirmed by a thoracic surgeon to be a surgical candidate for
+             resection of the tumor targeted for ablation.
+
+          -  Subject is willing and able to comply with all aspects of the treatment and
+             evaluation schedule.
+
+          -  ≥1 cm of tumor-free lung parenchyma between target tumor and pleura or fissure.
+
+        Exclusion Criteria:
+
+          -  Pre-procedure Exclusion Criteria
+
+          -  Contraindicated for surgery.
+
+          -  Prolonged chest infection, defined as lung consolidation that requires
+             hospitalization and greater than 10 days of antibiotics 30 days prior to surgery.
+
+          -  Tumor abutting main stem bronchus, main pulmonary artery branches, esophagus and/or
+             trachea.
+
+          -  Tumor with pleural contact.
+
+          -  Tumors located &lt; 3 cm of staple lines or other metal objects.
+
+          -  Patients diagnosed with GOLD Stage IV Emphysema.
+
+          -  Uncontrollable coagulopathy
+
+          -  Patients unable to tolerate discontinued use of anti-coagulants prior to and during
+             the ablation procedure.
+
+          -  Subject is pregnant (documented by a positive pregnancy test according to hospital
+             standard practices) or is actively breast-feeding.
+
+          -  Subject has participated in an investigational drug or device research study within
+             30 days of enrollment that would interfere with this study.
+
+          -  The investigator determines that participation in the study may jeopardize the safety
+             or welfare of the subject.
+
+          -  Patients with implantable pacemakers and other electronic implants, in accordance
+             with Instructions for Use (IFU).
+
+        Intraprocedural Exclusion Criteria
+
+        *Incidental intraprocedural finding that the subject no longer meets the study eligibility
+        criteria.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Damian E Dupuy, MD FACR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Lifespan-Rhode Island Hospital, Rhode Island, USA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amanda Cafaro, RN BSN</last_name>
+    <phone>303-581-7029</phone>
+    <email>amanda.cafaro@covidien.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rachael Gianzero, MSHS PMP</last_name>
+    <phone>303.305.2758</phone>
+    <email>rachael.gianzero@covidien.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bettie Lechtenberg, MBA</last_name>
+      <phone>507-293-0807</phone>
+      <email>lechtenberg.bettie@mayo.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Karlyn Pierson, RN</last_name>
+      <phone>507-293-0807</phone>
+      <email>Pierson.karlyn@mayo.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthew Callstrom, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shanda Blackmon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cathy Spinelli, RN BSN</last_name>
+      <phone>212-746-3328</phone>
+      <email>caf2007@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffery Port, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bradley Pua, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Morrell, RT(R), CCRP</last_name>
+      <phone>401-444-2277</phone>
+      <email>EMorrell@Lifespan.org</email>
+    </contact>
+    <investigator>
+      <last_name>Terrance T Healey, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas Ng, MD FRCS(C)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Surgical Therapeutic Advancement Center (STAC)</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 21, 2015</lastchanged_date>
+  <firstreceived_date>December 13, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>primary, recurrent, metastatic lung tumor, ablation</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

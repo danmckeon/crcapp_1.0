@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="225">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 22, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02654990</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLBH589D2222</org_study_id>
+    <nct_id>NCT02654990</nct_id>
+  </id_info>
+  <brief_title>Panobinostat/Bortezomib/Dexamethasone in Relapsed or Relapsed-and-refractory Multiple Myeloma</brief_title>
+  <acronym>PANORAMA_3</acronym>
+  <official_title>A Multicenter, Randomized, Open-label Phase 2 Study Evaluating the Safety and Efficacy of Three Different Regimens of Oral Panobinostat in Combination With Subcutaneous Bortezomib and Oral Dexamethasone in Patients With Relapsed or Relapsed/Refractory Multiple Myeloma Who Have Been Previously Exposed to Immunomodulatory Agents</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Australia: National Health and Medical Research Council</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Brazil: Ministry of Health</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>France: Ministry of Health</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices (BfArM)</authority>
+    <authority>Greece: Ministry of Health and Welfare</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>Italy: National Institute of Health</authority>
+    <authority>Korea: Food and Drug Administration</authority>
+    <authority>Lebanon: Ministry of Public Health</authority>
+    <authority>Netherlands: Dutch Health Care Inspectorate</authority>
+    <authority>Norway: Norwegian Medicines Agency</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <authority>Portugal: National Pharmacy and Medicines Institute</authority>
+    <authority>Russia: Ministry of Health of the Russian Federation</authority>
+    <authority>Spain: Ministry of Health</authority>
+    <authority>Sweden: Medical Products Agency</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <authority>Thailand: Food and Drug Administration</authority>
+    <authority>Turkey: Ministry of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the safety and efficacy of three different
+      regimens of PAN (20 mg TIW, 20 mg BIW, and 10 mg TIW) in combination with s.c. BTZ and Dex
+      and to provide exposure, safety and efficacy data to identify the optimal regimen of PAN in
+      a randomized, 3-arm parallel design. This study will also assess the impact of administering
+      s.c. BTZ (in combination with PAN and Dex) twice weekly for 4 cycles, and then weekly
+      starting from Cycle 5 until disease progression in patients ≤ 75 years of age. Patients &gt; 75
+      years of age will receive for the entire treatment period s.c. BTZ weekly (in combination
+      with PAN and Dex) until disease progression.
+
+      Patients will be treated until disease progression or until they discontinue earlier due to
+      unacceptable toxicity or for other reasons.
+
+      Patients who discontinued study treatment for reasons other than disease progression will be
+      followed for efficacy every 6 weeks.
+
+      All patients will be followed for survival until the last patient entering long-term
+      follow-up has completed a 3 year survival follow-up or discontinued earlier.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2016</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall response rate (ORR) up to 8 cycles</measure>
+    <time_frame>up to 8 cycles per patient, approximately 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>assessed according to IMWG guidelines</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR throughout study</measure>
+    <time_frame>approximately 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>individual immunophenotypic complete response (CR) rate</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration (Cmax) for panobinostat (PAN) and bortezomib (BTZ)</measure>
+    <time_frame>approximately 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>European Organization of Research and Treatment of Cancer Quality of Life core 30-item questionnaire scores over time compared</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>EORTC QLQ-C30 on-treatment and in post treatment follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>individual stringent CR rate</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>individual CR rate</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>individual Very Good Partial Response rate</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Assessment of Cancer Therapy / Gynecologic Oncology Group - Neurotoxicity scale scores over time</measure>
+    <time_frame>approximately 30 and 70 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>FACT/GOG-Ntx on-treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reach Cmax for PAN and BTZ</measure>
+    <time_frame>approximately 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Minimum observed plasma concentration (Cmin) for BTZ</measure>
+    <time_frame>approximately 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Observed plasma concentration 24 hours after single and multiple dose administration of PAN and BTZ</measure>
+    <time_frame>24 hours after every dose, approximately 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Arm A - 20mg PAN TIW</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20mg panobinostat three times a week, 2 weeks on/1week of in combination with s.c. bortezomib and p.o. dexamethasone</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B - 20mg PAN BIW</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20mg panobinostat twice a week, 2 weeks on/1 week off in combination with s.c. bortezomib and p.o. dexamethasone</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C - 10mg PAN TIW</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10mg panobinostat three times a week 2 weeks on/1 week off in combination with s.c. bortezomib and p.o. dexamethasone</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>panobinostat capsules</intervention_name>
+    <description>20mg, 10mg or 15mg (for dose reductions only)</description>
+    <arm_group_label>Arm A - 20mg PAN TIW</arm_group_label>
+    <arm_group_label>Arm B - 20mg PAN BIW</arm_group_label>
+    <arm_group_label>Arm C - 10mg PAN TIW</arm_group_label>
+    <other_name>PAN, LBH589</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bortezomib injection</intervention_name>
+    <description>1.3mg/m2 sub-cutaneous administration; Cycle 1-4: 2 weeks on/1 week off twice a week for patients &lt;=75 years at time of screening; once a week for patient &gt; 75 years Cycle 5+: once a week for all patients</description>
+    <arm_group_label>Arm A - 20mg PAN TIW</arm_group_label>
+    <arm_group_label>Arm B - 20mg PAN BIW</arm_group_label>
+    <arm_group_label>Arm C - 10mg PAN TIW</arm_group_label>
+    <other_name>BTZ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dexamethasone tablets</intervention_name>
+    <description>pre and 24h after BTZ administration; patients &lt;= 75 years at time of screening: 20mg/dose patients &gt; 75 years: 10mg/dose</description>
+    <arm_group_label>Arm A - 20mg PAN TIW</arm_group_label>
+    <arm_group_label>Arm B - 20mg PAN BIW</arm_group_label>
+    <arm_group_label>Arm C - 10mg PAN TIW</arm_group_label>
+    <other_name>Dex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  multiple myeloma as per IMWG 2014 definition
+
+          -  requiring treatment for relapsed or relapsed/refractory disease
+
+          -  measurable disease based on central protein assessment
+
+          -  1 to 3 prior lines of therapy
+
+          -  prior IMiD exposure
+
+          -  acceptable lab values prior to starting study treatment
+
+        Exclusion Criteria:
+
+          -  primary refractory myeloma
+
+          -  refractory to bortezomib
+
+          -  concomitant anti-cancer therapy (other then BTZ/Dex and bisphosphonates
+
+          -  prior treatment with DAC inhibitors
+
+          -  Clinically significant, uncontrolled heart disease and/or recent cardiac event
+             (within 6 month prior to screening)
+
+          -  Unresolved diarrhea ≥ CTCAE grade 2 or presence of medical condition associated with
+             chronic diarrhea (such as irritable bowel syndrome, inflammatory bowel disease)
+
+        Other protocol-defined inclusion/exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone_ext>+41613241111</phone_ext>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group Drug Shipment</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Holly Kinser</last_name>
+      <phone>479-872-8130</phone>
+      <email>hkinser@hogonc.com</email>
+    </contact>
+    <investigator>
+      <last_name>J. Thaddeus Beck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Alliance</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Colleen Kats</last_name>
+      <phone>+1 855 737 2873 183</phone>
+      <email>ckats@researchcra.com</email>
+    </contact>
+    <investigator>
+      <last_name>Morton Coleman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 26, 2016</lastchanged_date>
+  <firstreceived_date>December 16, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>multiple myeloma</keyword>
+  <keyword>relapsed or relapsed/refractory</keyword>
+  <keyword>LBH589</keyword>
+  <keyword>panobinostat</keyword>
+  <keyword>bortezomib</keyword>
+  <keyword>dexamethasone</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>BB 1101</mesh_term>
+    <mesh_term>Bortezomib</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Panobinostat</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

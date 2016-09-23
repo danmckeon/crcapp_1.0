@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="646">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02240238</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NC-6004-004A</org_study_id>
+    <nct_id>NCT02240238</nct_id>
+  </id_info>
+  <brief_title>Combination Therapy With NC-6004 and Gemcitabine in Advanced Solid Tumors or Non-Small Cell Lung, Biliary and Bladder Cancer</brief_title>
+  <official_title>A Phase 1b/2 Dose Escalation and Expansion Trial of NC-6004 (Nanoparticle Cisplatin) Plus Gemcitabine in Patients With Advanced Solid Tumors or Non-Small Cell Lung, Biliary Tract, and Bladder Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanocarrier Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanocarrier Co., Ltd.</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the dose escalation phase (Part 1), this study will determine the dose-limiting
+      toxicities (DLTs), the maximum tolerated dose (MTD) and recommended Phase 2 (RPII) dose of
+      NC 6004 in combination with gemcitabine.
+
+      In the expansion phase of the study (Part 2), study will evaluate the activity of NC-6004 in
+      combination with Gemcitabine in patients with first-line Stage IV squamous non-smallcell
+      lung cancer (NSCLC), first line advanced or metastatic biliary tract cancer, and first line
+      metastatic or locally advanced bladder cancer.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2014</start_date>
+  <completion_date type="Anticipated">May 2017</completion_date>
+  <primary_completion_date type="Anticipated">May 2017</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Determine the maximum tolerated dose of NC-6004</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>defined as following treatment-related adverse events or laboratory abnormalities</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall response rate</measure>
+    <time_frame>every 6 weeks tumor assessments for response and disease progression after treatment discontinuation and telephone calls for survival every 12 weeks until disease progression, up to 100 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>defined as the proportion of patients with best overall response of confirmed partial response or confirmed complete response at the time each patient discontinues NC-6004 and gemcitabine.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">85</enrollment>
+  <condition>Solid Tumors</condition>
+  <arm_group>
+    <arm_group_label>NC-6004 and Gemcitabine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NC-6004</intervention_name>
+    <description>NC-6004 - given at escalating doses of 60, 75, 90, 105, 120, 135, 150, 165, or 180 mg/m2 according to observations of dose-limiting toxicity.</description>
+    <arm_group_label>NC-6004 and Gemcitabine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>Gemcitabine 1250 mg/m2 will be administered as a 30 minute intravenous infusion on Day 1 after the completion of the NC 6004 infusion and on Day 8 of each cycle.</description>
+    <arm_group_label>NC-6004 and Gemcitabine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  (Part 1 only) Have a histologically or cytologically confirmed diagnosis of advanced
+             solid tumor that has relapsed or is refractory to standard curative or palliative
+             therapy or has a contraindication to standard therapy.
+
+          -  (Part 2 only) Have histologically or cytologically confirmed diagnosis of Stage IIIB
+             or IV NSCLC and have received 1 or 2 lines of prior chemotherapy or targeted therapy
+             for Stage IIIB or IV NSCLC (second- or third-line).
+
+          -  Have measurable disease per Response Evaluation Criteria in Solid Tumors (RECIST)
+             version 1.1.
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1
+
+          -  Have adequate bone marrow reserve, liver function, and renal function
+
+        Exclusion Criteria:
+
+          -  Have received prior platinum therapy in the past 3 months
+
+          -  Have received prior cisplatin and gemcitabine concomitantly within the last 6 months
+             or are refractory to cisplatin and gemcitabine.
+
+          -  Unresolved toxicity from prior radiation, chemotherapy, or other targeted treatment,
+             including investigational treatment
+
+          -  Pregnant or breast feeding
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lawrence Frankel, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeannia Chandler, GCTM</last_name>
+    <phone>+1 865 230 5149</phone>
+    <email>jeannia.chandler@ppdi.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Peter Mascenik, GPM</last_name>
+    <phone>(910) 558-8039</phone>
+    <email>peter.mascenik@ppdi.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UC San Diego Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Case Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2016</verification_date>
+  <lastchanged_date>April 22, 2016</lastchanged_date>
+  <firstreceived_date>August 19, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

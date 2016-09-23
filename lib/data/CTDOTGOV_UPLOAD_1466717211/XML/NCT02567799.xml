@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="195">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 22, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02567799</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CL0101-01</org_study_id>
+    <secondary_id>HHSN261201200078C</secondary_id>
+    <nct_id>NCT02567799</nct_id>
+  </id_info>
+  <brief_title>BIO 300 Non-Small Cell Lung Cancer Study</brief_title>
+  <acronym>NSCLC</acronym>
+  <official_title>A Phase I/II Clinical Study Evaluating the Safety and Effectiveness of BIO 300 Oral Suspension in Patients Receiving Chemoradiation Therapy for Non-Small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Humanetics Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Henry Ford Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Humanetics Corporation</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the safety and effectiveness of BIO 300 Oral
+      Suspension when used in combination with standard dose radiation therapy and chemotherapy in
+      patients with non-small cell lung cancer. Based on preclinical data the investigators
+      hypothesize that BIO 300 Oral Suspension will reduce the incidence of radiation-induced
+      pneumonitis and pulmonary fibrosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, single-arm, ascending dose Phase I/II study of BIO 300 Oral
+      Suspension given in combination with paclitaxel/carboplatin and radiotherapy in subjects
+      with stage II, III, or IV NSCLC who either decline or are not candidates for surgery.
+
+      A minimum of 10 subjects will be accrued sequentially at each of the 3 ascending dose levels
+      of BIO 300. BIO 300 will be administered daily for the entire course of concurrent
+      chemoradiotherapy, a minimum of 8 weeks; in combination with standard paclitaxel /
+      carboplatin chemotherapy and radiotherapy.
+
+      One week of daily BIO 300 Oral Suspension dosing will be completed prior to the start of
+      chemotherapy to collect safety data (adverse events, electrocardiograms (ECGs), results of
+      safety laboratory determinations), pharmacokinetic (PK) and pharmacodynamic (PD) data.
+      Pharmacokinetic (PK) data will be collected from a minimum of six (6) study subjects from
+      each cohort. Following this first week of BIO 300 dosing, BIO 300 will be administered daily
+      in combination with the chemotherapy regimen of the protocol. As in the previous week,
+      additional safety, PK and PD data will be collected. The next week BIO 300 administration
+      will be continued daily and combined with the full chemoradiotherapy regimen. BIO 300 will
+      continue to be administered daily (6 weeks), for the entire course of concurrent therapy.
+      During concurrent chemoradiotherapy additional safety, PK and PD data will be collected
+      weekly. At the conclusion of the study, primary and secondary outcome measures will be
+      evaluated. Data will be analyzed from all cohorts to determine the oncologic response,
+      safety of BIO 300, and a recommended BIO 300 dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <completion_date type="Anticipated">February 2018</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Number of participants with adverse events that meet the protocol defined criteria of a Dose Limiting Toxicity while receiving BIO 300 in combination with chemoradiotherapy</measure>
+    <time_frame>Day 1 up to 6 weeks or maximum tolerated dose</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events throughout the study</measure>
+    <time_frame>Day -14 up to month 13 post consolidation</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of BIO 300 administered in the absence of chemotherapy</measure>
+    <time_frame>Day -14 to day -13, prior to 1st dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration Curve (AUC) of BIO 300 administered in the absence of chemotherapy</measure>
+    <time_frame>Day -14 to day -13, prior to 1st dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of BIO 300 when administered in combination with paclitaxel and carboplatin</measure>
+    <time_frame>Day -7, prior to 1st dose then 0.5, 1, 2, 3, 4, 8, and 24 hours post dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration Curve (AUC) of BIO 300 when administered in combination with paclitaxel and carboplatin</measure>
+    <time_frame>Day -7, prior to 1st dose then 0.5, 1, 2, 3, 4, 8, and 24 hours post dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of paclitaxel when administered in combination with BIO 300</measure>
+    <time_frame>Day -7 to day -6, prior to BIO 300 dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post initial dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration Curve (AUC) of paclitaxel when administered in combination with BIO 300</measure>
+    <time_frame>Day -7 to day -6, prior to BIO 300 dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post initial dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Serum Concentration (Cmax) of carboplatin when administered in combination with BIO 300</measure>
+    <time_frame>Day -7 to day -6, prior to BIO 300 dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post initial dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Serum Concentration Curve (AUC) of carboplatin when administered in combination with BIO 300</measure>
+    <time_frame>Day -7 to day -6, prior to BIO 300 dose then 0.5, 1, 2, 3, 4, 8 and 24 hours post initial dose then on Days 1, 7, 14, 21, 28, and 35, prior to daily BIO 300 dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Expression levels of serum-derived pharmacodynamic markers</measure>
+    <time_frame>Day -14, just prior to BIO 300 dose and 3 hours after administration, Day -7, just prior to BIO 300 dose and 3 hours after administration, Days 1, 7,14, 21, 28, and 35, prior to BIO 300, paclitaxel, and carboplatin dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of progressive disease evaluated by the Response Evaluation Criteria in Solid Tumors (RECIST) (1.1) criteria</measure>
+    <time_frame>Screening and 6 weeks, 6 and 11 months post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extent of disease as measured by diagnostic Computerized Tomography (CT) Scan</measure>
+    <time_frame>Screening and 6 weeks, 6 and 11 months post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extent of disease as measured by Pulmonary Function Test (PFT)</measure>
+    <time_frame>Screening and months 6 &amp; 13 post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of pulmonary fibrosis assessed by four-dimensional computerized tomography (4D-CT)</measure>
+    <time_frame>Screening, day 19 and months 3, 9, &amp; 13 post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (QOL) as measured by Functional Assessment of Cancer Therapy-Trial Outcome Index (FACT-TOI) patient reported outcome questionnaire.</measure>
+    <time_frame>Screening and months 3,6, &amp; 13 post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (QOL) as measured by University of California, San Diego-Shortness of Breath Questionnaire (UCSD-SOB) patient reported outcome questionnaire.</measure>
+    <time_frame>Screening and months 3,6, &amp; 13 post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extent of esophagitis by patient reported Swallowing Diary</measure>
+    <time_frame>Screening, days 5, 12, 19, 26, 33, 40 and months 3 and 6 post consolidation therapy</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Carcinoma, Non-Small-Cell Lung</condition>
+  <arm_group>
+    <arm_group_label>Single-arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ascending dose evaluation of BIO 300 Oral Suspension (3 dose levels) given in combination with paclitaxel/carboplatin and radiotherapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIO 300 Oral Suspension</intervention_name>
+    <description>Cohort 1: BIO 300 500 mg Cohort 2: BIO 300 1,000 mg Cohort 3: BIO 300 1,500 mg BIO 300 dose will be given daily, 7 days/week (day-14 through week 6 day 5) The 2nd and 3rd dosing cohort (1,000 and 1,500 mg/day) will begin following the accrual of a minimum of 10 subjects at a particular dose level, dose escalation to the next BIO 300 dose level will be allowed to occur when three subjects with the cohort (30%) have completed the entire course of chemoradiation therapy with no Dose Limiting Toxicities (DLTs) attributed to BIO 300 Oral Suspension, provided that no more than three (3) of the accord subjects at the prior dose level have presented with DLTs.</description>
+    <arm_group_label>Single-arm</arm_group_label>
+    <other_name>genistein, 5, 7-dihydroxy-3-(4-hydroxyphenyl)-chromen-4-one</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>During the Concurrent Therapy period, paclitaxel 45 mg/m2 will be administered by intravenous drip weekly on day -7 and day 1 of weeks 1-6.
+During the Consolidation Therapy period, paclitaxel 200 mg/m2 will be administered by intravenous drip two times, 21 days apart.</description>
+    <arm_group_label>Single-arm</arm_group_label>
+    <other_name>Onxol</other_name>
+    <other_name>Taxol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>During the Concurrent Therapy period, area under the curve (AUC) = 2mg* min/mL will be administered by intravenous drip weekly on day -7 and day 1 of weeks 1-6.
+During the Consolidation Therapy period, carboplatin AUC = 6mg*min/mL will be administered by intravenous drip two times, 21 days apart.</description>
+    <arm_group_label>Single-arm</arm_group_label>
+    <other_name>Paraplatin</other_name>
+    <other_name>CARBOplatin Novaplus</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiotherapy</intervention_name>
+    <description>Radiation treatment will begin after 4 weeks after subject enrollment. Subjects will receive radiation therapy 5 days per week, once daily fractions, 2.0 Gy per fraction, for 6 weeks.</description>
+    <arm_group_label>Single-arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Histological or cytological confirmation of NSCLC
+
+          2. Unresectable Stage II, III, or IV NSCLC
+
+          3. Up to three small (≤ 3 cm each) lung oligometastases will be allowed
+
+          4. Weight loss less than 10% in prior 4 weeks
+
+          5. Eastern Cooperative Oncology Group Performance Scale (ECOG PS) of 0 or 1
+
+          6. Forced expiratory volume at one second (FEV1): best value obtained pre- or
+             post-bronchodilator must be ≥ 1.2 liters/second or &gt; 50% predicted value
+
+          7. Adequate bone marrow reserve
+
+          8. Adequate hepatic reserve
+
+          9. Adequate renal function
+
+         10. Female subjects of childbearing potential must have a negative pregnancy test
+
+         11. Female subjects of childbearing potential and male subjects with female sexual
+             partners of childbearing potential must agree to use an effective method of
+             contraception
+
+         12. Ability to read and provide written informed consent
+
+        Exclusion Criteria:
+
+          1. Weight loss greater than 10% in prior 4 weeks
+
+          2. Prior malignancy in which they received any thoracic radiotherapy unless the treating
+             physician considers it unlikely to impact the clinical outcome of the patient
+
+          3. Patients with concurrent invasive malignancy other than non-melanoma skin cancer or
+             cervical intraepithelial neoplasia unless the treating physician considers it
+             unlikely to impact the clinical outcome of the patient
+
+          4. An active infection or with a fever ≥ 38.5°C
+
+          5. Poorly controlled intercurrent illnesses
+
+          6. Patients with a prior thoracotomy within 1 week of study registration
+
+          7. Chronic Obstructive Pulmonary Disease (COPD) exacerbation or other respiratory
+             illness requiring hospitalization or precluding study therapy within 30 days before
+             registration
+
+          8. Patients with any of the following are not eligible:
+
+               -  Previous history of Corrected QT Interval (QTc ) prolongation resulting from
+                  medication that required discontinuation of that medication
+
+               -  Congenital long QT syndrome, or 1st degree relative with unexplained sudden
+                  death under 40 years of age;
+
+               -  Presence of left bundle branch block (LBBB);
+
+               -  QTc with Fridericia's correction that is unmeasurable, or ≥ 480 msec on
+                  screening ECG. The average QTc from the screening ECG (completed in triplicate)
+                  must be &lt; 480 msec in order for the patient to be eligible for the study;
+
+               -  Subjects taking any concomitant medication that may cause QTc prolongation,
+                  induce Torsades de Pointes are not eligible if QTc ≥ 460 msec.
+
+          9. Patients must not have had a clinically significant cardiac event within 6 months
+             before entry; or the presence of any other uncontrolled cardiovascular conditions
+             that, in the opinion of the Investigator, increases the risk of ventricular
+             arrhythmia.
+
+         10. Patients with a history of arrhythmia or asymptomatic sustained ventricular
+             tachycardia are not eligible. Patients with atrial fibrillation with well-controlled
+             ventricular rate on medication, are eligible.
+
+         11. Psychiatric conditions, social situations or substance abuse that precludes the
+             ability of the subject to cooperate with the requirements of the trial and protocol
+             therapy
+
+         12. Grade 2 or higher peripheral neuropathy
+
+         13. Known history of Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome
+             (HIV/AIDS), hepatitis B or C.
+
+         14. Pregnancy or women of childbearing potential and men who are sexually active and not
+             willing/able to use medically acceptable forms of contraception
+
+         15. Women who are breastfeeding are not eligible for this study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin Movsas, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Henry Ford Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael D. Kaytor, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Humanetics Corporation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Diane Snell, MT, RA</last_name>
+    <phone>(313) 916-3124</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202-2689</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin Movsas, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2016</verification_date>
+  <lastchanged_date>February 26, 2016</lastchanged_date>
+  <firstreceived_date>July 9, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lung Neoplasms</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

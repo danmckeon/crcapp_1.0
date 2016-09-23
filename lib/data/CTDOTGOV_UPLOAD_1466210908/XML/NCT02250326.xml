@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="147">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02250326</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABI-007-NSCL-006</org_study_id>
+    <secondary_id>2014-001105-41</secondary_id>
+    <nct_id>NCT02250326</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy Study of Nab®-Paclitaxel With CC-486 and Nab®-Paclitaxel Monotherapy as Second Line Treatment for Advanced Nonsquamous Non-small Cell Lung Cancer</brief_title>
+  <acronym>abound2L</acronym>
+  <official_title>A Phase 2, Open-Label, Multi-Center Study to Assess Safety and Efficacy of Second/Third-Line Treatment With NAB®-Paclitaxel (ABI-007) In Combination With Epigenetic Modifying Therapy Of CC-486, Or Immunotherapy of Durvalumab (MEDI4736), Or As Monotherapy In Subjects With Advanced Non-Small Cell Lung Cancer (NSCLC): Abound.2L+</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celgene Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celgene Corporation</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>France: Agence Nationale de Sécurité du Médicament et des produits de santé (ANSM)</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <authority>Germany: Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)</authority>
+    <authority>Italy: Agenzia Italiana del Farmaco (AIFA)</authority>
+    <authority>Netherlands: Centrale Commissie Mensgebonden Onderzoek (CCMO)</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2, randomized, open-label, multicenter study to assess the efficacy and
+      safety of nab-paclitaxel in combination with the epigenetic modifying therapy of CC-486, and
+      nab-paclitaxel monotherapy as second-line treatment in subjects with advanced nonsquamous
+      NSCLC
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 2 study will test the hypothesis that epigenetic modifying therapy with CC-486
+      can improve the anti-tumor activity of nab-paclitaxel in subjects with advanced nonsquamous
+      NSCLC who have received one platinum-containing chemotherapy regimen for their advanced
+      disease. Approximately 160 male and female subjects with advanced nonsquamous NSCLC will be
+      randomized 1:1 into one of the two treatment arms: nab-paclitaxel / CC-486 combination
+      therapy or nab-paclitaxel monotherapy prior to receiving first dose of Investigational
+      Product.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2015</start_date>
+  <completion_date type="Anticipated">September 2017</completion_date>
+  <primary_completion_date type="Anticipated">May 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression free survival (PFS) is defined as the time from the date of randomization to the date of disease progression or death (any cause) on or prior to the data cutoff date for analyses, whichever occurred first, based on the investigator's assessment of the data from CT scans using Response criteria evaluation in solid tumors (RECIST) 1.1 guidelines. Baseline tumor measurements will be determined from the radiologic evaluation performed within 28 days before the start of study therapy.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The safety/tolerability of the two treatment arms will be monitored through continuous reporting and evaluated by adverse events and serious adverse events, and incidence of subjects experiencing dose modifications, dose interruptions, and/or premature discontinuation of investigative product (IP). An adverse event (AE) is any noxious, unintended, or untoward medical occurrence that may appear or worsen in a subject during the course of a study. It may be a new intercurrent illness, a worsening concomitant illness, an injury, or any concomitant impairment of the subject's health, including laboratory test values, regardless of etiology. Any worsening (ie, any clinically significant adverse change in the frequency or intensity of a pre-existing condition) should be considered an AE.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Disease control rate is defined as the percent of subjects who have a radiologic complete response, partial response, or stable disease according to RECIST 1.1 guidelines, as determined by the investigator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival is defined as the time between randomization and death. All deaths, regardless of the cause of death, will be included. All subjects who are lost to follow-up prior to the end of the study or who are withdrawn from the study will be censored at the time of last contact. Subjects who are still receiving treatment as of the data cutoff date will be censored at the cutoff date. Overall survival will be analyzed in a similar model as that for PFS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Response Rate</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall response rate is defined as the percent of subjects who have a radiologic complete or partial response according to RECIST 1.1 guidelines determined by the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation rate</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The number and the percentage of subjects who discontinue study treatment will be presented based on the number of subjects who randomized into the study. Reasons for treatment discontinuation will be summarized for all subjects who discontinue study treatment during the treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median dose intensity</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The dose intensity during the treatment period will be calculated separately for nab-Paclitaxel and CC-486 as the cumulative dose divided by the treatment duration in weeks. The descriptive statistics will be provided for the dose intensity by drug based on the treated population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of dose reduction</measure>
+    <time_frame>Approximately 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Dose reduction is defined as when the dose administered after Cycle 1 Day 1 is at a lower dose level than the dose the subject receives at the previous dosing visit. Number and percentage of subjects with at least 1 dose reduction, number of dose reductions, and reasons for reduction, by cycle and overall will be summarized separately for nab-Paclitaxel and CC-486.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Carcinoma, Non-Small-Cell Lung</condition>
+  <arm_group>
+    <arm_group_label>Combination arm: nab-paclitaxel and CC-486</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in the combination arm will receive nab-paclitaxel 100 mg^/m2 intravenous (IV) infusion over 30 minutes on Days 8 and 15 and CC-486 200 mg orally daily (QD) on Days 1 to14 of each 21-day treatment cycle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Monotherapy arm: nab-paclitaxel IV infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects in the monotherapy arm will receive nab-Paclitaxel 100 mg/m^2 IV infusion over 30 minutes on Days 1 and 8 of each 21-day treatment cycle</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nab-paclitaxel IV</intervention_name>
+    <description>nab-Paclitaxel intravenous (IV) infusion</description>
+    <arm_group_label>Combination arm: nab-paclitaxel and CC-486</arm_group_label>
+    <arm_group_label>Monotherapy arm: nab-paclitaxel IV infusion</arm_group_label>
+    <other_name>Abraxane</other_name>
+    <other_name>ABI-007</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CC-486</intervention_name>
+    <description>Oral CC-486</description>
+    <arm_group_label>Combination arm: nab-paclitaxel and CC-486</arm_group_label>
+    <other_name>Oral AZA</other_name>
+    <other_name>Oral azacitidine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Subjects must satisfy the following criteria to be randomized in the
+        study:
+
+          1. Age ≥ 18 years the time of signing the Informed Consent Form (ICF).
+
+          2. Understand and voluntarily provide written informed consent prior to the conduct of
+             any study related assessments/procedures.
+
+          3. Able to adhere to the study visit schedule and other protocol requirements
+
+          4. Histologically or cytologically confirmed advanced nonsquamous NSCLC.
+
+          5. No other current active malignancy requiring anticancer therapy.
+
+          6. Radiographically documented measurable disease (defined by the presence of ≥ 1
+             radiographically documented measurable lesion).
+
+          7. One prior platinum-containing chemotherapy for the treatment of advanced disease.
+
+          8. Absolute neutrophil count (ANC) ≥ 1500 cells/mm3.
+
+          9. Platelets ≥ 100,000 cells/mm3.
+
+         10. Hemoglobin (Hgb) ≥ 9 g/dL.
+
+         11. Aspartate transaminase (AST/serum glutamic oxaloacetic transaminase [SGOT]) and
+             alanine transaminase (ALT/serum glutamic pyruvic transaminase [SGPT]) ≤ 2.5 × upper
+             limit of normal range (ULN) or ≤ 5.0 × ULN if liver metastases.
+
+         12. Total bilirubin ≤ 1.5 ULN (unless there is a known history of Gilberts Syndrome).
+
+         13. Serum creatinine ≤ 1.5 x ULN, or calculated creatinine clearance ≥ 60 mL/min (if
+             renal impairment is suspected 24-hour urine collection for measurement is required).
+
+         14. Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.
+
+         15. Females of childbearing potential [defined as a sexually mature woman who (1) have
+             not undergone hysterectomy (the surgical removal of the uterus) or bilateral
+             oophorectomy (the surgical removal of both ovaries) or (2) have not been naturally
+             postmenopausal for at least 24 consecutive months (ie, has had menses at any time
+             during the preceding 24 consecutive months)] must:
+
+               1. Have a negative pregnancy test (ß-hCG) as verified by the study doctor within 72
+                  hours prior to starting study therapy. She must agree to ongoing pregnancy
+                  testing during the course of the study, and after end of study therapy. This
+                  applies even if the subject practices true abstinence* from heterosexual
+                  contact.
+
+               2. Either commit to true abstinence* from heterosexual contact (which must be
+                  reviewed on a monthly basis) or agree to use, and be able to comply with,
+                  effective contraception without interruption, 28 days prior to starting
+                  investigational product (IP), during the study therapy (including dose
+                  interruptions), and for 3 months after discontinuation of study therapy.
+
+             Male subjects must:
+
+             a. Practice true abstinence* or agree to use a condom during sexual contact with a
+             pregnant female or a female of childbearing potential while participating in the
+             study, during dose interruptions and for at least 6 months following IP
+             discontinuation, even if he has undergone a successful vasectomy.
+
+         16. Females must abstain from breastfeeding during study participation and 3 months after
+             IP discontinuation.
+
+        Exclusion Criteria:
+
+          -  The presence of any of the following will exclude a subject from enrollment:
+
+               1. Squamous cell NSCLC.
+
+               2. Prior taxane therapy.
+
+               3. Evidence of active brain metastases, including leptomeningeal involvement (prior
+                  evidence of brain metastasis are permitted only if asymptomatic and clinically
+                  stable for at least 8 weeks following completion of therapy). MRI of the brain
+                  (or CT scan w/contrast) is preferred.
+
+               4. Only evidence of disease is non-measurable.
+
+               5. Known EGFR mutation.
+
+               6. Known EML4-ALK mutation.
+
+               7. Preexisting peripheral neuropathy of Grade &gt; 2 (per NCI CTCAE v4.0).
+
+               8. Venous thromboembolism within 1 month prior to Cycle 1 Day 1.
+
+               9. Current congestive heart failure (New York Heart Association Class II-IV).
+
+              10. History of the following within 6 months prior to Cycle 1 Day 1: a myocardial
+                  infarction, severe/unstable angina pectoris, coronary/peripheral artery bypass
+                  graft, New York Heart Association (NYHA) Class III-IV heart failure,
+                  uncontrolled hypertension, clinically significant cardiac dysrhythmia or
+                  clinically significant electrocardiogram (ECG) abnormality, cerebrovascular
+                  accident, transient ischemic attack, or seizure disorder.
+
+              11. Known hepatitis B or C virus (HBV/HCV) infection, known history of human
+                  immunodeficiency virus (HIV) infection, or receiving immunosuppressive or
+                  myelosuppressive medications that would in the opinion of the investigator,
+                  increase the risk of serious neutropenic complications.
+
+              12. Active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic
+                  therapy, defined as ongoing signs/symptoms related to the infection without
+                  improvement despite appropriate antibiotics, antiviral therapy, and/or other
+                  treatment.
+
+              13. History of interstitial lung disease, sarcoidosis, silicosis, idiopathic
+                  pulmonary fibrosis, or pulmonary hypersensitivity pneumonitis.
+
+              14. Subject has a clinically significant malabsorption syndrome, persistent
+                  diarrhea, or known sub-acute bowel obstruction &gt; NCI CTCAE Grade 2, despite
+                  medical management.
+
+              15. Treatment with any investigational product within 28 days prior to signing the
+                  ICF.
+
+              16. History of or suspected allergy to nab-paclitaxel, azacitidine, human albumin or
+                  mannitol.
+
+              17. Currently enrolled in any other clinical protocol or investigational trial that
+                  involves administration of experimental therapy and/or therapeutic devices.
+
+              18. Any other clinically significant medical condition, psychiatric illness, and/or
+                  organ dysfunction that will interfere with the administration of the therapy
+                  according to this protocol or which, in the views of investigator, preclude
+                  combination chemotherapy.
+
+              19. Any other malignancy within 5 years prior to randomization, or advanced
+                  malignant hepatic tumors, with the exception of adequately treated squamous cell
+                  carcinoma of the skin, in-situ carcinoma of the cervix, uteri, non-melanomatous
+                  skin cancer, carcinoma in situ of the breast, or incidental histological finding
+                  of prostate cancer (TNM Classification of Malignant Tumours (TNM) stage of T1a
+                  or T1b). (All treatment of which should have been completed 6 months prior to
+                  signing ICF).
+
+              20. Any condition including the presence of laboratory abnormalities, which places
+                  the subject at unacceptable risk if he/she were to participate in the study.
+
+              21. Any medical condition that confounds the ability to interpret data from the
+                  study.
+
+              22. Pregnant or breastfeeding females.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teng Jin Teng Jin Ong, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Celgene</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Duong Duong Nguyen, Pharm.D.</last_name>
+    <phone>908.673.9803</phone>
+    <email>dnguyen@celgene.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marianne Wolfsteiner, M.D.</last_name>
+    <email>mwolfsteiner@celgene.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of Central Connecticut Gynecologic Oncology</name>
+      <address>
+        <city>New Britain</city>
+        <state>Connecticut</state>
+        <zip>06050</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Cancer and Blood Center, LLC</name>
+      <address>
+        <city>Athens</city>
+        <state>Georgia</state>
+        <zip>30607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>John Theurer Cancer Center at Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College - New York - Presbyterian Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Associates in Oncology and Hematology</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Oncology</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital Riverside Campus</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Victoria Hospital McGill Department of Oncology(RVH)</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 1A1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Calmette</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Rene Gauducheau Centre de Lutte Contre Le Cancer Nantes Atlantique</name>
+      <address>
+        <city>Saint Herblain</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Paul Brousse</name>
+      <address>
+        <city>Villejuif</city>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Essen</name>
+      <address>
+        <city>Essen</city>
+        <zip>45122</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LungenClinic Grosshansdorf GmbH</name>
+      <address>
+        <city>Grosshansdorf</city>
+        <zip>22927</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik Lowenstein gGmbH</name>
+      <address>
+        <city>Löwenstein</city>
+        <zip>74245</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Munster Klinik und Poliklinik fur Hautkrankheiten</name>
+      <address>
+        <city>Munster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Di Bologna - Policlinico S.Orsola Malpighi</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria di Parma</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Santa Maria della Misericordia die Udine</name>
+      <address>
+        <city>Udine</city>
+        <zip>33100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Germans Trias i Pujol</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramon y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Carlos Haya</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool Heart and Chest Hospital</name>
+      <address>
+        <city>Bebington, Wirral</city>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Heart of England NHS Foundation Trust</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B9 5SS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute UK</name>
+      <address>
+        <city>London</city>
+        <zip>NW1 2BU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle Hospital</name>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <zip>NE7 7DN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Churchhill Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LI</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 5, 2016</lastchanged_date>
+  <firstreceived_date>September 24, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cancer of the Lung</keyword>
+  <keyword>Lung neoplasm</keyword>
+  <keyword>Non-small cell lung cancer (NSCLC)</keyword>
+  <keyword>Nonsquamous</keyword>
+  <keyword>Tumor</keyword>
+  <keyword>Locally advanced NSCLC</keyword>
+  <keyword>Metastatic NSCLC</keyword>
+  <keyword>Advanced lung cancer</keyword>
+  <keyword>Metastatic lung cancer</keyword>
+  <keyword>Non-squamous NSCLC</keyword>
+  <keyword>Lung cancer</keyword>
+  <keyword>Abraxane</keyword>
+  <keyword>ABI-007</keyword>
+  <keyword>Nab-paclitaxel,</keyword>
+  <keyword>Albumin-bound paclitaxel</keyword>
+  <keyword>Taxanes</keyword>
+  <keyword>CC-486</keyword>
+  <keyword>Oral azacitidine</keyword>
+  <keyword>Azacitidine</keyword>
+  <keyword>Second line treatment of lung cancer</keyword>
+  <keyword>Second line treatment</keyword>
+  <keyword>Celgene</keyword>
+  <keyword>Abound.2L</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Azacitidine</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

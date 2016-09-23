@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="248">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02737501</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AP26113-13-301</org_study_id>
+    <nct_id>NCT02737501</nct_id>
+  </id_info>
+  <brief_title>ALTA-1L Study: A Phase 3 Study of Brigatinib Versus Crizotinib in ALK-positive Advanced Non-Small Cell Lung Cancer Patients</brief_title>
+  <acronym>ALTA-1L</acronym>
+  <official_title>A Phase 3 Multicenter Open-label Study of Brigatinib (AP26113) Versus Crizotinib in Patients With ALK-positive Advanced Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ariad Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ariad Pharmaceuticals</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase 3 Multicenter Open-label Study of Brigatinib (AP26113) versus Crizotinib in
+      ALK-positive Advanced Lung Cancer Patients
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this phase III, randomized, open-label, comparative, multicenter,
+      international study is to compare the efficacy and safety of brigatinib to that of
+      crizotinib in anaplastic lymphoma kinase (ALK)-positive locally advanced or metastatic
+      non-small cell lung cancer (NSCLC) patients who have not previously been treated with an ALK
+      inhibitor. Participants will be randomized in a 1:1 ratio to receive either brigatinib, 90
+      milligrams (mg) orally once daily (QD) for 7 days, then a 180 mg orally QD, or crizotinib,
+      250 mg orally twice daily (BID). Participants will receive treatment until disease
+      progression, intolerable toxicity, consent withdrawal, or death. The total estimated
+      duration of the study is at least 5 years, including 2 years to accrue patients, with at
+      least 3 years for treatment and follow-up.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2016</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS) as assessed by a blinded Independent Review Committee (bIRC)</measure>
+    <time_frame>At least 36 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR)</measure>
+    <time_frame>At least 36 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as the proportion of the patients who are confirmed to have achieved CR or PR using RECIST v. 1.1 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intracranial ORR</measure>
+    <time_frame>At least 36 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as the proportion of the patients who have achieved CR or PR in the CNS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intracranial PFS</measure>
+    <time_frame>At least 36 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as the time from randomization until first CNS disease progression is documented, or death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>At least 36 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as the time from randomization until death due to any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life (HRQoL)</measure>
+    <time_frame>Until 30 days after the last dose of study treatment.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as the perceived quality of the patient's life, which includes self-reported multidimensional measures of physical and mental health.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with adverse events</measure>
+    <time_frame>Until at least 30 days after the last dose of study treatment.</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To evaluate the safety and tolerability of brigatinib in the Intention to Treat (ITT) population. Measured by routine physical and laboratory evaluations, ECG, and adverse event (AE) monitoring.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state pharmacokinetic (PK) parameter: Maximum Plasma Concentration [Cmax]</measure>
+    <time_frame>Up to 28 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK samples will be taken to assess limited elements of PK in the Treated population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state pharmacokinetic (PK) parameter: Minimum plasma concentration [Cmin]</measure>
+    <time_frame>Up to 28 months.</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>PK samples will be taken to assess limited elements of PK in the Treated population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state pharmacokinetic (PK) parameter: Area Under the Curve [AUC]</measure>
+    <time_frame>Up to 28 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK samples will be taken to assess limited elements of PK in the Treated population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state pharmacokinetic (PK) parameter: Time to maximum plasma concentration (Tmax)</measure>
+    <time_frame>Up to 28 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK samples will be taken to assess limited elements of PK in the Treated population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steady state pharmacokinetic (PK) parameter: Apparent oral clearance [CL/F]</measure>
+    <time_frame>Up to 28 months.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PK samples will be taken to assess limited elements of PK in the Treated population.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Non-small Cell Lung Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Advanced Malignancies</condition>
+  <condition>Carcinoma</condition>
+  <arm_group>
+    <arm_group_label>Brigatinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brigatinib will be administered orally to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors at a dose of 90 mg QD for 7 days, then 180 mg QD, continuously, with or without food until disease progression, unacceptable toxicity, withdrawal of consent or death.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Crizotinib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Crizotinib will be administered to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors as 250 mg orally BID, with or without food until disease progression, unacceptable toxicity, withdrawal of consent or death.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brigatinib</intervention_name>
+    <description>Brigatinib will be administered orally to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors at a dose of 90 mg QD for 7 days, then 180 mg QD, continuously, until disease progression, unacceptable toxicity, withdrawal of consent or death.</description>
+    <arm_group_label>Brigatinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Xalkori (crizotinib)</intervention_name>
+    <description>Crizotinib will be administered to eligible patients with locally advanced or metastatic ALK+ NSCLC naïve to ALK inhibitors as 250 mg orally BID, until disease progression, unacceptable toxicity, withdrawal of consent or death.</description>
+    <arm_group_label>Crizotinib</arm_group_label>
+    <other_name>Crizotinib</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Have histologically or cytologically confirmed stage IIIB (and not a candidate for
+             definitive multimodality therapy) or stage IV NSCLC.
+
+          2. Must have documented ALK rearrangement.
+
+          3. Have sufficient tumor tissue available for central analysis.
+
+          4. Have at least 1 measurable (i.e., target) lesion per RECIST v1.1.
+
+          5. Recovered from toxicities related to prior anticancer therapy to NCI CTCAE v 4.0
+             grade ≤1.
+
+          6. Are a male or female patient ≥18 years old.
+
+          7. Have adequate organ function, as defined by the study protocol.
+
+          8. Have Eastern Cooperative Oncology Group (ECOG) performance status ≤2.
+
+          9. Have normal QT interval on screening ECG evaluation, defined as QT interval corrected
+             (Fridericia) (QTcF) of ≤450 milliseconds (msec) in males or ≤470 msec in females.
+
+         10. For female patients of childbearing potential, have a negative pregnancy test
+             documented prior to randomization.
+
+         11. For female and male patients who are fertile, agree to use a highly effective form of
+             contraception, as defined by the study protocol.
+
+         12. Provide signed and dated informed consent indicating that the patient has been
+             informed of all pertinent aspects of the study, including the potential risks, and is
+             willingly participating.
+
+         13. Have the willingness and ability to comply with scheduled visit and study procedures.
+
+        Exclusion Criteria:
+
+          1. Previously received an investigational antineoplastic agent for NSCLC.
+
+          2. Previously received any prior TKI, including ALK-targeted TKIs.
+
+          3. Previously received more than 1 regimen of systemic anticancer therapy for locally
+             advanced or metastatic disease.
+
+          4. Received chemotherapy or radiation within 14 days of first dose of study drug, except
+             stereotactic radiosurgery (SRS) or stereotactic body radiation therapy (SBRT).
+
+          5. Received anti-neoplastic monoclonal antibodies within 30 days of the first dose of
+             study drug.
+
+          6. Had major surgery within 30 days of the first dose of study drug, minor surgical
+             procedures such as catheter placement or minimally invasive biopsies are allowed.
+
+          7. Have been diagnosed with another primary malignancy other than NSCLC, except for
+             adequately treated non-melanoma skin cancer or cervical cancer in situ; definitively
+             treated non-metastatic prostate cancer; or patients with another primary malignancy
+             who are definitively relapse-free with at least 3 years elapsed since the diagnosis
+             of the other primary malignancy.
+
+          8. Have symptomatic CNS metastases (parenchymal or leptomeningeal) at screening or
+             asymptomatic disease requiring an increasing dose of corticosteroids to control
+             symptoms within 7 days prior to randomization.
+
+          9. Have current spinal cord compression (symptomatic or asymptomatic and detected by
+             radiographic imaging). Patients with leptomeningeal disease and without cord
+             compression are allowed.
+
+         10. Be pregnant, planning a pregnancy, or breastfeeding
+
+         11. Have significant, uncontrolled, or active cardiovascular disease, as defined by the
+             study protocol.
+
+         12. Have uncontrolled hypertension.
+
+         13. Have a history or the presence at baseline of pulmonary interstitial disease,
+             drug-related pneumonitis, or radiation pneumonitis.
+
+         14. Have an ongoing or active infection.
+
+         15. Have a known history of human immunodeficiency virus (HIV) infection.
+
+         16. Have a known or suspected hypersensitivity to brigatinib or its excipients and/or
+             crizotinib or its excipients.
+
+         17. Have malabsorption syndrome or other gastrointestinal (GI) illness or condition.
+
+         18. Have any condition or illness that, in the opinion of the investigator, would
+             compromise patient safety or interfere with the evaluation of the study drug.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>David Kerstein, MD</last_name>
+    <phone>(617) 494-0400</phone>
+    <email>David.Kerstein@ARIAD.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sergio Santillana, MD</last_name>
+    <phone>(617) 494-0400</phone>
+    <email>Sergio.Santillana@ARIAD.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Colorado Cancer Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Camidge, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 12, 2016</lastchanged_date>
+  <firstreceived_date>March 30, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Non-small cell lung cancer</keyword>
+  <keyword>Non-small cell lung carcinoma</keyword>
+  <keyword>Epithelial lung cancer</keyword>
+  <keyword>Squamous cell carcinoma</keyword>
+  <keyword>Large cell carcinoma</keyword>
+  <keyword>Adenocarcinoma</keyword>
+  <keyword>Carcinoma</keyword>
+  <keyword>Anaplastic Lymphoma Kinase (ALK)</keyword>
+  <keyword>Advanced Cancers</keyword>
+  <keyword>Brigatinib</keyword>
+  <keyword>AP26113</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Crizotinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

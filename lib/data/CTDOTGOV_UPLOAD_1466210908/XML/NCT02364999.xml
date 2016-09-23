@@ -1,0 +1,4730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02364999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B7391003</org_study_id>
+    <secondary_id>2014-003878-16</secondary_id>
+    <secondary_id>B7391003</secondary_id>
+    <nct_id>NCT02364999</nct_id>
+  </id_info>
+  <brief_title>A Comparative Study Of PF-06439535 Plus Paclitaxel-Carboplatin And Bevacizumab Plus Paclitaxel-Carboplatin Patients With Advanced Non-Squamous NSCLC</brief_title>
+  <official_title>A Phase 3 Randomized, Double-Blind Study Of PF-06439535 Plus Paclitaxel-Carboplatin And Bevacizumab Plus Paclitaxel -Carboplatin For The First-Line Treatment Of Patients With Advanced Non-Squamous Non-Small Cell Lung Cancer.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multinational, double-blind, randomized, parallel-group Phase 3 clinical trial
+      evaluating the efficacy and safety of bevacizumab-Pfizer plus paclitaxel and carboplatin
+      versus bevacizumab-EU plus paclitaxel and carboplatin in first-line treatment for patients
+      with advanced (unresectable, locally advanced, recurrent or metastatic) non-squamous NSCLC.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2015</start_date>
+  <completion_date type="Anticipated">March 2018</completion_date>
+  <primary_completion_date type="Anticipated">September 2017</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Best confirmed objective Response Rate (ORR)</measure>
+    <time_frame>Week 19</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Comparison of the best confirmed objective response rate (ORR) by Week 19 in first-line treatment for patients with advanced (unresectable, locally advanced, recurrent or metastatic) non-squamous NSCLC</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response (DOR)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Duration of response (DOR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak and trough</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Peak and trough bevacizumab-Pfizer concentrations at selected cycles</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of anti-drug (bevacizumab) antibodies (ADA), including neutralizing antibodies (NAb)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Incidence of anti-drug (bevacizumab) antibodies (ADA), including neutralizing antibodies (NAb)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>1 year progression-free survival (PFS) rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival Rate</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>1-year survival rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak and trough</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Peak and trough bevacizumab-EU concentrations at selected cycles</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">710</enrollment>
+  <condition>Non-small Cell Lung Cancer (NSCLC)</condition>
+  <arm_group>
+    <arm_group_label>Bevacizumab-Pfizer</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Bevacizumab-Pfizer plus paclitaxel and carboplatin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bevacizumab-EU</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Bevacizumab-EU plus paclitaxel and carboplatin</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab-Pfizer</intervention_name>
+    <description>Bevacizumab-Pfizer: 15 mg/kg IV on Day 1 of a 21-day cycle for each of at least 4 and no more than six (6) 21-day cycles</description>
+    <arm_group_label>Bevacizumab-Pfizer</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab-EU</intervention_name>
+    <description>bevacizumab-EU: 15 mg/kg IV on Day 1 of a 21-day cycle for each of at least 4 and no more than six (6) 21-day cycles.</description>
+    <arm_group_label>Bevacizumab-EU</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paclitaxel</intervention_name>
+    <description>Paclitaxel 200 mg/m2 via IV infusions on Day 1 of a 21-day cycle.</description>
+    <arm_group_label>Bevacizumab-Pfizer</arm_group_label>
+    <arm_group_label>Bevacizumab-EU</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>carboplatin AUC =6.0 via IV infusions on Day 1 of a 21-day cycle.</description>
+    <arm_group_label>Bevacizumab-Pfizer</arm_group_label>
+    <arm_group_label>Bevacizumab-EU</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male and female patients age at least 18 years of age, or age of consent in the
+             region.
+
+          -  Newly diagnosed Stage IIIB or IV non-small cell lung cancer (according to Revised
+             International System for Staging Lung Cancer criteria of 2010) or recurrent non-small
+             cell lung cancer (NSCLC) for which they had not received chemotherapy for metastatic
+             disease.
+
+          -  Histologically or cytologically confirmed diagnosis of predominately non-squamous
+             NSCLC.
+
+          -  Be eligible to receive study treatment of bevacizumab, paclitaxel, and carboplatin
+             based on local standard of care, for the treatment of advanced or metastatic
+             non-squamous NSCLC.
+
+        Exclusion Criteria:
+
+          -  Small cell lung cancer (SCLC) or combination SCLC and NSCLC. Squamous-cell tumors and
+             mixed adenosquamous carcinomas of predominantly squamous nature.
+
+          -  Evidence of a tumor that compresses or invades major blood vessels or tumor
+             cavitation that in the opinion of the investigator is likely to bleed.
+
+          -  Known sensitizing EGFR mutations (for example, deletion 19 or L858R) or EML4-ALK
+             translocation positive mutations.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Southern Cancer Center</name>
+      <address>
+        <city>Daphne</city>
+        <state>Alabama</state>
+        <zip>36526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Cancer Center, PC</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Cancer Center, PC</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Genesis Cancer Center</name>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beaver Medical Group, L.P.</name>
+      <address>
+        <city>Highland</city>
+        <state>California</state>
+        <zip>92346</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Solano Hematology Oncology</name>
+      <address>
+        <city>Vallejo</city>
+        <state>California</state>
+        <zip>94589</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Central Connecticut</name>
+      <address>
+        <city>New Britain</city>
+        <state>Connecticut</state>
+        <zip>06052</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center of Central Connecticut</name>
+      <address>
+        <city>Southington</city>
+        <state>Connecticut</state>
+        <zip>06489</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRCR Medical Center Inc.</name>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Florida Oncology and Hematology</name>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Phoebe Putney Memorial Hospital</name>
+      <address>
+        <city>Albany</city>
+        <state>Georgia</state>
+        <zip>31701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Philip Oncology &amp; Hematology Associates</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60625-4971</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Convenant Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Convenant Medical Group</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Covnenant Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Convenant Medical Group Lab</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Covenant Medical Group Lab</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Covenant Medical Group</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Horizon Oncology Research, Inc. (Drug Shipment Address)</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <zip>47905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Horizon Oncology Research, Inc.</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <zip>47905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cotton-O'Neil Clinical Research Center, Hematology &amp; Oncology</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meritus Center for Clinical Research</name>
+      <address>
+        <city>Hagerstown</city>
+        <state>Maryland</state>
+        <zip>21742</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Washington Oncology Associates</name>
+      <address>
+        <city>Riverdale</city>
+        <state>Maryland</state>
+        <zip>20737</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital Resource Center (Administrative Only)</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Washington Oncology Associates</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital, Hospital Pharmacy (IP shipment address)</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland Oncology &amp; Hematology, PA</name>
+      <address>
+        <city>Wheaton</city>
+        <state>Maryland</state>
+        <zip>20902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Regional Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gettysburg Cancer Center</name>
+      <address>
+        <city>Gettysburg</city>
+        <state>Pennsylvania</state>
+        <zip>17325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hanover Cancer Center</name>
+      <address>
+        <city>Hanover</city>
+        <state>Pennsylvania</state>
+        <zip>17331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Meharry Medical College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nashville General Hospital</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Health Physicians Group</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Oncology (IP Shipment Address)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Oncology (Imaging Facility)</name>
+      <address>
+        <city>Kingwood</city>
+        <state>Texas</state>
+        <zip>77339</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest Cancer Treatment and Research Center</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Tech University Health Sciences Center</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79430</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Health Physicians Group</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Health Physicians Group</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Oncology</name>
+      <address>
+        <city>Shenandoah</city>
+        <state>Texas</state>
+        <zip>77384</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Oncology (Imaging Facility)</name>
+      <address>
+        <city>The Woodlands</city>
+        <state>Texas</state>
+        <zip>77380</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McBeath Pharmacy</name>
+      <address>
+        <city>Baulkham Hills</city>
+        <state>New South Wales</state>
+        <zip>2153</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epic Pharmacy</name>
+      <address>
+        <city>Lismore</city>
+        <state>New South Wales</state>
+        <zip>2480</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Macquarie University Clinical Trials Unit</name>
+      <address>
+        <city>North Ryde</city>
+        <state>New South Wales</state>
+        <zip>2109</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Macquarie University</name>
+      <address>
+        <city>North Ryde</city>
+        <state>New South Wales</state>
+        <zip>2109</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Cancer Institute</name>
+      <address>
+        <city>St Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Tweed Hospital</name>
+      <address>
+        <city>Tweed Heads</city>
+        <state>New South Wales</state>
+        <zip>2485</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>River City Pharmacy - Pharmacy only</name>
+      <address>
+        <city>Auchenflower</city>
+        <state>Queensland</state>
+        <zip>4066</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icon Cancer Care, Corporate Office</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icon Cancer Foundation</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icon Cancer Care Southport</name>
+      <address>
+        <city>Southport</city>
+        <state>Queensland</state>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cardiac Services, John Flynn Private Hospital -</name>
+      <address>
+        <city>Tugun</city>
+        <state>Queensland</state>
+        <zip>4224</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Coast Radiology, John Flynn Private Hospital</name>
+      <address>
+        <city>Tugun</city>
+        <state>Queensland</state>
+        <zip>4224</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brisbane Heart - ECHOCARDIOGRAM ONLY</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health, Olivia Newton-John Cancer &amp; Wellness Centre</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Coast Radiology - Radiology assessments only</name>
+      <address>
+        <city>Southport, Queensland</city>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Western Health, Sunshine Hospital</name>
+      <address>
+        <city>St Albans</city>
+        <zip>3021</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Izabel / Santa Casa de Misericordia da Bahia</name>
+      <address>
+        <city>Salvador</city>
+        <state>Bahia</state>
+        <zip>40050-410</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncoclinic (Clinica de Oncologia e Atendimento de Urgencia Ltda)</name>
+      <address>
+        <city>Fortaleza</city>
+        <state>Ceara</state>
+        <zip>60160230</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COT - Centro Oncologico do Triangulo Ltda</name>
+      <address>
+        <city>Uberlandia</city>
+        <state>Minas Gerais</state>
+        <zip>38408-150</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Liga Paranaense de Combate ao Cancer - Hospital Erasto Gaertner</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Parana</state>
+        <zip>81520-060</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncosinos (Lessa Ferreira Servicos Oncologicos Ltda)</name>
+      <address>
+        <city>Novo Hamburgo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>93510-250</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital da Cidade de Passo Fundo - HCPF</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>99010-260</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade da Santa Casa de Misericordia de Porto Alegre - ISCMPA (administrative)</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre - UFRGS</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade da Santa Casa de Misericordia de Porto Alegre - Hospital Santa Rita</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90050-170</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CLINIONCO - Clinica de Oncologia de Porto Alegre Ltda</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90430-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisa em Oncologia - Uniao Brasileira de Educacao e Assistencia</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90610-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Joinvillense de Hematologia e Oncologia SS Ltda - Clinica de Hematologia e Oncologia</name>
+      <address>
+        <city>Joinville</city>
+        <state>Santa Catarina</state>
+        <zip>89201-260</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Imaculada Conceicao de Ribeirao Preto (Sociedade Portuguesa de Beneficencia)</name>
+      <address>
+        <city>Ribeirao Preto</city>
+        <state>Sao Paulo</state>
+        <zip>14010-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CEON Centro Especializado de Oncologia</name>
+      <address>
+        <city>Ribeirao Preto</city>
+        <state>Sao Paulo</state>
+        <zip>14015-130</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacao Faculdade Regional de Medicina de Sao Jose do Rio Preto - Hospital</name>
+      <address>
+        <city>Sao Jose do Rio Preto</city>
+        <state>Sao Paulo</state>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Oncologia de Sorocaba - ONCO Clinicas Especializadas SC Ltda</name>
+      <address>
+        <city>Sorocaba</city>
+        <state>Sao Paulo</state>
+        <zip>18035-300</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacao Pio XII- Hospital De Cancer De Barretos</name>
+      <address>
+        <city>Barretos</city>
+        <state>SP</state>
+        <zip>14784-400</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Assistencia Medica ao Servidor PUblico Estadual - IAMSPE/HSPE-FMO</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <zip>04039-004</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto COI de Pesquisa, Educacao e Gestao - COI Clinicas Barra Da Tijuca</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22793-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Assistencia Medica ao Servidor Publico Estadual - IAMSPE/HSPE-FMO</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>04038-034</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UMHAT Georgi Stranski EAD</name>
+      <address>
+        <city>Pleven</city>
+        <zip>5800</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Complex oncology center - Veliko Tarnovo EOOD,</name>
+      <address>
+        <city>Veliko Tarnovo</city>
+        <zip>5000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Santa Maria</name>
+      <address>
+        <city>Santiago</city>
+        <state>Metropolitana</state>
+        <zip>7520378</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Internacional de Estudios Clinicos</name>
+      <address>
+        <city>Santiago</city>
+        <state>Metropolitana</state>
+        <zip>8420383</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Clinico Oncologico del Sur (ICOS)</name>
+      <address>
+        <city>Temuco</city>
+        <state>Region de La Araucania</state>
+        <zip>4810469</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigaciones Clinicas Vina del Mar Ltda.</name>
+      <address>
+        <city>Vina del Mar</city>
+        <state>V Region Valparaiso</state>
+        <zip>2540364</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Dubrovnik</name>
+      <address>
+        <city>Dubrovnik</city>
+        <zip>20000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Pula</name>
+      <address>
+        <city>Pula</city>
+        <zip>52100</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital Zadar</name>
+      <address>
+        <city>Zadar</city>
+        <zip>23 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Centre &quot;Sestre milosrdnice&quot;</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10 000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Center Zagreb</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oblastni nemocnice Nachod,</name>
+      <address>
+        <city>Nachod</city>
+        <zip>54701</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice na Plesi s.r.o</name>
+      <address>
+        <city>Nova Ves pod Plesi</city>
+        <zip>262 04</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lekarna Agel Novy Jicin</name>
+      <address>
+        <city>Novy Jicin</city>
+        <zip>741 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Novy Jicin</name>
+      <address>
+        <city>Novy Jicin</city>
+        <zip>741 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lekarna Agel Novy Jicin</name>
+      <address>
+        <city>Pelhrimov</city>
+        <zip>39338</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnice Pelhrimov -Radioterapeuticke oddeleni</name>
+      <address>
+        <city>Pelhrimov</city>
+        <zip>39338</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GVA lab</name>
+      <address>
+        <city>Meyrin/Geneve</city>
+        <state>CH</state>
+        <zip>1217 Switzerland</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal du Pays d'Aix-Pertuis</name>
+      <address>
+        <city>Aix en Provence Cedex 01</city>
+        <zip>13616</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier General De Mont De Marsan</name>
+      <address>
+        <city>Mont De Marsan Cedex</city>
+        <zip>40024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Montbeliard</name>
+      <address>
+        <city>Montbeliard</city>
+        <zip>25200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Catherine de Sienne</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier d'Orleans La source</name>
+      <address>
+        <city>Orleans cedex 2</city>
+        <zip>45067</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Catherine de Sienne</name>
+      <address>
+        <city>Paris Cedex 10</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon Sud</name>
+      <address>
+        <city>Pierre Benite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'instruction des armées Saint Anne</name>
+      <address>
+        <city>Toulon</city>
+        <zip>83800 Cedex 9</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pole Logistigue</name>
+      <address>
+        <city>Trevenans</city>
+        <zip>90400</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Freiburg</name>
+      <address>
+        <city>Freiburg</city>
+        <state>Baden Wurttemberg</state>
+        <zip>79106</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Lab Services</name>
+      <address>
+        <city>Geneve</city>
+        <state>Meyrin</state>
+        <zip>1217</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Lab</name>
+      <address>
+        <city>Geneve</city>
+        <state>Meyrin</state>
+        <zip>1217</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum des Saarlandes</name>
+      <address>
+        <city>Homburg/Saar</city>
+        <state>Saarland</state>
+        <zip>66421</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POIS Leipzig GbR, Pneumologisch/onkologisch/internistisches</name>
+      <address>
+        <city>Leipzig</city>
+        <state>Saxony</state>
+        <zip>04357</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Laboratory Services</name>
+      <address>
+        <city>Geneve-CH Meyrin</city>
+        <state>Switzerland</state>
+        <zip>1217</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentralklinik Bad Berka GmbH</name>
+      <address>
+        <city>Bad Berka</city>
+        <zip>99437</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Bayreuth GmbH</name>
+      <address>
+        <city>Bayreuth</city>
+        <zip>95445</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Evangelische Lungenklinik Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Viereck-Apotheke</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vivantes GmbH Apotheke des Humboldt-Klinikums</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13509</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vivantes Klinikum Spandau</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13585</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Staedtisches Klinikum Braunschweig gGmbH</name>
+      <address>
+        <city>Braunschweig</city>
+        <zip>38114</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Chemnitz gGmbH</name>
+      <address>
+        <city>Chemnitz</city>
+        <zip>09113</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fachkrankenhaus Coswig GmbH</name>
+      <address>
+        <city>Coswig</city>
+        <zip>01640</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HELIOS St. Johannes Klinik</name>
+      <address>
+        <city>Duisburg</city>
+        <zip>47166</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrallabor Klinikum Esslingen GmbH</name>
+      <address>
+        <city>Esslingen a .N</city>
+        <zip>73730</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Esslingen GmbH</name>
+      <address>
+        <city>Esslingen a.N.</city>
+        <zip>73730</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Elisabethen - Krankenhaus</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <zip>60487</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Fulda gAG - Tumorklinik/MVZ-Osthessen GmbH</name>
+      <address>
+        <city>Fulda</city>
+        <zip>36043</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ABF Reinraumlabor</name>
+      <address>
+        <city>Furth</city>
+        <zip>90762</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut fuer Mokrobiologie und Laboratoriumsdiagnostik</name>
+      <address>
+        <city>Gauting, Germany</city>
+        <zip>82131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Asklepios Fachkliniken Muenchen Gauting</name>
+      <address>
+        <city>Gauting</city>
+        <zip>82131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut fur Mokrobiologie und Laboratoriumsdiagnostik</name>
+      <address>
+        <city>Gauting</city>
+        <zip>82131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johannes-Apotheke</name>
+      <address>
+        <city>Groebenzell</city>
+        <zip>82194</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut fuer Laboratoriumsmedizin</name>
+      <address>
+        <city>Halle(Saale)</city>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Krankenhaus Martha-Maria Halle-Doelau gGmbH Apotheke</name>
+      <address>
+        <city>Halle</city>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zytoservice Deutschland GmbH</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>22045</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Katholisches Marienkrankenhaus gGmbH</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>22087</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Chemie und Laboratoriumsmedizin-Zentrallabor</name>
+      <address>
+        <city>Homburg</city>
+        <zip>66421</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medipolis Produktion GmbH &amp; Co. KG</name>
+      <address>
+        <city>Jena</city>
+        <zip>07743</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincentius-Kliniken gAG Karlsruhe</name>
+      <address>
+        <city>Karlsruhe</city>
+        <zip>76137</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrallabor St. Vincentiues-Kliniken gAG Karlsruhe</name>
+      <address>
+        <city>Karlsruhe</city>
+        <zip>76137</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Fuer Versorgungsforschung In Der Onkologie</name>
+      <address>
+        <city>Koblenz</city>
+        <zip>56068</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Radiologisches Institut Koblenz</name>
+      <address>
+        <city>Koblenz</city>
+        <zip>56068</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sonnenscheinapotheke</name>
+      <address>
+        <city>Koblenz</city>
+        <zip>56068</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HELIOS Klinikum Krefeld</name>
+      <address>
+        <city>Krefeld</city>
+        <zip>47805</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Haematologie, Onkologie und Palliativmedizin, Tagesklinik Landshut</name>
+      <address>
+        <city>Landshut</city>
+        <zip>84028</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Radiologie Muhleninsel</name>
+      <address>
+        <city>Landshut</city>
+        <zip>84028</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hirsch-Apotheke</name>
+      <address>
+        <city>Leer</city>
+        <zip>26789</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Studienzentrale Unter Ems MVM mbH</name>
+      <address>
+        <city>Leer</city>
+        <zip>26789</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MVZ Mitte</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum fuer Radiologie und Nuklearmedizin am Johannisplatz (ZRN Leipzig)</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04103</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arkana Apotheke OHG *Pharmacy Only*</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04315</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Magdeburg A.oe.R.</name>
+      <address>
+        <city>Magdeburg</city>
+        <zip>39120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsmedizin der Johannes Gutenberg-Universitaet Mainz</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Onkologie Moers GbR</name>
+      <address>
+        <city>Moers</city>
+        <zip>47441</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Friedrich-Ebert-Krankenhaus Neumuenster</name>
+      <address>
+        <city>Neumuenster</city>
+        <zip>24534</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sotiria General Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Athens Hosp. of Chest Diseases of Athens ''Sotiria''</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Kifissia &quot;Agioi Anargiroi&quot;</name>
+      <address>
+        <city>Athens</city>
+        <zip>14564</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>General Oncology Hospital of Kifissia ''Ag. Anargiroi''</name>
+      <address>
+        <city>Athens</city>
+        <zip>14564</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hopsital of Heraklion</name>
+      <address>
+        <city>Heraklion</city>
+        <zip>71110</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital Of Patras</name>
+      <address>
+        <city>Patra</city>
+        <zip>26504</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Euromedica General Clinic of Thessaloniki</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>546 45</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>European Inter-Balkan Medical Centre</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57001</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thermi Clinic S.A</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57001</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gen.Hospital &quot;G. Papanikolaou&quot;</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57010</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Hong Kong (HKU)-Queen Mary Hospital (QMH)</name>
+      <address>
+        <city>Hong Kong</city>
+        <zip>HKG</zip>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>OPUS Medical Diagnostic Centre</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tuen Mun Hospital</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Mary Hospital</name>
+      <address>
+        <city>Pokfulam</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chan &amp; Hou Medical Laboratories Ltd</name>
+      <address>
+        <city>Wanchai</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Veszprem Megyei Tudogyogyintezet</name>
+      <address>
+        <city>Farkasgyepu</city>
+        <state>Veszprem</state>
+        <zip>8582</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis Egyetem, Pulmonologiai Klinika</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1125</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Csongrad Megyei Mellkasi Betegsegek Szakkorhaza</name>
+      <address>
+        <city>Deszk</city>
+        <zip>6772</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Koch Robert Korhaz es Rendelointezet</name>
+      <address>
+        <city>Edeleny</city>
+        <zip>3780</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Petz Aladar Megyei Oktato Korhaz, Pulmonologiai Osztaly</name>
+      <address>
+        <city>Gyor</city>
+        <zip>9023</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Matrai Gyogyintezet Pulmonologiai Osztaly</name>
+      <address>
+        <city>Matrahaza</city>
+        <zip>3233</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Miskolci Semmelweis Korhaz es Egyetemi Oktatokorhaz, Tudogyogyaszati Osztaly</name>
+      <address>
+        <city>Miskolc</city>
+        <zip>3529</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jasz-Nagykun-Szolnok Megyei Hetenyi Geza Korhaz - Rendelointezet, Megyei Onkologiai Kozpont</name>
+      <address>
+        <city>Szolnok</city>
+        <zip>5000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tudogyogyintezet Torokbalint</name>
+      <address>
+        <city>Torokbalint</city>
+        <zip>2045</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zala Megyei Korhaz</name>
+      <address>
+        <city>Zalaegerszeg</city>
+        <zip>8900</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mahatma Gandhi Cancer Hospital And Research Institute</name>
+      <address>
+        <city>Vishakapatnam</city>
+        <state>Andhra Pradesh</state>
+        <zip>530017</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HealthCare Global Enterprises Limited</name>
+      <address>
+        <city>Bangalore</city>
+        <state>Karnataka</state>
+        <zip>560027</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shatabdi Super Speciality Hospital</name>
+      <address>
+        <city>Nashik</city>
+        <state>Maharashtra</state>
+        <zip>422 005</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahyadri Clinical Research and Development Centre</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahyadri Speciality Hospital</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Insitute of Respiratory Disease, SMS Medical College &amp; Hospital</name>
+      <address>
+        <city>Jaipur</city>
+        <state>Rajasthan</state>
+        <zip>302016</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>spedale Treviglio Caravaggio</name>
+      <address>
+        <city>Treviglio</city>
+        <state>BG</state>
+        <zip>24047</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC Oncologia</name>
+      <address>
+        <city>Treviglio</city>
+        <state>BG</state>
+        <zip>24047</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oncologia Medica, Fondazione Poliambulanza Instituto Ospedaliero</name>
+      <address>
+        <city>Brescia</city>
+        <state>BS</state>
+        <zip>25124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nazionale Tumori G. Pascale</name>
+      <address>
+        <city>Napoli</city>
+        <state>Campania</state>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. Oncologia, Istituti Ospitalieri di Cremona</name>
+      <address>
+        <city>Cremona</city>
+        <state>CR</state>
+        <zip>26100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UO Oncologia Medica</name>
+      <address>
+        <city>Catania</city>
+        <state>CT</state>
+        <zip>95123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unita di Oncologia Toracica</name>
+      <address>
+        <city>Meldola</city>
+        <state>FC</state>
+        <zip>47014</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unita Operativa di Oncologia Medica</name>
+      <address>
+        <city>Lecce</city>
+        <state>LE</state>
+        <zip>73100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC di Oncologia Medica</name>
+      <address>
+        <city>Lido di Camaiore</city>
+        <state>LU</state>
+        <zip>55041</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Europeo di Oncologia</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Area Sangue, Organi e Tessuti</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <zip>00152</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOSD Pnemologia Oncologica - Padiglione Flaiani</name>
+      <address>
+        <city>Roma</city>
+        <state>RM</state>
+        <zip>00152</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>U.O. Oncologia Rimini-AUSL Romagna-Presidi Rimini/Cattolica</name>
+      <address>
+        <city>Cattolica</city>
+        <state>RN</state>
+        <zip>47841</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>U.O. Oncologia Rimini-AUSL Romagna-Presidi Rimini/Cattolica</name>
+      <address>
+        <city>Rimini</city>
+        <state>RN</state>
+        <zip>47900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. Oncologia Medica - Presidio Ospedaliero Sondrio</name>
+      <address>
+        <city>Sondrio</city>
+        <state>SO</state>
+        <zip>23100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda U.L.S.S. 13 Mirano</name>
+      <address>
+        <city>Mirano</city>
+        <state>VE</state>
+        <zip>30035</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC Oncologia Medica</name>
+      <address>
+        <city>Legnago</city>
+        <state>VR</state>
+        <zip>37045</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UOC Oncologia Medica</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Hirosaki National Hospital</name>
+      <address>
+        <city>Hirosaki</city>
+        <state>Aomori</state>
+        <zip>036-8545</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;Kurume University Hospital &quot;</name>
+      <address>
+        <city>Kurume</city>
+        <state>Fukuoka</state>
+        <zip>830-0011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Asahikawa Medical Center</name>
+      <address>
+        <city>Asahikawa</city>
+        <state>Hokkaido</state>
+        <zip>070-8644</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Himeji Medical Center</name>
+      <address>
+        <city>Himeji</city>
+        <state>Hyogo</state>
+        <zip>670-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Mito Medical Center</name>
+      <address>
+        <city>Higashi-ibaraki-gun</city>
+        <state>Ibaraki</state>
+        <zip>311-3193</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanazawa University Hospital</name>
+      <address>
+        <city>Kanazawa</city>
+        <state>Ishikawa</state>
+        <zip>920-8641</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kanagawa Cardiovascular and Respiratory Center</name>
+      <address>
+        <city>Yokohama</city>
+        <state>Kanagawa</state>
+        <zip>236-0051</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Mie Chuo Medical Center</name>
+      <address>
+        <city>Tsu</city>
+        <state>MIE</state>
+        <zip>514-1101</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Sendai Medical Center</name>
+      <address>
+        <city>Sendai</city>
+        <state>Miyagi</state>
+        <zip>983-8520</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Tokyo National Hospital</name>
+      <address>
+        <city>Kiyose</city>
+        <state>Tokyo</state>
+        <zip>204-8585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Tokyo Medical Center</name>
+      <address>
+        <city>Meguro-Ku</city>
+        <state>Tokyo</state>
+        <zip>152-8902</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Disaster Medical Center</name>
+      <address>
+        <city>Tachikawa</city>
+        <state>Tokyo</state>
+        <zip>190-0014</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saiseikai Fukuoka General Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>810-0001</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kyushu Medical Center</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>810-8563</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Kochi National Hospital</name>
+      <address>
+        <city>Kochi</city>
+        <zip>780-8077</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Oita Medical Center</name>
+      <address>
+        <city>Oita</city>
+        <zip>870-0263</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Japanese Red Cross Okayama Hospital</name>
+      <address>
+        <city>Okayama</city>
+        <zip>700-8607</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toyama University Hospital</name>
+      <address>
+        <city>Toyama</city>
+        <zip>930-0194</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chungbuk National University Hospital</name>
+      <address>
+        <city>Cheongju-si</city>
+        <state>Chungcheongbuk-do</state>
+        <zip>28644</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VHS Medical Center Laboratory</name>
+      <address>
+        <city>Seoul</city>
+        <state>Gangdong-gu</state>
+        <zip>134-791</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ajou University Hospital</name>
+      <address>
+        <city>Suwon-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>443-380</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ulsan University Hospital</name>
+      <address>
+        <city>Ulsan</city>
+        <state>Korea</state>
+        <zip>44033</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gangnam Severance Hospital-Yonsei University Health System</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06273</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul St. Mary's Hospital-The Catholic University of Korea</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VHS Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>134-791</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nilai Medical Centre</name>
+      <address>
+        <city>Nilai</city>
+        <state>Negeri Sembilan</state>
+        <zip>71800</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Miriam Cancer Hospital</name>
+      <address>
+        <city>Tanjung Bungah</city>
+        <state>Penang</state>
+        <zip>11200</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mahkota Medical Centre</name>
+      <address>
+        <city>Melaka</city>
+        <zip>75000</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penang Adventist Hospital</name>
+      <address>
+        <city>Penang</city>
+        <zip>10350</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alysis Zorggroep, locatie Ziekenhuis Rijnstate</name>
+      <address>
+        <city>Arnhem</city>
+        <zip>6815 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ziekenhuis De Gelderse Vallei</name>
+      <address>
+        <city>Ede</city>
+        <zip>6716 RP</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Heartcentre Catharina Hospital</name>
+      <address>
+        <city>Eindhoven</city>
+        <zip>5623 EJ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Elkerliek Ziekenhuis</name>
+      <address>
+        <city>Helmond</city>
+        <zip>5707 HA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cebu Doctors' University Hospital</name>
+      <address>
+        <city>Cebu City</city>
+        <state>Cebu, Philippines</state>
+        <zip>6000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chong Hua Hospital</name>
+      <address>
+        <city>Cebu City</city>
+        <state>Cebu</state>
+        <zip>6000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Davao Doctors Hospital</name>
+      <address>
+        <city>Davao City</city>
+        <state>Davao Del Sur</state>
+        <zip>8000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cebu Doctors University Hospital</name>
+      <address>
+        <city>Cebu City</city>
+        <zip>6000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Manila Doctors Hospital</name>
+      <address>
+        <city>Manila</city>
+        <zip>1000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Memorial Medical Center</name>
+      <address>
+        <city>Quezon City</city>
+        <zip>1104</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Zespolony w Elblagu</name>
+      <address>
+        <city>Elblag</city>
+        <zip>82-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Specjalistyczny im. M. Kopernika w Lodzi Regionalny Osrodek Onkologiczny</name>
+      <address>
+        <city>Lodz</city>
+        <zip>93-513</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SPZOZ MSW z Warminsko-Mazurskim Centrum Onkologii w Olsztynie</name>
+      <address>
+        <city>Olsztyn</city>
+        <zip>10-228</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Samodzielny Publiczny Zespol Gruzlicy i Chorob Pluc w Olsztynie</name>
+      <address>
+        <city>Olsztyn</city>
+        <zip>10-357</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wielkopolskie Centrum Pulmonologii i Torakochirurgii im.Eugenii i Janusza Zeylandow</name>
+      <address>
+        <city>Poznan</city>
+        <zip>60-569</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mrukmed. Lekarz Beata Madej Mruk i Partner. Spolka Partnerska Oddzial nr 1 w Rzeszowie</name>
+      <address>
+        <city>Rzeszow</city>
+        <zip>35-085</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Specjalistyczny Szpital im. prof. Alfreda Sokolowskiego Oddzial Onkologii Klinicznej i Chemioterapii</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-880</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Zespolony im. L. Rydygiera</name>
+      <address>
+        <city>Torun</city>
+        <zip>87-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojskowy Instytut Medyczny</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>04-141</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Onkologii Instytut im. Marii Sklodowskiej -Curie Klinika</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>02-781</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wojewodzki Szpital Chorob Pluc im. dr Alojzego Pawelca</name>
+      <address>
+        <city>Wodzislaw-Slaski</city>
+        <zip>44-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrul de Oncologie Sf. Nectarie</name>
+      <address>
+        <city>Craiova</city>
+        <state>Dolj</state>
+        <zip>200347</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toubiblab</name>
+      <address>
+        <city>Craiova</city>
+        <state>Dolj</state>
+        <zip>200347</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SPAD Imaging International S.R.L.</name>
+      <address>
+        <city>Craiova</city>
+        <state>Dolj</state>
+        <zip>200352</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SC Oncolab SRL, Oncologie</name>
+      <address>
+        <city>Craiova</city>
+        <state>Dolj</state>
+        <zip>200385</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Laboratory Services</name>
+      <address>
+        <city>Geneve-CH</city>
+        <state>Meyrin Switzerland</state>
+        <zip>1217</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Laboratory</name>
+      <address>
+        <city>Geneve-CH</city>
+        <state>Meyrin, Switzerland</state>
+        <zip>1217</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Judetean Mures, radiologie si imagistica medicala</name>
+      <address>
+        <city>Targu-Mures</city>
+        <state>Mures</state>
+        <zip>540141</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S. C. Dora Medical SRL</name>
+      <address>
+        <city>TarguMures</city>
+        <state>Mures</state>
+        <zip>540327</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Judetean de Urgenta Targu Mures, Cardiologie</name>
+      <address>
+        <city>Tirgu Mures</city>
+        <state>Mures</state>
+        <zip>540136</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiperdia Timisoara, Cardiologie</name>
+      <address>
+        <city>Timisoara</city>
+        <state>Timis</state>
+        <zip>300158</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiperdia Timisoara, Radiologie si imagistica medicala</name>
+      <address>
+        <city>Timisoara</city>
+        <state>Timis</state>
+        <zip>300158</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Judetean de Urgenta &quot;Dr. Constantin Opris&quot; Baia Mare, Laboratorul de</name>
+      <address>
+        <city>Baia Mare</city>
+        <zip>430031</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Judetean De Urgenta &quot;Dr. Constantin Opris</name>
+      <address>
+        <city>Baia Mare</city>
+        <zip>430031</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gral Medical SRL, Clinica Gral Radiologie</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>031422</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gral Medical SRL, Oncologie Medicala</name>
+      <address>
+        <city>Bucuresti</city>
+        <zip>031422</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MedisProf SRL</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <zip>400058</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiperdia, Laborator</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <zip>400489</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Judetean de Urgenta &quot;Sf Apostol Andrei&quot; Constanta Clinica Oncologie Medicala</name>
+      <address>
+        <city>Constanta</city>
+        <zip>900591</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centrul Medical Pozimed, SC Pozitron Medical Investigation SRL</name>
+      <address>
+        <city>Constanta</city>
+        <zip>900663</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SC Radiotherapy Center Cluj SRL</name>
+      <address>
+        <city>Jud Cluj</city>
+        <zip>407280</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalul Clinic Judetean Mures, sectia Clinica Oncologie Medicala</name>
+      <address>
+        <city>Targu-Mures</city>
+        <zip>540141</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hiperdia Timisoara, Laborator de Analize Medicale</name>
+      <address>
+        <city>Timisoara</city>
+        <zip>300158</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.C. Oncocenter Oncologie Clinica SRL, Oncologie</name>
+      <address>
+        <city>Timisoara</city>
+        <zip>300210</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr's Grineva Private Clinic</name>
+      <address>
+        <city>Sochi</city>
+        <state>Krasnodar Region</state>
+        <zip>354010</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SHI Oncology Dispensary #2 of Health Department of Krasnodar Region</name>
+      <address>
+        <city>Sochi</city>
+        <state>Krasnodar Region</state>
+        <zip>354057</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SAHI of Moscow &quot;Moscow City Oncology Hospital #62 of Health Department of Moscow&quot;</name>
+      <address>
+        <city>p/o Stepanovskoe</city>
+        <state>Moscow Region</state>
+        <zip>143423</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FSBI 'Scientific-Research Oncology Institute n.a. N.N.Petrov' of MoH of RF</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <state>Pos. Pesochny</state>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI of Stavropol Region &quot;Essentuki Central City Hospital&quot;</name>
+      <address>
+        <city>Essentuki</city>
+        <state>Stavropol Region</state>
+        <zip>357600</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State-Financed Institution &quot;North-Caucasian Research and Clinical Center&quot;</name>
+      <address>
+        <city>Lermontov</city>
+        <state>Stavropol Region</state>
+        <zip>357340</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI of Stavropol Region &quot;Pyatigorsk Oncology Dispensary&quot;</name>
+      <address>
+        <city>Pyatigorsk</city>
+        <state>Stavropol Region</state>
+        <zip>357502</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stavropol Krai State Budget Healthcare Institute &quot;Stavropol Regional Oncology Clinic&quot;</name>
+      <address>
+        <city>Stavropol</city>
+        <state>Stavropol Region</state>
+        <zip>355047</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Republican Clinical Oncology Dispensary</name>
+      <address>
+        <city>Kazan</city>
+        <state>Tatarstan Republic</state>
+        <zip>420029</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>S.G. Primushko Republican Clinical Oncology Dispensary</name>
+      <address>
+        <city>Izhevsk</city>
+        <state>Udmurt Republic</state>
+        <zip>426067</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI of Vladimir Region &quot;Regional Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Vladimir</city>
+        <state>Vladimir Region</state>
+        <zip>600020</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>State Budget Healthcare Institution of Arkhangelsk Region &quot;Arkhangelsk Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Arkhangelsk</city>
+        <zip>163045</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Evimed Llc</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454048</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chelyabinsk Regional Hospital</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454076</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI &quot;Chelyabinsk Regional Clinical Hospital&quot;</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454076</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chelyabinsk Regional Clinical Oncology Dispensary</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454087</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MRT-Expert, LLC</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454087</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI &quot;Chelyabinsk Regional Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454087</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Road Clinical Hospital on the station Chelyabinsk of OJSC &quot;RZD&quot;</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454092</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>RBHI &quot;Kursk regional Oncological Dispensary&quot; of the Healthcare Committee of Kursk Region</name>
+      <address>
+        <city>Kislino steading</city>
+        <zip>305524</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI &quot;Regional clinical hospital #2&quot; of MoH of Krasnodar Region</name>
+      <address>
+        <city>Krasnodar</city>
+        <zip>350012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FSBI &quot;N.N.Blokhin Russian Cancer Research Center&quot; RAMS</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>P.A.Hertsen Moscow Oncology Research Institute - Branch of the National Medical Radiological</name>
+      <address>
+        <city>Moscow</city>
+        <zip>125284</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBHI &quot;City clinical hospital #40 of Healthcare Department of Moscow city&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <zip>129301</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Diagnostics Center</name>
+      <address>
+        <city>Nizhniy Novgorod</city>
+        <zip>603001</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>.SBHI of NNR Nizhniy Novgorod Regional Oncology</name>
+      <address>
+        <city>Nizhniy Novgorod</city>
+        <zip>603081</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Omsk Region &quot;Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644013</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Orenburg Regional Clinical Oncology Dispensary</name>
+      <address>
+        <city>Orenburg</city>
+        <zip>460021</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>.SBEI HPE RyazSMU of MoH of Russia based on SBI of Ryazan Region</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390011</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBEI HPE RyazSMU of MoH of Russia</name>
+      <address>
+        <city>Ryazan</city>
+        <zip>390026</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>.SPb SBHI &quot;City Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>198255</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saratov scientific research institute of traumatology and orthopedics</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410002</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NHI Road clinical hospital at the st. Saratov II of OJSC Russian Railways</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410004</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical hospital n.a. S.R. Mirotvortseva of SSMU</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410054</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Limited Liability Company &quot;Common health&quot;</name>
+      <address>
+        <city>Sochi</city>
+        <zip>354003</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Narodny Onkologicky Ustav</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>833 10</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnicna lekaren</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>833 10</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnicna lekaren</name>
+      <address>
+        <city>Kosice</city>
+        <zip>041 91</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vychodoslovensky onkologicky ustav, a.s.</name>
+      <address>
+        <city>Kosice</city>
+        <zip>041 91</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AnalytX, s.r.o.</name>
+      <address>
+        <city>Trnava</city>
+        <zip>917 75</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nemocnicna lekaren</name>
+      <address>
+        <city>Trnava</city>
+        <zip>917 75</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultna nemocnica Trnava</name>
+      <address>
+        <city>Trnava</city>
+        <zip>91775</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GVI Oncology, Langenhoven Drive Oncology Centre</name>
+      <address>
+        <city>Port Elizabeth</city>
+        <state>Eastern Cape</state>
+        <zip>6045</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Oncology Centre of Rosebank</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pretoria and Steve Biko Hospital Complex</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0002</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amanzimtoti Oncology Centre</name>
+      <address>
+        <city>Amanzimtoti</city>
+        <state>Kwazulu- Natal</state>
+        <zip>4126</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GVI Oncology Clinical Research Unit, Cape Gate Oncology Centre</name>
+      <address>
+        <city>Kraaifontein</city>
+        <state>Western Cape</state>
+        <zip>7570</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario del Vinalopo</name>
+      <address>
+        <city>Elche</city>
+        <state>Alicante</state>
+        <zip>03293</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Torrevieja</name>
+      <address>
+        <city>Torrevieja</city>
+        <state>Alicante</state>
+        <zip>03186</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Corporacio Sanitaria Parc Tauli</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Son Llatzer</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <state>Islas Baleares</state>
+        <zip>07198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Puerta de Hierro Majadahonda</name>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Laboratory Services</name>
+      <address>
+        <city>Geneve</city>
+        <state>Meyrin/geneve</state>
+        <zip>CH-1217</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Corporacio Sanitaria Parc Tauli</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Sabadell</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Cruces</name>
+      <address>
+        <city>Baracaldo</city>
+        <state>Vizcaya</state>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nuestra Senora de Sonsoles</name>
+      <address>
+        <city>Avila</city>
+        <zip>05004</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico San Carlos - Istituto de Investigacion Sanitaria San Carlos (IdISSC)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundacion Jimenez Diaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de la Paz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Fundacion Alcorcon</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28922</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Valme</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Consorcio Hospital General Universitario De Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Arnau de Vilanova</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46015</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Changhua Christian Hospital</name>
+      <address>
+        <city>Changhua City</city>
+        <state>Changhua County</state>
+        <zip>500</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Medical Foundation-Kaohsiung Branch</name>
+      <address>
+        <city>Kaohsiung County</city>
+        <state>Kaohsiung</state>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <state>Taiwan R O C</state>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chung Shan Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <state>Taiwan Roc</state>
+        <zip>40201</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaohsiung Medical University Chung-Ho Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <state>Taiwan(roc)</state>
+        <zip>80756,</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer research Center -Chang Gung Medical Foundation, Linkou Branch</name>
+      <address>
+        <city>Taoyuan City</city>
+        <state>Taoyuan County</state>
+        <zip>33305</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Changhua Christian Hospital (CCH)</name>
+      <address>
+        <city>Changhua City</city>
+        <zip>50006</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tri-Service General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11490</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sririraj Hospital, Mahidol University</name>
+      <address>
+        <city>Bangkoknoi</city>
+        <state>Bangkok</state>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>RACHVIPA MRI CENTER (CT/MRI Imaging)</name>
+      <address>
+        <city>Chatuchak</city>
+        <state>Bangkok</state>
+        <zip>10900</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chulalongkom University</name>
+      <address>
+        <city>Patumwan</city>
+        <state>Bangkok</state>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chiangrai Prachanukroh Hospital</name>
+      <address>
+        <city>Muang</city>
+        <state>Chiang Rai</state>
+        <zip>57000</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Faculty of Medicine-Naresuan University</name>
+      <address>
+        <city>Muang</city>
+        <state>Phitsanulok</state>
+        <zip>65000</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center, Phramongkutklao Hospital</name>
+      <address>
+        <city>Bangkok,</city>
+        <zip>10400,</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Oncology Unit, Department of Medicine, Phramongkutklao Hospital</name>
+      <address>
+        <city>Bangkok,</city>
+        <zip>10400,</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prachachuen Imaging Center Co.,Ltd.</name>
+      <address>
+        <city>Bangkok,</city>
+        <zip>10900</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chula Clinical Research Center</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Phramongkutklao Hospital</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Division of Medical Oncology, Department of Medicine,</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baskent Universitesi Tip Fakultesi Adana Hastanesi</name>
+      <address>
+        <city>Adana</city>
+        <zip>01120</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cukurova Universitesi Tip Fakultesi Balcali Hastanesi</name>
+      <address>
+        <city>Adana</city>
+        <zip>01330</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>.Hacettepe Universitesi Tip Fakultesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Diskapi Yildirim Beyazit Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06330</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ankara Universitesi Tip Fakultesi Cebeci Hastanesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06590</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yildirim Beyazit Universitesi Tip Fakultesi Ataturk Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Akdeniz Universitesi Tip Fakultesi</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07985</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gaziantep Universitesi Tip Fakultesi Sahinbey Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Gaziantep</city>
+        <zip>27310</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Central Laboratory Services</name>
+      <address>
+        <city>Geneva</city>
+        <zip>CH- 1217</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yedikule Gogus Hastaliklari ve Gogus Cerrahisi Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34020</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bezmialem Vakif Universitesi Tip Fakultesi Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitesi Onkoloji Enstitusu</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitesi Cerrahpasa Tip Fakultesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Haydarpasa Numune Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34668</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ege Universitesi Tip Fakultesi</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35040</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LLC &quot;Medical clinic &quot;INNOVACIA&quot;</name>
+      <address>
+        <city>Lyutizh</city>
+        <state>Kyiv Region</state>
+        <zip>07352</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Institution &quot;Chernivtsi Regional Clinical Oncology Dispensary&quot;</name>
+      <address>
+        <city>Chernivtsi</city>
+        <zip>58013</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MI 'City Dnipropetrovsk Multi-field Clin. Hospital #4 of DRC, Dep.-nt of Chemotherapy;</name>
+      <address>
+        <city>Dnipropetrovsk</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Clinical Oncology Dispensary, Chemotherapy Department,</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Municipal Healthcare Institution &quot;Kharkiv Regional Clinical Oncologic Center&quot;</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61070</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MI 'Kryvyi Rih Oncology Dispensary of Dnipropetrovsk Regional Council', Chemotherapy Department</name>
+      <address>
+        <city>Kryvyi Rih</city>
+        <zip>50048</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lviv State Oncologic Regional Treatment and Diagnostic Center</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79031</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Poltava Reg. Clinical Oncology Dispensary of PRC, thoracic department, SHEI of Ukr.</name>
+      <address>
+        <city>Poltava</city>
+        <zip>36011</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>RMI &quot;Sumy Reg. Clin. Oncology Dispensary&quot;, oncothoracic dep.-nt, Sumy State Univ.,</name>
+      <address>
+        <city>Sumy</city>
+        <zip>40022</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central City Clinical Hospital, City Oncology Center, SHEI &quot;Uzhhorod National University&quot;,</name>
+      <address>
+        <city>Uzhhorod</city>
+        <zip>88017</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vinnytsia Regional Oncology Clinical Dispensary, Chemotherapy Department</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21029</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Chile</country>
+    <country>Croatia</country>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hong Kong</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Malaysia</country>
+    <country>Netherlands</country>
+    <country>Philippines</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Slovakia</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=B7391003&amp;StudyName=A%20Phase%203%20Randomized%2C%20Double-blind%20Study%20Of%20Pf%2006439535%20Plus%20Paclitaxel-carboplatin%20And%20Bevacizumab%20Plus%20Paclitaxel%20-carboplatin%20For%20The%20First-line%20Treatment%20Of%20Patients%20With%20Advanced%20Non-squamous%20Non-small%20Cell%20Lung%20Cancer.</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 14, 2016</lastchanged_date>
+  <firstreceived_date>February 10, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Albumin-Bound Paclitaxel</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

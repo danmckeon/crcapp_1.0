@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02440737</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VICC REACH 1525</org_study_id>
+    <secondary_id>NCI-2015-00470</secondary_id>
+    <secondary_id>VICC REACH 1525</secondary_id>
+    <secondary_id>P30CA068485</secondary_id>
+    <nct_id>NCT02440737</nct_id>
+  </id_info>
+  <brief_title>Navigated Early Survivorship Transition in Improving Survivorship Care Planning in Patients With Newly Diagnosed Stage I-III Breast, Lung, Prostate, or Colorectal Cancer and Their Caregivers</brief_title>
+  <acronym>NEST</acronym>
+  <official_title>Navigated Early Survivorship Transition (NEST) Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt-Ingram Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt-Ingram Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized pilot clinical trial studies the Navigated Early Survivorship Transition
+      (NEST) intervention in improving survivorship care planning in patients with newly diagnosed
+      stage I-III breast, lung, prostate, or colorectal cancer and their caregivers. A
+      survivorship care planning delivered to survivors and their primary caregivers may improve
+      psychosocial well-being, patient and caregiver engagement, and adherence to treatment and
+      follow-up recommendations. It is not yet known whether a NEST intervention or usual care is
+      better in improving survivorship care planning in patients with newly diagnosed stage I-III
+      breast, lung, prostate, or colorectal cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. In two models of survivorship care planning - (1) planning started within the first month
+      of therapy, followed by additional survivorship care planning at the end of therapy
+      (intervention arm) and, (2) planning provided at the conclusion of treatment (usual care
+      arm) - evaluate the proportion of eligible survivors and caregivers who participate, adhere
+      to randomization, and complete the survivorship care planning.
+
+      II. In a randomized feasibility study of survivors and their identified support caregivers
+      (60 survivor-caregiver dyads each at Vanderbilt-Ingram Cancer Center [VICC] and at Meharry
+      Medical College [MMC]), evaluate psychosocial well-being, engagement, resource utilization
+      and adherence to recommended treatment and follow-up guidelines in participants randomized
+      to the intervention and the usual care conditions.
+
+      III. Assess the outcomes of survivors-caregivers treated at VICC and MCC to further
+      individualize survivorship planning that will incorporate the optimal timing and content
+      together with socioeconomic and cultural considerations.
+
+      OUTLINE: Patients and their caregivers are randomized to 1 of 2 arms.
+
+      ARM I (NEST): Patients and their caregivers meet with the Survivorship Nurse Practitioner
+      (NP) at the VICC or the Nurse Navigator (NN) at MMC during an initial survivorship care
+      planning session (30 minutes total) to identify resources that may be needed during and
+      following therapy. The patient and their caregiver then meet with the NP or NN together (60
+      minutes total) to discuss the planned therapy, the expected course of recovery and
+      recommendations for follow-up, and are provided with a preliminary survivorship care plan
+      (SCP). Caregivers also receive the National Cancer Institute publication, &quot;When Someone You
+      Love is Being Treated for Cancer&quot;. Patients and their caregivers proceed with therapy. At
+      the end of therapy, patients and their caregivers schedule a one-hour visit with the NP or
+      NN for a booster survivorship care planning session. At this booster session, they will
+      review the questionnaires and receive an individualized final SCP and the &quot;REACH for
+      Survivorship&quot; handbook.
+
+      ARM II (usual care): Patients and their caregivers proceed with therapy. At the end of
+      therapy, patients schedule a one-hour visit with the survivorship NP or NN for a
+      survivorship care planning session. At this session, they will review the questionnaires and
+      receive an individualized final SCP and the &quot;REACH for Survivorship&quot; handbook.
+
+      After completion of study, patients and their caregivers are followed up at 2 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2015</start_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Supportive Care</study_design>
+  <primary_outcome>
+    <measure>Patient and caregiver engagement, as measured by the PHQ, IES-R, Distress Thermometer, and Effective Consumer Scale-17</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be compared between participants (patients and caregivers) in the intervention and usual care conditions, and between those treated at VICC and MMC. Will use continuous scores on the depression, anxiety, and somatic symptom scales for the primary analyses; supplemental analyses will examine the percentage of patients above and below the recommended clinical cut-offs on these scales before and after the interventions. Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Psychosocial well-being, as measured by the Patient Health Questionnaire (PHQ), Impact of Event Scale-Revised (IES-R), and Distress Thermometer</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be compared between participants (patients and caregivers) in the intervention and in the usual care conditions, and between those treated at VICC and MMC. Will use continuous scores on the depression, anxiety, and somatic symptom scales for the primary analyses; supplemental analyses will examine the percentage of patients above and below the recommended clinical cut-offs on these scales before and after the interventions. Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to National Comprehensive Cancer Network (NCCN) guidelines, as measured by chart review (patients only)</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Referral to subspecialists</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resource utilization, as measured by the Effectiveness in Obtaining Resources Scale and the Cancer Resource Survey</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usefulness of navigation, as measured by the Usefulness of Navigator instrument</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will develop a regression model with the treatment group as the primary variable of interest.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Completion rates</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be descriptive. Will develop a regression model with the treatment group as the primary variable of interest. Will conduct univariable tests of significance using chi-squared tests.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participation rates</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be descriptive. Will develop a regression model with the treatment group as the primary variable of interest. Will conduct univariable tests of significance using chi-squared tests.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Process assessment, as measured by process evaluation questionnaire</measure>
+    <time_frame>Up to 2 months following the end of therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be descriptive. Will develop a regression model with the treatment group as the primary variable of interest. Will conduct univariable tests of significance using chi-squared tests.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Cancer Survivor</condition>
+  <condition>Caregiver</condition>
+  <condition>Stage I Colon Cancer</condition>
+  <condition>Stage I Lung Cancer</condition>
+  <condition>Stage I Prostate Cancer</condition>
+  <condition>Stage I Rectal Cancer</condition>
+  <condition>Stage IA Breast Cancer</condition>
+  <condition>Stage IB Breast Cancer</condition>
+  <condition>Stage II Lung Cancer</condition>
+  <condition>Stage IIA Breast Cancer</condition>
+  <condition>Stage IIA Colon Cancer</condition>
+  <condition>Stage IIA Prostate Cancer</condition>
+  <condition>Stage IIA Rectal Cancer</condition>
+  <condition>Stage IIB Breast Cancer</condition>
+  <condition>Stage IIB Colon Cancer</condition>
+  <condition>Stage IIB Prostate Cancer</condition>
+  <condition>Stage IIB Rectal Cancer</condition>
+  <condition>Stage III Lung Cancer</condition>
+  <condition>Stage III Prostate Cancer</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIA Colon Cancer</condition>
+  <condition>Stage IIIA Rectal Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIB Colon Cancer</condition>
+  <condition>Stage IIIB Rectal Cancer</condition>
+  <condition>Stage IIIC Colon Cancer</condition>
+  <condition>Stage IIIC Rectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I (NEST project)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients and their caregivers meet with the Survivorship NP at the VICC or the NN at MMC during an initial survivorship care planning session (30 minutes total) to identify resources that may be needed during and following therapy. The patient and their caregiver then meet with the NP or NN together (60 minutes total) to discuss the planned therapy, the expected course of recovery and recommendations for follow-up, and are provided with a preliminary survivorship care plan (SCP). Caregivers also receive the National Cancer Institute publication, &quot;When Someone You Love is Being Treated for Cancer&quot;. Patients and their caregivers proceed with therapy. At the end of therapy, patients and their caregivers schedule a one-hour visit with the NP or NN for a booster survivorship care planning session. At this booster session, they will review the questionnaires and receive an individualized final SCP and the &quot;REACH for Survivorship&quot; handbook.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (usual care)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients and their caregivers proceed with therapy. At the end of therapy, patients schedule a one-hour visit with the survivorship NP or NN for a survivorship care planning session. At this session, they will review the questionnaires and receive an individualized final SCP and the &quot;REACH for Survivorship&quot; handbook.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Educational Intervention</intervention_name>
+    <description>Receive publication, &quot;When Someone You Love is Being Treated for Cancer&quot; (intervention arm only), a preliminary individualized SCP (intervention arm only), a final individualized SCP (both arms), and the &quot;REACH for Survivorship&quot; handbook (both arms)</description>
+    <arm_group_label>Arm I (NEST project)</arm_group_label>
+    <other_name>Education for Intervention</other_name>
+    <other_name>Intervention, Educational</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Educational Intervention</intervention_name>
+    <description>Receive an individualized final SCP and the &quot;REACH for Survivorship&quot; handbook</description>
+    <arm_group_label>Arm II (usual care)</arm_group_label>
+    <other_name>Education for Intervention</other_name>
+    <other_name>Intervention, Educational</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Follow-Up Care</intervention_name>
+    <description>Complete SCP at end of treatment</description>
+    <arm_group_label>Arm II (usual care)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Psychosocial Assessment and Care</intervention_name>
+    <description>Undergo the NEST project</description>
+    <arm_group_label>Arm I (NEST project)</arm_group_label>
+    <other_name>Psychosocial Assessment</other_name>
+    <other_name>Psychosocial Care</other_name>
+    <other_name>Psychosocial Care/Assessment</other_name>
+    <other_name>Psychosocial Studies</other_name>
+    <other_name>Psychosocial Support</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Arm I (NEST project)</arm_group_label>
+    <arm_group_label>Arm II (usual care)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Newly diagnosed adult cancer patients from VICC and MMC will be recruited for
+             participation in the NEST Project
+
+          -  No prior history of malignancy other than non-melanoma skin cancer
+
+          -  Planned treatment for stages I - III breast, lung, prostate and colorectal cancer
+
+          -  Has a support person who is willing and available to participate in the caregiver
+             portion of the study
+
+          -  English speaking
+
+        Exclusion Criteria:
+
+          -  Prior history of malignancy other than non-melanoma skin cancer and planned treatment
+             for stages I - III breast, lung, prostate and colorectal cancer
+
+          -  Patients treated with surgery alone will not be included
+
+          -  Patients without a support person who is willing and available to participate in the
+             caregiver portion of the study
+
+          -  Non-English speaking
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Debra Friedman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University/Ingram Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>VICC Clinical Trials Information Program</last_name>
+    <phone>800-811-8480</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kristin Carson</last_name>
+    <phone>615-936-0638</phone>
+    <email>kristin.carson@vanderbilt.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Meharry Medical College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cynthia Harris</last_name>
+      <phone>615-327-5610</phone>
+      <email>charris@mmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Maureen Sanderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University/Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristin Carson</last_name>
+      <phone>615-936-0638</phone>
+    </contact>
+    <investigator>
+      <last_name>Debra L. Friedman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.vicc.org/ct/</url>
+    <description>Vanderbilt-Ingram Cancer Center, Find a Clinical Trial</description>
+  </link>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 17, 2015</lastchanged_date>
+  <firstreceived_date>May 7, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt-Ingram Cancer Center</investigator_affiliation>
+    <investigator_full_name>Debra Friedman</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Rectal Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

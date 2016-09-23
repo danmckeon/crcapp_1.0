@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="153">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02451930</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15568</org_study_id>
+    <secondary_id>I4X-MC-JFCQ</secondary_id>
+    <secondary_id>2015‐001291‐22</secondary_id>
+    <secondary_id>KEYNOTE -099</secondary_id>
+    <nct_id>NCT02451930</nct_id>
+  </id_info>
+  <brief_title>A Study of the Combination of Necitumumab (LY3012211) and Pembrolizumab (MK3475) in Participants With NSCLC</brief_title>
+  <official_title>A Single-Arm, Multicenter, Phase 1b Study With an Expansion Cohort to Evaluate Safety and Efficacy of the Combination of Necitumumab With Pembrolizumab in Patients With Stage IV Non-Small Cell Lung Cancer (NSCLC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to evaluate the safety and efficacy of the combination of
+      necitumumab with pembrolizumab in participants with stage IV NSCLC.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2015</start_date>
+  <completion_date type="Anticipated">May 2018</completion_date>
+  <primary_completion_date type="Anticipated">October 2016</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of Participants with Dose Limiting Toxicities (DLTs) in Part A</measure>
+    <time_frame>Baseline through Cycle 1 (21 day cycles)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of Participants With a Complete or Partial Response (Objective Response Rate [ORR])</measure>
+    <time_frame>Baseline to Measured Progressive Disease or Start of New Anti-Cancer Therapy (Approximately 21 Months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Minimum Concentration (Cmin) of Necitumumab</measure>
+    <time_frame>Predose Cycle 1 Day 1 through Predose Cycle 8 Day 1 (21 Day Cycles)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Anti-Necitumumab Antibodies</measure>
+    <time_frame>Predose Cycle 1 Day 1 through Predose Cycle 8 Day 1 (21 Day Cycles)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR): Defined as Proportion of Participants With a Best Overall Response of Complete Response (CR), Partial Response (PR), and Stable Disease (SD)</measure>
+    <time_frame>Baseline to Measured Progressive Disease or Start of New Anti-Cancer Therapy (Approximately 21 Months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DoR)</measure>
+    <time_frame>Date of Complete Response (CR) or Partial Response (PR) to Date of Objective Disease Progression or Death Due to Any Cause (Approximately 21 Months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS)</measure>
+    <time_frame>Baseline to Measured Progressive Disease or Death Due to Any Cause (Approximately 21 Months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Baseline to Death from Any Cause (Approximately 21 Months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Stage IV Non-Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Necitumumab + Pembrolizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(Part A) Escalating doses of necitumumab administered intravenously (IV) on day 1 and day 8 every 3 weeks (Q3W) in combination with pembrolizumab IV on day 1 Q3W. Treatment may continue until discontinuation criterion is met.
+(Part B) Necitumumab dose identified in part A administered IV on day 1 and day 8 Q3W in combination with pembrolizumab on day 1 Q3W. Treatment may continue until discontinuation criterion is met.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Necitumumab</intervention_name>
+    <description>Administered IV</description>
+    <arm_group_label>Necitumumab + Pembrolizumab</arm_group_label>
+    <other_name>LY3012211</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pembrolizumab</intervention_name>
+    <description>Administered IV</description>
+    <arm_group_label>Necitumumab + Pembrolizumab</arm_group_label>
+    <other_name>MK3475</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The participant has Stage IV NSCLC.
+
+               -  Part A: NSCLC Stage IV (any type)
+
+               -  Part B: NSCLC Stage IV (squamous and nonsquamous)
+
+          -  The participant must have progressed after 1 platinum-based chemotherapy regimen.
+             Prior treatment with epidermal growth factor receptor (EGFR)-tyrosine kinase
+             inhibitor and anaplastic lymphoma kinase (ALK) inhibitors is mandatory in patients
+             whose tumor has an EGFR activating mutation or ALK translocations. Prior vascular
+             endothelial growth factor (VEGF)/VEGF receptor-targeting agents and
+             neoadjuvant/adjuvant therapies are permitted.
+
+          -  Measurable disease at the time of study entry as defined by Response Evaluation
+             Criteria In Solid Tumors Version 1.1 (RECIST 1.1).
+
+          -  The participant has tumor tissue available for biomarker analyses.
+
+          -  The participant has adequate organ function.
+
+          -  Eastern Cooperative Oncology Group performance status (ECOG PS) score of 0-1.
+
+        Exclusion Criteria:
+
+          -  The participant is currently enrolled in a clinical trial involving an
+             investigational product or non-approved use of a drug or device.
+
+          -  Prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CD137, or
+             anti-cytotoxic T lymphocyte-associated antigen-4 antibody (including ipilimumab or
+             any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint
+             pathways) or EGFR-directed monoclonal antibody (mAb) is not permitted.
+
+          -  Have a serious concomitant systemic disorder or significant cardiac disease.
+
+          -  The participant has undergone major surgery or received any investigational therapy
+             in the 30-days prior to study enrollment.
+
+          -  The participant has undergone chest irradiation within 4 weeks prior to receiving
+             study treatment.
+
+          -  The participant has brain metastases that are symptomatic.
+
+          -  The participant has a history of arterial thromboembolism event (ATE) or venous
+             thromboembolism event (VTE) within 3 months prior to study enrollment. Participants
+             with history of VTE beyond 3 months prior to study enrollment can be enrolled if they
+             are appropriately treated with low molecular weight heparin.
+
+          -  The participant has a known allergy / history of hypersensitivity reaction to any of
+             the treatment components, including any ingredient used in the formulation of
+             necitumumab or pembrolizumab, or any other contraindication to one of the
+             administered treatments.
+
+          -  The participant is pregnant or breastfeeding.
+
+          -  The participant has a concurrent active malignancy. Previous history of malignancy is
+             permitted, provided that the participant has been free of disease for ≥3 years, with
+             the exception of adequately treated basal or squamous cell carcinoma of the skin,
+             preinvasive carcinoma of the cervix, or any cancers that in the judgment of the
+             investigator and sponsor may not affect the interpretation of results (for example,
+             prostate, bladder).
+
+          -  History of interstitial lung disease, pneumonitis, autoimmune disease or syndrome
+             that requires steroids or immunosuppressive agents.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>City of Hope National Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010-0269</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>626-256-4673</phone>
+      <phone_ext>89200</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Marianna Koczywas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California - San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>858-822-6189</phone>
+    </contact>
+    <investigator>
+      <last_name>Lyudmila Bazhenova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norwalk Hospital</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>203-845-4899</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Frank</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ivor Percent</last_name>
+      <phone>239-274-9930</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Cancer Specialists</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>727-216-1143</phone>
+      <phone_ext>3081</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Maen Hussein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Pritzker School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>773-702-2825</phone>
+    </contact>
+    <investigator>
+      <last_name>Victoria Villaflor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111-2497</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hossein Borghaei</last_name>
+      <phone>215-214-4297</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tennessee Oncology PLLC</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>615-329-7615</phone>
+    </contact>
+    <investigator>
+      <last_name>Melissa Johnson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Lyon Cedex 08</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Saint Herblain Cedex</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Strasbourg Cedex</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Villejuif Cedex</city>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician</name>
+      <address>
+        <city>Chuo-Ku</city>
+        <zip>104-0045</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician</name>
+      <address>
+        <city>Sunto-Gun</city>
+        <zip>411-8777</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Badajoz</city>
+        <zip>06080</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to 5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eli Lilly and Company</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Japan</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.lillytrialguide.com/EN/studies/cancer/jfcq</url>
+    <description>Click here for more information about this study: A Study of the Combination of Necitumumab (LY3012211) and Pembrolizumab (MK3475) in Participants With NSCLC</description>
+  </link>
+  <verification_date>May 2016</verification_date>
+  <lastchanged_date>May 6, 2016</lastchanged_date>
+  <firstreceived_date>May 20, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Pembrolizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

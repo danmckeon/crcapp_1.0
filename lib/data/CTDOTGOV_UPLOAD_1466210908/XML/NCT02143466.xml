@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="188">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02143466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D5160C00006</org_study_id>
+    <nct_id>NCT02143466</nct_id>
+  </id_info>
+  <brief_title>AZD9291 in Combination With Ascending Doses of Novel Therapeutics</brief_title>
+  <official_title>A Multi-arm, Phase Ib, Open-Label, Multicentre Study to Assess the Safety,Tolerability, Pharmacokinetics and Preliminary Anti-tumour Activity of AZD9291 in Combination With Ascending Doses of Novel Therapeutics in Patients With EGFRm+ Advanced NSCLC Who Have Progressed Following Therapy With an EGFR TKI (TATTON)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Japan: Ministry of Health, Labor and Welfare</authority>
+    <authority>South Korea: Korea Food and Drug Administration (KFDA)</authority>
+    <authority>Taiwan: Department of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the safety, tolerability and preliminary
+      anti-tumour activity of AZD9291 when given together with one of either MEDI4736, AZD6094 or
+      selumetinib in patients with EGFR mutation positive advanced lung cancer
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase Ib, open-label, multicentre study of AZD9291 administered orally in
+      combination with novel therapeutics (MEDI4736, AZD6094 or selumetinib (AZD6244, ARRY142886)
+
+      ) to patients with EGFRm+ advanced NSCLC. The study has been designed to allow an
+      investigation of the optimal combination dose and schedule whilst ensuring the safety of
+      patients with intensive safety monitoring. There are two parts to this study. Part A,
+      Combination dose finding and Part B, Dose expansion.
+
+      AZD9291 is a potent irreversible inhibitor of both the single Epidermal Growth Factor
+      Receptor (EGFR) mutation positive (Tyrosine Kinase Inhibitor [TKI]-sensitivity conferring
+      mutations, EGFRm+) and T790M positive (TKI-resistance conferring mutation, T790M+) receptor
+      forms of the EGFR with a wide margin of selectivity against EGFR wild-type (WT).
+
+      AZD9291 acts on cancer by blocking abnormal EGFR-mediated signalling, leading to profound
+      tumour growth inhibition in EGFR mutation bearing xenografts of non-small cell lung cancer
+      (NSCLC) tumours. Preliminary data from a large phase I study (study D5160C00001) has
+      provided data on the safety and clinical activity of monotherapy AZD9291 in this patient
+      population.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2014</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of participants with Adverse Events and/or Dose Limiting Toxicities as a Measure of Safety and tolerability of AZD9291 when given in combination with MEDI4736, AZD6094 or selumetinib</measure>
+    <time_frame>Adverse events will be collected from baseline until 28 days after the last dose in the AZD6094 or selumetinib arms and until 90 days after the last dose in the MEDI4736 arm, expected average of approximately 8.6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Part A: To investigate the safety and tolerability of AZD9291 when given orally to patients with EGFRm+ NSCLC in combination with MEDI4736, AZD6094 or selumetinib who have progressed following prior therapy with an EGFR TKI agent, and define the combination dose(s) for further clinical evaluation.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with Adverse Events as a measure of safety and tolerability and objective response rate as a measure of efficacy of AZD9291 when given in combination with AZD6094 or selumetinib</measure>
+    <time_frame>Adverse events: baseline until 28 days after the last dose. ORR: baseline and every 6 weeks from time of first dose, participants will be followed by CT/MRI until disease progression or withdrawal from study, expected average of approximately 8.6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Part B: To investigate the safety, tolerability and efficacy (Objective Response rate (ORR)) of AZD9291 when given in combination with AZD6094 or selumetinib in patients with locally advanced or metastatic NSCLC, who have progressed on a T790M directed EGFR TKI.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cmax after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-t after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-24 after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal half life after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL/f after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Volume of distribution after single dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cssmax after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 2 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tssmax after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 2 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cssmin after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times for the duration of treatment, expected to be 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCss after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 2 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CLss/f after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 2 day 1 up to 24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rac after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 and cycle 2 day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time dependency of PK after multiple dosing</measure>
+    <time_frame>Blood samples will be collected from each subject at pre-specified times on cycle 1 day 1 and cycle 2 day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To characterise the pharmacokinetics of AZD9291, AZD6094 or selumetinib and metabolites after single dosing and at steady state after multiple dosing when given orally to patients with EGFRm+ NSCLC in combination with AZD9291, AZD6094 or selumetinib through plasma concentrations. To characterise the PK, immunogenicity and pharmacodynamics of MEDI4736 after single dosing and at steady state after multiple dosing when given intravenously to patients with EGFRm+ NSCLC in combination with AZD9291 through plasma concentrations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Best objective response</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease control rate</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in tumour size</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>At baseline and every 6 weeks until disease progression or withdrawal from study, expected average 7.5 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To obtain a preliminary assessment of the anti-tumour activity of the combination of AZD9291 and MEDI4736, AZD6094 or selumetinib by evaluation of tumour response (objective response rate, duration of response, change in tumour size) and progression free survival using RECIST version 1.1 (modified for MEDI4736 cohorts)
+Expansion phase only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety, tolerability and efficacy of AZD9291 when given in combination with MEDI4736</measure>
+    <time_frame>Adverse events will be collected from baseline until 90 days after the last dose, expected average 7.5 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To investigate the safety, tolerability and prliminary efficacy of AZD9291 when given in combination with MEDI4736 as 1st line therapy to patients who are treatment naive for locally advanced or metastatic EGFRm+ NSCLC.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">198</enrollment>
+  <condition>Advanced Non Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>MEDI4736</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD9291 in combination with MEDI4736</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AZD6094</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD9291 in combination with AZD6094</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Selumetinib Continuous (Asia only)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD9291 in combination with selumetinib</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Selumetinib Intermittent</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD9291 in combination with selumetinib</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Selumetinib Continuous (non-Asia only)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD9291 in combination with Selumetinib</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD9291 in combination with MEDI4736</intervention_name>
+    <description>AZD9291 and MEDI4736 will be administered. Part A: If initial dosing is tolerated then subsequent cohorts will test increasing doses of AZD9291 and/or MEDI4736, until a recommended dose for further clinical evaluation is defined. Part B: The recommended dose from Part A will be further evaluated in an expansion cohort.</description>
+    <arm_group_label>MEDI4736</arm_group_label>
+    <other_name>AZD9291 &amp; MEDI4736</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD9291 in combination with AZD6094</intervention_name>
+    <description>AZD9291 and AZD6094 will be administered in combination. Part A: If tolerated, subsequent cohorts will test increasing doses of AZD9291 and/or AZD6094, until a recommended dose for further clinical evaluation is defined. Part B: The recommended dose from Part A will be further evaluated in an expansion cohort.</description>
+    <arm_group_label>AZD6094</arm_group_label>
+    <other_name>AZD9291 &amp; Savolitinib, Volitinib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD9291 in combinatin with selumetinib</intervention_name>
+    <description>AZD9291 and selumetinib will be administered in combination. Part A: If tolerated, subsequent cohorts will test increasing doses of AZD9291 and/or selumetinib, until a recommended dose for further clinical evaluation is defined. Part B: The recommended dose from Part A may be further evaluated in an expansion cohort.</description>
+    <arm_group_label>Selumetinib Continuous (Asia only)</arm_group_label>
+    <other_name>AZD9291 &amp; ARRY-142886</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD9291 in combination with selumetinib</intervention_name>
+    <description>AZD9291 will be administered with intermittent doses of selumetinib. Part A: If tolerated, subsequent cohorts will test increasing doses of AZD9291 and/or selumetinib, until a recommended dose for further clinical evaluation is defined. Part B: The recommended dose from Part A may be further evaluated in an expansion cohort.</description>
+    <arm_group_label>Selumetinib Intermittent</arm_group_label>
+    <other_name>AZD9291 &amp; ARRY-142886</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selumetinib Continuous (non-Asia only)</intervention_name>
+    <description>AZD9291 and selumetinib will be administered in combination. Part A: If tolerated, subsequent cohorts will test increasing doses of AZD9291 and/or selumetinib, until a recommended dose for further clinical evaluation is defined. Part B: The recommended dose from Part A may be further evaluated in an expansion cohort.</description>
+    <arm_group_label>Selumetinib Continuous (non-Asia only)</arm_group_label>
+    <other_name>AZD9291 &amp; ARRY-142886</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Provision of signed and dated, written informed consent prior to any study specific
+        procedures, sampling and analyses. Aged at least 18 years. Patients from Japan aged at
+        least 20 years. Histological or cytological confirmation diagnosis of EGFRm+ Non Small
+        Cell Lung Cancer (NSCLC) and for T790M directed EGFR TKI patients only: Documented T790M
+        positive status when the patient started on the previous T790M directed EGFR TKI.
+
+        With the exception of 1st line patients: Radiological documentation of disease progression
+        while on a previous continuous treatment with an EGFR TKI. In addition other lines of
+        therapy may have been given. These patients must have documented radiological progression
+        on the last treatment administered prior to enrolling in the study.
+
+        Confirmation from a previous archival sample that the tumour harbours an EGFR mutation
+        known to be associated with EGFR TKI sensitivity (including exon 19 deletion and L858R).
+
+        Part B cMET+ve patients
+
+        2nd line cohort: only one prior line of therapy, which must be an EGFR TKI, but not a
+        T790M-directed agent
+
+        ≥3rd line cMET+ve cohort: Patients must have received at least two prior lines of therapy,
+        including at least one prior EGFR TKI (T790M directed agents are permitted)
+
+        Part B cMET-ve patients
+
+        T790M directed EGFR TKI patients only: their immediate prior therapy before entry into
+        this study must be a T790M directed EGFR TKI
+
+        ≥2nd line cohort: Patients must have progressed while on treatment with an EGFR TKI (T790M
+        directed EGFR TKIs are permitted). Other prior lines of therapy may have been given
+
+        At least one lesion that can be used as a measurable lesion for the purposes of RECIST
+        assessments WHO performance status 0-1 with no deterioration over the previous 2 weeks and
+        minimum life expectancy of 12 weeks
+
+        Females should be using adequate contraceptive measures, should not be breast feeding and
+        must have a negative pregnancy test prior to start of dosing or evidence of non-child
+        bearing potential.Male patients should be willing to use barrier contraception
+
+        Exclusion Criteria:
+
+        Treatment with an EGFR TKI within approximately 5x half-life of the first dose of study
+        treatment. Any cytotoxic chemotherapy, investigational agents or other anticancer drugs
+        from a previous treatment regimen or clinical study within 14 days of the first dose of
+        study treatment. AZD9291 in the present study (ie, dosing previously initiated in this
+        study). Prior or current exposure to or treatment with any anti-PD-L1 or anti-PD-1
+        antibodies if allocated to MEDI4736 or tremelimumab and prior or current exposure to
+        AZD6094 or another cMet inhibitor or selumetinib or any MEK, RAS or RAF inhibitor if
+        allocated to AZD6094 or selumetinib respectively.
+
+        Current leptomeningeal metastases or spinal cord compression. Brain metastases are only
+        permitted if treated, asymptomatic, and stable (not requiring steroids for at least 4
+        weeks prior to start of study treatment).
+
+        Cardiac disease
+
+        Ophthalmological conditions
+
+        Any evidence of severe or uncontrolled systemic diseases, including uncontrolled
+        hypertension, active bleeding diatheses, or active infection.
+
+        Inadequate bone marrow reserve or organ function
+
+        Inability to swallow the formulated product or previous significant bowel resection that
+        would preclude adequate absorption Past medical history of interstitial lung disease,
+        drug-induced interstitial lung disease, radiation pneumonitis which required steroid
+        treatment, or any evidence of clinically active interstitial lung disease.
+
+        Additional Exclusion criteria for MEDI4736
+
+        Active or prior documented autoimmune or inflammatory disease within the past 3
+        years.History of organ transplant that requires use of immunosuppressive medications
+        including, but not limited to systemic corticosteroids at doses beyond 10 mg/day of
+        prednisone or equivalent, methotrexate, azathioprine, and tumour necrosis factor alpha
+        (TNF-α) blockers.
+
+        Current or prior use of immunosuppressive medication within 28 days before the first dose
+        of MEDI4736
+
+        History of sarcoidosis syndrome. Known history of tuberculosis. Receipt of live,
+        attenuated vaccine within 30 days prior to the first dose of MEDI4736
+
+        Additional Exclusion criteria for AZD6094
+
+        Patients currently receiving (or unable to stop use at least 2 weeks) prior to receiving
+        the first dose of AZD6094, medications known to be strong inhibitors of CYP1A2 and CYP3A4
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Serban Ghiorghiu</last_name>
+    <role>Study Director</role>
+    <affiliation>AstraZeneca</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cancer Study Locator</last_name>
+    <phone>877 400 4656</phone>
+    <email>AstraZeneca@emergingmed.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chuo-ku</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Habikino-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Hirakata-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kashiwa-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nagoya-shi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Goyang-si</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seongnam-si</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tainan</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 10, 2016</lastchanged_date>
+  <firstreceived_date>May 9, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase I</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Tolerability</keyword>
+  <keyword>Efficacy</keyword>
+  <keyword>Anti-tumour</keyword>
+  <keyword>AZD9291</keyword>
+  <keyword>Osimertinib</keyword>
+  <keyword>MEDI4736</keyword>
+  <keyword>Durvalumab</keyword>
+  <keyword>AZD6094</keyword>
+  <keyword>Savolitinib</keyword>
+  <keyword>Selumetinib</keyword>
+  <keyword>Ascending Doses</keyword>
+  <keyword>Expansion cohorts</keyword>
+  <keyword>EGFR</keyword>
+  <keyword>Advanced Non-Small Cell Lung Cancer</keyword>
+  <keyword>Tyrosine Kinase Inhibitors</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Coal Tar</mesh_term>
+    <mesh_term>Osimertinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

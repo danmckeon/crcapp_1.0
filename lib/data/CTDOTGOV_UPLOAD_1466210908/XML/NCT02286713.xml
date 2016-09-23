@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="307">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02286713</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2014-0628</org_study_id>
+    <secondary_id>NCI-2014-02492</secondary_id>
+    <secondary_id>CER-1306-03385</secondary_id>
+    <nct_id>NCT02286713</nct_id>
+  </id_info>
+  <brief_title>PCORI-CER-1306-03385 Informed Decisions About Lung Cancer Screening</brief_title>
+  <official_title>Promoting Informed Decisions About Lung Cancer Screening: Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Educational research study where goal is to test educational materials that help people make
+      informed decisions about lung cancer screening.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is second phase of a larger project funded by the Patient-Centered Outcomes Research
+      Institute to help heavy smokers make informed decisions about lung cancer screening with
+      low-dose computed tomography (LDCT). The aim of this phase is to compare outcomes for
+      promoting informed screening decisions about lung cancer screening in a randomized trial of
+      patients who smoke recruited through state-based smoking cessation quitlines, where patients
+      will be randomly assigned to the updated patient decision aid or to standard educational
+      materials on lung cancer screening.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2015</start_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Health Services Research</study_design>
+  <primary_outcome>
+    <measure>Mean Value Subscale (VS) Score of Decisional Conflict Scale (DCS)</measure>
+    <time_frame>Baseline to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DCS measures personal perceptions using survey response categories. DCS Value Subscale includes a designated number of associated survey items which are scored according to response categories (3 -5 responses, i.e. 0='Yes'; 2='Not Sure'; 4='No'). Total scores will range from 0 [feels extremely clear about personal value for benefits &amp; risks/side effects] to 100 [feels extremely unclear about personal values]. For scores or subscores reported as sum of items that used response category scale [ranging from low decisional conflict to high decisional conflict] scores will be converted to equivalent 0-100 scale. Knowledge outcome assessed at week 1 then 3-month and 6-month follow-up (overall participation 6 months).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Informed Subscale (IS) Score of Decisional Conflict Scale (DCS)</measure>
+    <time_frame>Baseline to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DCS measures personal perceptions using survey response categories. DCS Informed Subscale includes a designated number of associated survey items which are scored according to response categories (3 -5 responses, i.e. 0='Yes'; 2='Not Sure'; 4='No'). Total scores will range from 0 [feels extremely informed] to 100 [feels extremely uninformed]. For scores or subscores reported as sum of items that used response category scale [ranging from low decisional conflict to high decisional conflict] scores will be converted to equivalent 0-100 scale. Knowledge outcome assessed at week 1 then 3-month and 6-month follow-up (overall participation 6 months).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>Smoking Cessation</condition>
+  <condition>Tobacco Use Cessation</condition>
+  <arm_group>
+    <arm_group_label>Patient Decision Aid</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Decision Aid study materials including video mailed to participant with 1-week, 3-month, and 6-month Follow-up Assessments</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Educational Information</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Study materials including education booklet mailed to participant with 1-week, 3-month, and 6-month Follow-up Assessments</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Patient Decision Aid</intervention_name>
+    <description>Participants will receive study materials including a video to watch about lung cancer screening</description>
+    <arm_group_label>Patient Decision Aid</arm_group_label>
+    <other_name>Video</other_name>
+    <other_name>DVD</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard Educational Information</intervention_name>
+    <description>Participants will receive study materials including a booklet to read about lung cancer screening.</description>
+    <arm_group_label>Standard Educational Information</arm_group_label>
+    <other_name>Booklet</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Follow-Up Assessments: Questionnaires</intervention_name>
+    <description>Follow up questions administered via phone and/or mail at 1-week, 3-month, and 6-month</description>
+    <arm_group_label>Patient Decision Aid</arm_group_label>
+    <arm_group_label>Standard Educational Information</arm_group_label>
+    <other_name>Survey</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Men and women 55 to 77 years of age.
+
+          2. Participants must speak English.
+
+          3. Current smoker or quit smoking within the past 15 years.
+
+          4. At least a 30 pack-year smoking history.
+
+        Exclusion Criteria:
+
+        1) History of lung cancer.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>77 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Volk, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Volk, PhD</last_name>
+    <phone>713-563-0020</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>MD Anderson Cancer Center, General Info</last_name>
+    <phone>1-855-873-4321</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Information and Quality Healthcare (IQH)</name>
+      <address>
+        <city>Ridgeland</city>
+        <state>Mississippi</state>
+        <zip>39157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>University of Texas MD Anderson Cancer Center Official Website</description>
+  </link>
+  <verification_date>April 2016</verification_date>
+  <lastchanged_date>April 4, 2016</lastchanged_date>
+  <firstreceived_date>November 3, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lung Cancer Screening</keyword>
+  <keyword>heavy smokers</keyword>
+  <keyword>state-based smoking cessation quitlines</keyword>
+  <keyword>patient decision aid</keyword>
+  <keyword>low-dose computed tomography</keyword>
+  <keyword>LDCT</keyword>
+  <keyword>standard educational information</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

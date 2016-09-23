@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02698176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8628-006</org_study_id>
+    <secondary_id>MK-8628-006</secondary_id>
+    <secondary_id>2015-005488-18</secondary_id>
+    <nct_id>NCT02698176</nct_id>
+  </id_info>
+  <brief_title>A Dose Exploration Study With MK-8628 in Participants With Selected Advanced Solid Tumors (MK-8628-006)</brief_title>
+  <official_title>A Phase IB Dose Exploration Trial With MK-8628, a Small Molecule Inhibitor of the Bromodomain and Extra-Terminal (BET) Proteins, in Subjects With Selected Advanced Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to determine the recommended dose of MK-8628 for further studies in
+      participants with advanced nuclear protein in testis (NUT) midline carcinoma (NMC), triple
+      negative breast cancer (TNBC), non-small cell lung cancer (NSCLC), or castration-resistant
+      prostate cancer (CRPC). The recommended dose will be established by evaluating dose limiting
+      toxicity (DLT), safety, discontinuation, and early efficacy.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2016</start_date>
+  <completion_date type="Anticipated">February 2018</completion_date>
+  <primary_completion_date type="Anticipated">February 2018</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Percentage of participants with a Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>From time of first dose up to the end of Cycle 1 (up to 21 days)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Adverse Events (AEs)</measure>
+    <time_frame>From time of first dose until the end of follow-up (up to 7 months)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants discontinuing study drug due to AEs</measure>
+    <time_frame>From time of first dose until the end of follow-up (up to 7 months)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Achieve Complete Tumor Response or Partial Tumor Response (ORR) determined using the best overall response</measure>
+    <time_frame>Assessed every 2 cycles starting from Cycle 3 to disease progression (up to 7 months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from Complete or Partial Tumor Response to Documented Disease Progression or Death (DOR)</measure>
+    <time_frame>Assessed every 2 cycles starting from Cycle 3 to disease progression (up to 7 months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Achieve Stable Disease or Complete or Partial Tumor Response (DCR)</measure>
+    <time_frame>Assessed every 2 cycles starting from Cycle 3 to disease progression (up to 7 months)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>NUT Midline Carcinoma (NMC)</condition>
+  <condition>Triple Negative Breast Cancer (TNBC)</condition>
+  <condition>Non-small Cell Lung Cancer (NSCLC)</condition>
+  <condition>Castration-resistant Prostate Cancer (CRPC)</condition>
+  <arm_group>
+    <arm_group_label>20 mg MK-8628</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (up to 14) will receive MK-8628 20 mg BID for 21 consecutive days in Cycle 1. Dose limiting toxicity (DLT) will be used to establish the recommended dose after Cycle 1. Participants will continue receiving MK-8628 at an assigned/adjusted dose level for continuous 21-day cycles up to 7 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>30 mg MK-8628</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (up to 14) will receive MK-8628 30 mg BID for 21 consecutive days in Cycle 1. Dose limiting toxicity (DLT) will be used to establish the recommended dose after Cycle 1. Participants will continue receiving MK-8628 at an assigned/adjusted dose level for continuous 21-day cycles up to 7 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>40 mg MK-8628</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (up to 14) will receive MK-8628 40 mg BID for 21 consecutive days in Cycle 1. Dose limiting toxicity (DLT) will be used to establish the recommended dose after Cycle 1. Participants will continue receiving MK-8628 at an assigned/adjusted dose level for continuous 21-day cycles up to 7 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MK-8628 20 mg</intervention_name>
+    <description>20 mg administered as an oral capsule, in a fasted state, twice a day (BID) continuously for 21 days per cycle</description>
+    <arm_group_label>20 mg MK-8628</arm_group_label>
+    <other_name>OTX015</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MK-8628 30 mg</intervention_name>
+    <description>30 mg administered as an oral capsule, in a fasted state, twice a day (BID) continuously for 21 days per cycle</description>
+    <arm_group_label>30 mg MK-8628</arm_group_label>
+    <other_name>OTX015</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MK-8628 40 mg</intervention_name>
+    <description>40 mg administered as an oral capsule, in a fasted state, twice a day (BID) continuously for 21 days per cycle</description>
+    <arm_group_label>40 mg MK-8628</arm_group_label>
+    <other_name>OTX015</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Males and females ≥18 years of age for NSCLC, TNBC, and CRPC
+
+          -  Males and females ≥16 years of age for NMC
+
+          -  Diagnosis of one of the following advanced solid tumors for which standard therapy
+             either does not exist or has proven ineffective, intolerable or inacceptable for the
+             participant: NMC;TNBC; NSCLC; or CRPC
+
+          -  Have at least 1 measurable lesion per Response Evaluation Criteria in Solid Tumors
+             (RECIST) 1.1. CRPC participants may be enrolled with objective evidence of disease as
+             per Prostate Cancer Working Group (PCWG2) criteria
+
+          -  Life expectancy ≥3 months
+
+          -  Eastern Cooperative Oncology Group (ECOG) Performance Status ≤1
+
+          -  Have an interval of ≥3 weeks since chemotherapy (≥6 weeks for nitrosoureas or
+             mitomycin C), immunotherapy, hormone therapy or any other anticancer therapy or
+             surgical intervention resection, or ≥3 half-lives for monoclonal antibodies, or ≥5
+             half-lives for other non-cytotoxic agents (whichever is longer)
+
+          -  CRPC participants must maintain ongoing androgen deprivation therapy with a
+             gonadotropin releasing hormone (GnRH) analogue, antagonist or orchiectomy providing
+             serum testosterone is &lt;50 ng/dL (&lt;1.7 nmol/L)
+
+          -  Participants receiving bisphosphonate or denosumab therapy must be on stable doses
+             for at least 4 weeks before start of study therapy
+
+          -  Females must not be pregnant (negative urine or serum human chorionic gonadotropin
+             test within 72 hours of study start)
+
+          -  Females of childbearing potential and male participants must agree to use adequate
+             contraception up to 60 days after study therapy
+
+        Exclusion Criteria:
+
+          -  Known primary central nervous system (CNS) malignancy or symptomatic or untreated CNS
+             metastases
+
+          -  History of prior or concomitant malignancies within 3 years of study start
+
+          -  Have other serious illness or medical condition, such as active infection, unresolved
+             bowel obstruction, psychiatric disorders, or cerebrovascular accident within 1 year
+             of study start
+
+          -  Known human immunodeficiency virus (HIV) and/or Hepatitis B or C infections
+
+          -  Have one of the following cardiac-related conditions: Congestive heart failure or
+             angina pectoris; myocardial infarction (within 1 year of study start); uncontrolled
+             hypertension; or uncontrolled arrhythmias
+
+          -  Other concomitant anticancer treatment
+
+          -  Participation in another clinical trial or treatment with any investigational drug
+             (excluding anticancer treatments) within 30 days of study start
+
+          -  Concomitant therapy with strong CYP3A4 inhibitors or inducers
+
+          -  Use of anticoagulants at therapeutic levels within 7 days of start of study therapy
+
+          -  Is pregnant or breast-feeding
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Call for Information (Investigational Site 0023)</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MSD Belgium BVBA/SPRL</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Denayer</last_name>
+      <phone>32 2 776 60 28</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD France</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominique Blazy</last_name>
+      <phone>33 147548990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merck Sharp and Dohme de Espana S.A.</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joaquin Mateos Chacon</last_name>
+      <phone>(0034) 913210600</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MSD International GmbH</name>
+      <address>
+        <city>Lucerne 6</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erik Mossdorf</last_name>
+      <phone>41 58 618 33 79</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 16, 2016</lastchanged_date>
+  <firstreceived_date>February 29, 2016</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>OTX015</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Triple Negative Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

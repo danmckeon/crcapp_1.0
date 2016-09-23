@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="356">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02327468</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UPCC 22913</org_study_id>
+    <nct_id>NCT02327468</nct_id>
+  </id_info>
+  <brief_title>Inovio TRT-001: Telomerase DNA Immunotherapy in Breast, Lung, and Pancreatic Cancers</brief_title>
+  <official_title>A Study of hTERT Immunotherapy Alone or in Combination With IL12 DNA Followed by Electroporation in Adults With Breast, Lung, or Pancreatic Cancer at High Risk of Relapse Post Definitive Surgery and Adjuvant Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inovio Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Abramson Cancer Center of the University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of North Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wayne State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Inovio Pharmaceuticals</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I, open label study to evaluate the safety, tolerability, and immunogenicity
+      of INO-1400 alone or in combination with INO-9012, delivered by electroporation in subjects
+      with high risk breast, lung, or pancreatic cancer with no evidence of disease after surgery
+      and adjuvant therapy. Subjects will be enrolled into one of six treatment arms. Subjects
+      will be assessed according to standard of care. Restaging and imaging studies will be
+      performed to assess disease relapse per NCCN guidelines. RECIST will be used to validate the
+      findings in cases of relapse.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2014</start_date>
+  <completion_date type="Anticipated">April 2018</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Adverse events graded in accordance with &quot;Common Terminology Criteria for Adverse Events (CTCAE)&quot;, NCI version 4.03</measure>
+    <time_frame>Up to 2 years from first study treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Injection site reactions including, but not necessarily limited to, local skin erythema, induration, pain and tenderness at administration site [</measure>
+    <time_frame>Up to 14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in safety laboratory parameters from baseline</measure>
+    <time_frame>Up to 2 years from the first study treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression</measure>
+    <time_frame>Up to 2 years from first study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antigen specific cellular immune responses</measure>
+    <time_frame>Up to 2 years from first study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antigen specific ELISA</measure>
+    <time_frame>Up to 2 years from first study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>H&amp;E stain; immunohistochemistry for CD45, CD3, CD8, FoxP3; and TCRbeta molecular analysis of baseline/archival tumor tissue and relapsed tumor tissue, when possible.</measure>
+    <time_frame>Up to 2 years from first study treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Pancreatic Cancer</condition>
+  <condition>Head and Neck Squamous Cell Cancer</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Colorectal Cancer</condition>
+  <condition>Gastric Cancer</condition>
+  <condition>Esophageal Cancer</condition>
+  <condition>Hepatocellular Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 mg INO-1400 delivered intramuscularly followed by electroporation at Day 0, Weeks 4,8, and 12</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 mg INO-1400 delivered intramuscularly followed by electroporation at Day 0, Weeks 4,8, and 12</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 mg INO-1400+ 0.5 mg INO-9012 delivered intramuscularly followed by electroporation at Day 0, Weeks 4, 8, and 12</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 mg INO-1400+ 2 mg INO-9012 delivered intramuscularly followed by electroporation at Day 0, Weeks 4, 8, and 12</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 mg INO-1400+ 0.5 mg INO-9012 delivered intramuscularly followed by electroporation at Day 0, Weeks 4, 8, and 12</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>8 mg INO-1400 + 2 mg INO-9012 delivered intramuscularly followed by electroporation at Day 0, Weeks 4, 8, and 12</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>INO-1400</intervention_name>
+    <arm_group_label>Arm1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_label>Arm 5</arm_group_label>
+    <arm_group_label>Arm 6</arm_group_label>
+    <other_name>hTERT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>INO-9012</intervention_name>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_label>Arm 5</arm_group_label>
+    <arm_group_label>Arm 6</arm_group_label>
+    <other_name>IL-12</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed and dated written IRB approved informed consent;
+
+          2. Males or females aged ≥18 years;
+
+          3. Subjects with either breast, lung, pancreatic, head and neck, ovarian, colorectal,
+             gastric, esophageal, or hepatocellular cancer who are at high risk of relapse post
+             definitive surgery and standard therapy as described for each tumor type below:
+
+             Breast carcinoma:
+
+               -  Individuals with Stage III or Stage II/axillary node positive disease who are
+                  post definitive surgery and at least 4 and no more than 24 weeks post completion
+                  of definitive chemotherapy and/or radiation adjuvant therapy at the time of
+                  signing informed consent (for ER+ or Her2+ positive subjects, these subjects may
+                  continue on hormonal therapy or anti-Her2 therapy as per standard of care);
+
+               -  Individuals with Stage IV disease who have no evidence of disease after therapy
+                  which includes a history of surgical resection of some or all tumor sites.
+
+               -  Individuals with ER/PR/HER2 negative breast cancer (triple negative) of any
+                  stage who are status post definitive surgery but with residual microscopic
+                  breast cancer in surgical specimen following adjuvant chemotherapy; if given;
+                  patient may be at least 4 and no more than 24 weeks from completion of adjuvant
+                  therapy (e.g. radiation) at the time of signing informed consent;
+
+               -  Individual receiving ongoing adjuvant endocrine (e.g. tamoxifen, anastrazole)
+                  therapy or trastuzumab is allowed.
+
+             Squamous non-small cell Lung cancer:
+
+             * Individuals with Stage IB, II, or IIIA squamous non-small cell cancer who are
+             status post definitive surgery; Individuals with Stage IV disease who have no
+             evidence of disease after therapy which includes a history of surgical resection of
+             some or all tumor types;
+
+             Pancreatic carcinoma:
+
+             * Individuals with Stage I-III pancreatic ductal adenocarcinoma who are status post
+             definitive surgery. Neuroendocrine tumors or tumors not of pancreatic origin are not
+             allowed). Individuals with Stage IV disease who have no evidence of disease after
+             therapy which includes a history of surgical resection of some or all tumor sites.
+
+             Head and neck squamous cell carcinoma
+
+               -  Individuals with Stage IV a/b head and neck squamous cell carcinoma who have no
+                  evidence of disease after therapy which includes a history of surgical
+                  resection;
+
+               -  Individuals with Stage III head and neck squamous cell carcinoma who are status
+                  post definitive therapy;
+
+               -  Individuals with Stage IV a/b head and neck squamous cell carcinoma who have no
+                  evidence of disease after therapy which includes a history of surgical
+                  resection.
+
+             Ovarian cancer
+
+               -  Individuals with ovarian fallopian tube, primary peritoneal carcinoma. Allowable
+                  histologic types include high grade serous, high grade (grade 3- 3)
+                  endometrioid, carcinosarcoma, clear cell carcinoma, or mixed histology including
+                  aforementioned types;
+
+               -  Individuals with incompletely resected stage III or with stage IV disease who
+                  have completed at least 6 but no more than 8 cycles of primary platinum-taxane
+                  based chemotherapy and have undergone maximal attempt at cytoreductive surgery,
+                  either prior to chemotherapy or as an interval procedure;
+
+               -  Individuals with Stage IV disease who have completed a platinum-taxane
+                  chemotherapy must be in complete remission based on no evidence of disease;
+
+               -  Individuals treated with other agents (such as anti-angiogenic agents) as a
+                  component of primary therapy, either in combination with or following
+                  platinum-taxane chemotherapy, may be eligible as long as other eligibility
+                  criteria have been fulfilled.
+
+             Colorectal cancer
+
+               -  Individuals with Stage III histologically confirmed adenocarcinoma of colon or
+                  rectum who are status post definitive surgery;
+
+               -  Individuals with Stage IV colorectal cancer (CRC) who have no evidence of
+                  disease after therapy which includes a history of surgical resection of some or
+                  all tumor sites.
+
+             Gastric and esophageal cancer
+
+             - Individuals with Stage IIB, and III adenocarcinoma of the stomach, gastroesophageal
+             junction, or esophagus who are status post definitive surgery.
+
+             Hepatocellular carcinoma
+
+               -  Individuals with any stage of histologically proven hepatocellular carcinoma who
+                  are status post definitive surgery;
+
+               -  Individuals should not be suitable for liver transplant therapy or post liver
+                  transplantation;
+
+               -  Individuals with no higher than Class A Child-Pugh;
+
+          4. ECOG (Eastern Cooperative Oncology Group) performance status of 0-1;
+
+          5. Normal electrocardiogram (ECG) or ECG without clinically significant findings that
+             require clinical action;
+
+          6. Adequate organ function. At screening,
+
+               -  Absolute neutrophil count (ANC) ≥ 1.5x103 cell/ml;
+
+               -  Platelets ≥75,000 /ml (for HCC platelets ≥ 50,000/ml);
+
+               -  Hemoglobin ≥ 9.0 g/dL;
+
+               -  Serum creatinine &lt; 2.0 mg/dL; For other blood and urine tests including blood
+                  chemistry, hepatic and renal functions, test results should not be worse than
+                  Grade 1 levels of abnormalities defined by CTCAE v4.03. For subjects who are at
+                  advanced stages of disease (Stage III and above, in general), by the
+                  investigator's discretion and after consultation with medical monitor, test
+                  results may not be worse than Grade 2 levels of abnormalities defined by CTCAE
+                  v4.03.
+
+          7. Subjects must agree that during the study, men cannot father children, and women
+             cannot be or become pregnant if they are of child-bearing potential [(i.e., ≥ 12
+             months of non-therapy-induced amenorrhea, confirmed by follicle stimulating hormone
+             (FSH), if not on hormone replacement) or surgically sterile (vasectomy in males or
+             absence of ovaries and/or uterus in females)], agree to remain abstinent or use one
+             highly effective or combined contraceptive methods that result in a failure rate of &lt;
+             1% per year during the treatment period and at least through 12 weeks after the last
+             Study Treatment dose. Abstinence is only acceptable if it is in line with the
+             preferred and usual lifestyle of the subject. Periodic abstinence (e.g., calendar,
+             ovulation, symptothermal, or post-ovulation methods) and withdrawal are not
+             acceptable methods of contraception. Examples of contraceptive methods with an
+             expected failure rate of &lt; 1% per year include male sterilization and hormonal
+             implants. Alternatively, proper use of combined oral or injected hormonal
+             contraceptives and certain intrauterine devices (IUDs) or two methods (e.g., two
+             barrier methods such as a condom and a cervical cap) may be combined to achieve a
+             failure rate of &lt; 1% per year (barrier methods must always be supplemented with the
+             use of a spermicide);
+
+          8. Able and willing to comply with all study procedures.
+
+        Exclusion Criteria:
+
+          1. Previous treatment with any TERT or IL-12 containing therapy, or any immunotherapy;
+
+          2. Metastasis in brain or central nervous system;
+
+          3. Pregnant or breast-feeding subjects;
+
+          4. Allergic to any component of the investigational agents;
+
+          5. Recipient of an investigational therapy from another interventional clinical trial
+             within 4 weeks of Study Treatment. Subjects can be enrolled if they are in an
+             observational study or within a long term follow up phase without any investigational
+             therapy for at least 4 weeks prior to Study Treatment;
+
+          6. History of any clinically significant autoimmune disease or a transplant recipient
+             who is receiving chronic immunosuppression;
+
+          7. History of HIV infection or positive serological test for human immunodeficiency
+             virus (HIV) at screening;
+
+          8. Any cardiac pre-excitation syndromes, e.g., Wolff-Parkinson-White syndrome;
+
+          9. Prior major surgery or radiation therapy within 4 weeks of Study Treatment;
+
+         10. Concurrent, long-term systemic corticosteroids (equivalent to prednisone &gt; 10 mg/day
+             for more than 2 weeks) or other systemic immunosuppressive therapy. Non-systemic,
+             inhaled, topical skin, corticosteroid-containing eye drops and low dose methotrexate
+             are allowed. Short-term use of corticosteroids in a chemotherapy regimen is allowed.
+             All other systemic corticosteroids must be discontinued at least 4 weeks prior to
+             Study Treatment;
+
+         11. Recipient of any blood product within 2 weeks of Study Treatment;
+
+         12. Recipient of any vaccine within 4 weeks of Study Treatment;
+
+         13. Less than two acceptable sites exist for IM injection and EP between the use of both
+             deltoids and lateral quadriceps muscles. A site for injection/EP is not acceptable if
+             there are tattoos, keloids or hypertrophic scars within 2 cm of the injection/EP
+             site, or if there is implanted metal within the same limb. Any device implanted in
+             the chest (e.g., cardiac pacemaker, defibrillator or retained leads following device
+             removal) excludes the use of the deltoid muscle on the same side of the body;
+
+         14. Active use or dependence on illegal drug or alcohol that, in the opinion of the
+             investigator, would interfere with adherence to study requirements and affect
+             subject's safety;
+
+         15. Prisoners or subjects who are compulsorily detained (involuntarily incarcerated) for
+             treatment of either a psychiatric or physical (i.e., infectious disease) illness;
+
+         16. Any medical and non-medical condition that, in the opinion of the investigator may
+             affect the safety of the subject or the evaluation of study results.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Vonderheide, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Abramson Cancer Center of the University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Samuels</last_name>
+    <phone>2674404256</phone>
+    <email>rsamuels@inovio.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Zane Yang, MD</last_name>
+    <phone>267-440-4248</phone>
+    <email>zyang@inovio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catherine A Griffin, BSBA, CCRP</last_name>
+      <phone>919-966-0444</phone>
+      <email>catherine_griffin@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Autumn J McRee, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Abramson Cancer Center of The University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Ann Redlinger, BSN</last_name>
+      <phone>215-662-7452</phone>
+      <email>Maryann.Redlinger@uphs.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Vonderheide, MD, DPhil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yuko Nishida, RN</last_name>
+      <email>Yuko.Nishida@jefferson.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashwin Sama, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2016</verification_date>
+  <lastchanged_date>June 16, 2016</lastchanged_date>
+  <firstreceived_date>December 23, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>High risk of relapse</keyword>
+  <keyword>Post definitive</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+    <mesh_term>Liver Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Squamous Cell</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

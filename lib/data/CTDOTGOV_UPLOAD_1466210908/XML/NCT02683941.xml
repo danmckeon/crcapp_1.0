@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="645">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 16, 2016</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02683941</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A-US-52030-328</org_study_id>
+    <secondary_id>2015-004992-62</secondary_id>
+    <nct_id>NCT02683941</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Lanreotide Autogel/ Depot 120 mg vs. Placebo in Subjects With Lung Neuroendocrine Tumors</brief_title>
+  <acronym>SPINET</acronym>
+  <official_title>A Phase 3, Prospective, Randomized, Double-blind, Multi-center Study of the Efficacy and Safety of Lanreotide Autogel/Depot 120 mg Plus BSC vs. Placebo Plus BSC for Tumor Control in Subjects With Well Differentiated, Metastatic and/or Unresectable, Typical or Atypical, Lung Neuroendocrine Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ipsen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ipsen</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>Austria: Agency for Health and Food Safety</authority>
+    <authority>Denmark: Danish Health and Medicines Authority</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Italy: The Italian Medicines Agency</authority>
+    <authority>Spain: Spanish Agency of Medicines</authority>
+    <authority>Sweden: Medical Products Agency</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, prospective, multi-center, randomized, double-blind, study evaluating the
+      efficacy and safety of LAN plus BSC versus placebo plus BSC for the treatment of
+      well-differentiated, metastatic and/or unresectable, typical or atypical lung NETs This
+      study contains two phases: the Double-Blind (DB) Phase, and the Open Label (OL) Extension
+      Phase. The DB Phase includes: Screening, Baseline and Treatment period. The OL Extension
+      Phase will consist of two periods: Treatment Period and Follow-Up Period.
+
+      The primary objective will be to compare the antitumour efficacy of Lanreotide Autogel/Depot
+      120 mg (LAN) plus Best Supportive Care (BSC) every 28 days versus placebo plus BSC, in terms
+      of progression free survival (PFS), measured by central review using Response Evaluation
+      Criteria in Solid Tumours (RECIST) v1.1 criteria, every 12 weeks, in subjects with
+      unresectable and/or metastatic well differentiated, typical or atypical lung neuroendocrine
+      tumours
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The DB Phase will include a Screening Visit to establish protocol eligibility and disease
+      characteristics. The Baseline Visit will confirm eligibility prior to randomization and
+      treatment. The DB Phase of the study will end on the date of data cut-off for the primary
+      analysis of PFS, which will occur when the target number of events (175 disease Progression
+      as centrally assessed or deaths reached) between the two treatment groups has been observed.
+
+      All subjects who are still on study treatment at that time will enter the OL Extension Phase
+      (either the Treatment Period or Follow-Up Period). In the OL Extension Treatment Period, the
+      subjects will be allowed to receive active treatment if they were randomized in the placebo
+      arm. During the OL Follow-up Period, all subjects will continue to be followed for QoL
+      survival and all subsequent anticancer treatments received will be recorded.
+
+      Both OL Extension Treatment Period and Follow-up Phases will end 6 months after the date of
+      data cut-off (175 events - progression as assessed centrally or death - are reached).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2016</start_date>
+  <completion_date type="Anticipated">August 2019</completion_date>
+  <primary_completion_date type="Anticipated">August 2019</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression-Free Survival (PFS), assessed by central review using RECIST v1.1 criteria</measure>
+    <time_frame>From randomisation up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PFS measured by central review using Response Evaluation Criteria in Solid Tumours (RECIST) v1.1 criteria, every 12 weeks, defined as the time from randomization to disease progression or death from any causes</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PFS, assessed by local review using RECIST v1.1 criteria</measure>
+    <time_frame>From randomisation up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The analysis will occur when the target number of events (175 progression/death events) among the two treatment groups has been observed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure, defined as the time from randomization to disease progression, withdrawal for any reason, or death using RECIST v1.1. assessment</measure>
+    <time_frame>From randomisation up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The analysis will occur when the target number of events (175 progression/death events) among the two treatment groups has been observed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean changes from Baseline in the biomarker chromogranin A (CgA)</measure>
+    <time_frame>Baseline, week 8, 12, 24, 36,48, 60, 72, early withdrawal visit (may occur at anytime post treatment up to 72 weeks) and then every 12 weeks up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with a decrease of CgA ≥30% at week 8 in the population of subjects with an elevated CgA (≥2 x ULN) at Baseline</measure>
+    <time_frame>Baseline, week 8</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease Control Rate (DCR): best overall response of Complete Response (CR), Partial Response (PR) or Stable Disease (SD) measured by RECIST v1.1 criteria</measure>
+    <time_frame>Baseline, week 12, 24, 36, 48, 60, 72 and early withdrawal visit (may occur at anytime post treatment up to 72 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life (QoL), as assessed by the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire Core-30</measure>
+    <time_frame>Baseline, week 12, 24, 36, 48, 60, 72, early withdrawal visit (may occur at anytime post treatment up to 72 weeks) and then every 12 weeks up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Patient satisfaction of disease management, as assessed by the Treatment Satisfaction Questionnaire for Medication-9 scale (TSQM-9 scale)</measure>
+    <time_frame>Baseline, week 12, 24, 36, 48, 60, 72, early withdrawal visit (may occur at anytime post treatment up to 72 weeks) and then every 12 weeks up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to QoL deterioration, defined by a decrease from baseline in EORTC Quality of Life Questionnaire C30 (QLQ-C30) score of at least 10 points</measure>
+    <time_frame>Baseline, week 12, 24, 36, 48, 60, 72, early withdrawal visit (may occur at anytime post treatment up to 72 weeks) and then every 12 weeks up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate (ORR): best overall response of CR or PR measured by RECIST v1.1 criteria</measure>
+    <time_frame>Baseline, week 12, 24, 36, 48, 60, 72, early withdrawal visit (may occur at anytime post treatment up to 72 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean changes from Baseline in urinary 5-HIAA levels in subjects with elevated urinary 5-hydroxyindoleacetic acid (5-HIAA) (≥2 x Upper limit of normal range) at Baseline</measure>
+    <time_frame>Baseline, week 8, 12, 24, 36, 48, 60, 72 and early withdrawal visit (may occur at anytime post treatment up to 72 weeks) and then every 12 weeks up to 18 months (approximately) after the last patient is randomised (175 progression/death events)]</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival, defined as the time from randomization to death from any causes</measure>
+    <time_frame>From randomisation up to 18 months (approximately) after the last patient is randomised]</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The analysis will occur when the target number of events (175 progression/death events) among the two treatment groups has been observed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of lanreotide in serum</measure>
+    <time_frame>Baseline, week 24, week 36, early withdrawal visit (may occur at anytime post treatment up to 72 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Pharmacokinetics (PK) of LAN</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">216</enrollment>
+  <condition>Neuroendocrine Tumors</condition>
+  <arm_group>
+    <arm_group_label>Lanreotide (Autogel formulation)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>120mg every 28 days until disease progression</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>120mg every 28 days until disease progression, then patient may enter open-label treatment with Lanreotide</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lanreotide (Autogel formulation)</intervention_name>
+    <description>120mg every 28 days until disease progression</description>
+    <arm_group_label>Lanreotide (Autogel formulation)</arm_group_label>
+    <other_name>Lanreotide Depot</other_name>
+    <other_name>Somatuline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline solution 0.9% administered via deep subcutaneous injection every 28 days until disease progression.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have metastatic and/or unresectable pathologically confirmed well-differentiated,
+             typical or atypical neuroendocrine tumor of the lung
+
+          -  Histologic evidence of Well differentiated Neuroendocrine tumors (NETs) of the lung
+             (typical and atypical according to the World Health Organisation (WHO criteria),
+             evaluated locally)
+
+          -  Has a mitotic index &lt;2 mitoses/2 mm2 for typical carcinoid (TC) and &lt;10 mitoses/2 mm2
+             and/or foci of necrosis for atypical carcinoid (AC)
+
+          -  At least one measurable lesion of the disease on imaging (CT or MRI; RECIST 1.1)
+
+          -  Positive Somatostatin receptors (SSTR) imaging
+
+        Exclusion Criteria:
+
+          -  Poorly differentiated or high grade carcinoma, or patients with neuroendocrine tumors
+             not of lung origin are excluded
+
+          -  Has been treated with an Somatostatin analogs (SSA) at any time prior to
+             randomization, except if that treatment was for less than 15 days (e.g.
+             peri-operatively) of short acting SSA or one dose of long acting SSA and the
+             treatment was received more than 6 weeks prior to randomization
+
+          -  Has been treated with Peptide receptor radionuclide therapy (PRRT) at any time prior
+             to randomization
+
+          -  Has been treated with more than one course of cytotoxic chemotherapy or molecular
+             targeted therapy or interferon for Lung NET
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beloo Mirakhur, M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Ipsen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ipsen Recruitment Enquiries</last_name>
+    <email>Clinical.trials@ipsen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>VA Greater Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Healthcare</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Cancer Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Deerfield Beach</city>
+        <state>Florida</state>
+        <zip>33442</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Name Medical Center</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore-Einstein Cancer Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Center</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AKH und Med. University Vienna Allg Krankenhaus Wien</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>QEII Health Sciences Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2MP</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Gustave Roussy</name>
+      <address>
+        <city>Paris</city>
+        <zip>94800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Zentralklinik Bad Berka GmbH</name>
+      <address>
+        <city>Bad Berka</city>
+        <zip>99437</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universita di Genova</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Szpital Uniwersytecki W</name>
+      <address>
+        <city>Krakow</city>
+        <zip>31-501</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Marqués de Valdecilla</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center, Beatson Oncology</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 0YN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2016</verification_date>
+  <lastchanged_date>April 27, 2016</lastchanged_date>
+  <firstreceived_date>September 21, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoid Tumor</mesh_term>
+    <mesh_term>Neuroendocrine Tumors</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angiopeptin</mesh_term>
+    <mesh_term>Lanreotide</mesh_term>
+    <mesh_term>Somatostatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
