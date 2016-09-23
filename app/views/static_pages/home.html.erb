@@ -3,14 +3,19 @@
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </head>
 
+<!--
+
 <div class = "header">
 
-<!--/*  <%= link_to image_tag("logo_crc.png"), root_path, :class => "logo" %> -->
+  <%= link_to image_tag("logo_crc.png"), root_path, :class => "logo" %>
 </div>
 
+-->
+
+<a class="anchor" name="clinical_trial_search"></a>
 <div class="clinical_trial_search_section">
   <h1>Clinical Trial Search</h1>
-  <div class="clinical_trial_search_horizontal_separator">
+  <div class="clinical_trial_search_divider">
   </div>
   <p class="clinical_trial_search_text">
     Our mission is to provide the best possible options for anyone diagnosed with cancer. Review the most up-to-date information for cancer clinical trials and find in our network which trial could represent the best care available for you.
@@ -21,7 +26,58 @@
     </p>
   </div>
 </div>
-<div>
-  <%= link_to "Sign up now!", signup_path %>
-  <%= link_to "Show Clinical Trial Data", clinicaltrials_path %>
+
+<a class="anchor" name="clinical_trials_101" ></a>
+<div class="clinical_trials_101_section">
+  <h2>Clinical Trials 101</h2>
+  <div class="ct101_text">
+    <h3>Are clinical trials right for me?</h3>
+    <p>When you participate in a cancer clinical trial, you are guaranteed to receive either the treatment under investigation or the best available standard treatment. Unlike clinical studies in other therapeutic areas, patients in cancer trials receive a “sugar pill” placebo only if no standard treatment exists.</p>
+    <p>Clinical trials offer you the opportunity to receive new cancer therapies not otherwise available. These therapies represent the most cutting edge thinking among research oncologists. When you volunteer for a cancer clinical trial, clinical trials (sometimes called clinical research studies) evaluate new drugs the U.S. Food and Drug Administration (FDA) hasn’t yet approved or test new uses for already approved drugs.  They also evaluate new combinations of existing drugs and treatments, and different dosages of approved drugs, or find the best time to begin using a particular drug or treatment.</p>
+    <p>Cancer is one of the most active areas in medical research today.  At any time, thousands of clinical trials are underway on new cancer drugs and treatments.  There may be multiple trials available nearby.</p>
+  </div>
+  <h3 class="purple">Are clinical trials right for me?</h3><br>
+  <h3 class="orange">Why participate in a clinical trial?</h3><br>
+  <h3 class="green">Are clinical trials safe?</h3><br>
+  <h3 class="teal">What is informed consent?</h3><br>
+  <h3 class="purple">How do I participate in a clinical trial?</h3><br>
 </div>
+
+<a class="anchor" name="fda_process"></a>
+<div class="fda_process_section">
+  <h2>The FDA Process</h2>
+  <div class="fda_process_steps">
+    <div class="lab_step">
+      <%= image_tag("lab_img.png", :alt => "Lab Step") %>
+      <div class="fda_process_divider">
+      </div>
+      <p>Every new medication begins in the laboratory.  Pharmaceutical companies and other researchers evaluate tens of thousands of compounds every year, searching for the few that may prove beneficial.  From the time they identify such a compound until it reaches the market (if it does) it could take 10 years or more and could cost more than a billion dollars.</p>
+    </div>
+    <div class="application_step">
+      <%= image_tag("application_img.png", :alt => "Application Step") %>
+      <div class="fda_process_divider">
+      </div>
+      <p>Once a compound shows promise in the laboratory and animal studies, companies apply to the FDA for permission to conduct human clinical trials.  These trials occur in four phases designed to determine specific information, such as risks, safety, and effectiveness compared with a standard drug or therapy.</p>
+    </div>
+    <div class="clinical_trial_step">
+      <%= image_tag("clinical_trial_img.png", :alt => "Clinical Trial Step") %>
+      <div class="fda_process_divider">
+      </div>
+      <p>Each phase is strictly regulated and evaluated, and the safety of the participants is always the top priority.  If there are any safety concerns, officials will halt the trial.</p>
+    </div>
+    <div class="fda_approval_step">
+      <%= image_tag("fda_approval_img.png", :alt => "FDA Approval Step") %>
+      <div class="fda_process_divider">
+      </div>
+      <p>Only after a cancer drug has been shown to be safe and effective, or more effective than existing ones, does the FDA approve it for sale in the US.  Once approved, it becomes available for prescription.</p>
+    </div> 
+  </div>
+</div>
+
+<a class="anchor" name="who_we_are"></a>
+<div class="who_we_are_section">
+  <h2>Who We Are</h2>
+  <p>We are all individuals with unique characteristics, but we are working toward a common goal: to find the best possible cancer treatment options available. We are caregivers, researchers, and professionals. Our mission is to connect patients with research, increase awareness and education, and provide clinical trial knowledge (and hope) for anyone diagnosed with cancer.</p>
+  <p class="copyright">Cancer Research Connect &copy; 2016</p>
+</div>
+
