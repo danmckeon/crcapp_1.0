@@ -1,15 +1,15 @@
 <header>
   <div class = "header">
     <div class = "logo_container">
-      <%= link_to image_tag("logo_crc.png"), root_path, { :class => "logo" } %>
+      <%= link_to image_tag("logo_crc.png"), root_path %>
     </div>
     <div class = "nav_container">
       <nav>
-        <ul class = "topnav">
-          <li><%= link_to "Clinical Trial Search", '#clinical_trial_search' %></li>
-          <li><%= link_to "Clinical Trials 101", '#clinical_trials_101' %></li>
-          <li><%= link_to "The FDA Process", '#fda_process' %></li>
-          <li><%= link_to "Who We Are", '#who_we_are' %></li>
+        <ul>
+          <li><%= link_to "Clinical Trial Search", '#ctsearch' %></li>
+          <li><%= link_to "Clinical Trials 101", '#ct101' %></li>
+          <li><%= link_to "The FDA Process", '#fdaprocess' %></li>
+          <li><%= link_to "Who We Are", '#whoweare' %></li>
           <% if logged_in? %>
             <li><%= link_to "Users", '#' %></li>
             <li class="dropdown">

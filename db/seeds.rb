@@ -71,11 +71,13 @@ public
     @parsed_file[:contact] = file_to_parse.xpath("//contact").text
     @parsed_file[:contact_backup] = file_to_parse.xpath("//contact_backup").text
 #    location_array_xml = file_to_parse.xpath("//location//facility").text
-    @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").map{ |name| name.text }
-    @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").map{ |city| city.text }
-    @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").map{ |state| state.text }
-    @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").map{ |zip| zip.text }
-    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").map{ |country| country.text }
+    @parsed_file[:location_name] = file_to_parse.xpath("//location//facility//name").map{ |name| name.text } #NOTE THIS CODES AS STRING, NOT ARRAY, DUE TO STRING CLASSIFICATION IN MIGRATION
+    @parsed_file[:location_city] = file_to_parse.xpath("//location//facility//address//city").map{ |city| city.text }  #NOTE THIS CODES AS STRING, NOT ARRAY
+    @parsed_file[:location_state] = file_to_parse.xpath("//location//facility//address//state").map{ |state| state.text }  #NOTE THIS CODES AS STRING, NOT ARRAY
+    @parsed_file[:location_zip] = file_to_parse.xpath("//location//facility//address//zip").map{ |zip| zip.text }  #NOTE THIS CODES AS STRING, NOT ARRAY
+    @parsed_file[:location_country] = file_to_parse.xpath("//location//facility//address//country").map{ |country| country.text }  #NOTE THIS CODES AS STRING, NOT ARRAY
+    @parsed_file[:location_status] = file_to_parse.xpath("//location//status").map{ |location_status| location_status.text }  #NOTE THIS CODES AS STRING, NOT ARRAY
+    @parsed_file[:recruiting_site_count] = calculate_sites_recruiting(file_to_parse.xpath("//location//status").map{ |location_status| location_status.text })
     @parsed_file[:results_reference_citation] = file_to_parse.xpath("//results_reference//citation").text
     @parsed_file[:results_reference_PMID] = file_to_parse.xpath("//results_reference//pmid").text
     @parsed_file[:verification_date] = file_to_parse.xpath("//verification_date").text
@@ -117,11 +119,60 @@ def calculate_max_age_int(max_age_string)
   return age_maximum_int
 end
 
+def calculate_sites_recruiting(location_status_array)
+#  Potential statuses for sites ["Recruiting", "Active, not recruiting", "Not yet recruiting", , "Enrolling by invitation", "Completed", "Terminated", "Withdrawn", "Suspended"]
+  site_status_count = Hash.new(0)
+  location_status_array.each do |status|
+    site_status_count[status] += 1
+  end
+  return site_status_count["Recruiting"]
+end
+
+# Trial sites function
+
+def parse_trial_sites(xml_file)
+  @location_array = xml_file.xpath("//location").map { |location| location }
+  @location_array.each do |entry|   
+    if (entry.at("country").text == "United States")
+      @trial_site_record = TrialSite.new
+      @trial_site_record[:site_name] = read_entry(entry, "name")
+      @trial_site_record[:site_city] = read_entry(entry, "city")
+      @trial_site_record[:site_state] = read_entry(entry, "state")
+      @trial_site_record[:site_zip] = read_entry(entry, "zip")
+      @trial_site_record[:site_county] = read_entry(entry, "country")
+      @trial_site_record[:site_status] = read_entry(entry, "status")
+      @trial_site_record.save
+    end
+  end
+end
+
+def read_entry(entry, tag)
+  if entry.at(tag) != nil
+    return entry.at(tag).text
+  end
+end
+
+# Populate trial sites
+
+#TARGET_FILE_PATH = '/Users/danmckeon/workspace/cancer_research_connect/lib/data/CTDOTGOV_UPLOAD_1476145970/XML/NCT02364999.xml'
+
+
+
+#ctxml_noko = Nokogiri::XML(File.open(TARGET_FILE_PATH))
+
+
+
+
+
+# Define Constants
 
 SHORT_SAMPLE_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=hand+cancer&studyxml=true"
-LONGER_SAMPLE_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=mouth+cancer&studyxml=true"
-LUNG_CANCER_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond=lung+cancer&studyxml=true"
+LONGER_SAMPLE_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="mouth+cancer"&studyxml=true]
+LUNG_CANCER_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="lung+cancer"&phase=1&phase=2&studyxml=true]
+COLORECTAL_CANCER_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="colon cancer"+OR+"rectal cancer"+OR+"colorectal cancer"+OR+"rectum cancer"&phase=1&phase=2&studyxml=true]
+LEUKEMIA_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="leukemia"&phase=1&phase=2&studyxml=true]
 FULL_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&studyxml=true"
+
 
 # Assign variables
 
@@ -137,9 +188,11 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
 
-download_zip_file(SHORT_SAMPLE_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+download_zip_file(LEUKEMIA_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
 CClinicalTrial.destroy_all # Clear database
+
+TrialSite.destroy_all # Clear database
 
 # Parse XML files
 
@@ -148,9 +201,13 @@ Dir.glob(expl_xml_dir_path) do |xml_file|
   @ct_record = CClinicalTrial.new
   @ct_record = parse_xml_file(xml_file_noko)
   @ct_record.save
+  parse_trial_sites(xml_file_noko)
 end
 
-# Meaningless note
+
+
+
+
 
 # Misc Notes:
   # Root file path on my computer: '/Users/danmckeon/workspace/cancer_resources/lib/data/'

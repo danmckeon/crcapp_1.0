@@ -1,0 +1,41 @@
+<%= form_for(@trial_site) do |f| %>
+  <% if @trial_site.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@trial_site.errors.count, "error") %> prohibited this trial_site from being saved:</h2>
+
+      <ul>
+      <% @trial_site.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :site_name %><br>
+    <%= f.text_field :site_name %>
+  </div>
+  <div class="field">
+    <%= f.label :site_city %><br>
+    <%= f.text_field :site_city %>
+  </div>
+  <div class="field">
+    <%= f.label :site_state %><br>
+    <%= f.text_field :site_state %>
+  </div>
+  <div class="field">
+    <%= f.label :site_zip %><br>
+    <%= f.number_field :site_zip %>
+  </div>
+  <div class="field">
+    <%= f.label :site_county %><br>
+    <%= f.text_field :site_county %>
+  </div>
+  <div class="field">
+    <%= f.label :site_status %><br>
+    <%= f.text_field :site_status %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

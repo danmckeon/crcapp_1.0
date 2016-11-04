@@ -1,0 +1,37 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Trial Sites</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site name</th>
+      <th>Site city</th>
+      <th>Site state</th>
+      <th>Site zip</th>
+      <th>Site county</th>
+      <th>Site status</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @trial_sites.each do |trial_site| %>
+      <tr>
+        <td><%= trial_site.site_name %></td>
+        <td><%= trial_site.site_city %></td>
+        <td><%= trial_site.site_state %></td>
+        <td><%= trial_site.site_zip %></td>
+        <td><%= trial_site.site_county %></td>
+        <td><%= trial_site.site_status %></td>
+        <td><%= link_to 'Show', trial_site %></td>
+        <td><%= link_to 'Edit', edit_trial_site_path(trial_site) %></td>
+        <td><%= link_to 'Destroy', trial_site, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Trial site', new_trial_site_path %>

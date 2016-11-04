@@ -1,20 +1,23 @@
 /* TODO
 
-border-top in fda process, make look like png
-Lower clin trials 101 questions a little bit
-Figure out how to make dynamic contnent for Q&A in clin trials 101
+Fix top nav aligning elements
+Fix horizontal align between divs due to different
+sizes if unages not lining up perfectly to 1024px width
+Could adjust border-top in fda process to be css instead of img
+Align Clin Trials 101 answers in center
 Insert gap between most top nav and log in/sign up
 Insert white background on top nav bar with hover
-inline-block for the side-by-side elements in clinical trials 101
 @each function for colors in clinical trials 101
 Ensure we are okay to use graphics in FDA Process section without license
 Notify 99 Designs designer when site is live
 Add gradient to gray dividers in FDA Process section
 Uncomment debug and footer in views -> layouts -> application.html.erb
-Remove white space from right side and bottom
+Fix gradient CSS in other browsers
+Use @media max-width to make app responsive to tablets and phones - currently set up for computers
+Consider using http://purecss.io/ to make website responsive
+ctsearch section could use some refactoring
+
 */
-
-
 
 
 /* mixins, variables, etc. */
@@ -26,21 +29,51 @@ $crc_teal: rgb(0, 111, 153);
 $crc_colors: $crc_purple, $crc_orange, $crc_green, $crc_teal;
 $border_gray: rgb(230, 230, 230);
 
+@mixin fda_process_box_vars($left_margin, $border_color, $background_img) {
+  margin-left: $left_margin;
+  border-bottom: 1px solid $border_color;
+  background-image: image-url($background_img);
+}
+
+@mixin ct101_left_line($color) {
+  border-left: 1px solid $color;
+  -moz-border-image: -moz-linear-gradient(transparent 0%, $color 50%, transparent 100%);
+  -webkit-border-image: -webkit-linear-gradient(transparent 0%, $color 50%, transparent 100%);
+  border-image: linear-gradient(transparent 0%, $color 50%, transparent 100%);
+  border-image-slice: 1;
+}
+
 /* universal */
 
-html, body {
-  margin: 0;
+html {
+  width: 100%;
+  height: 100%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
   padding: 0;
   outline: 0;
   overflow-x: hidden;
-  width: 100%;
-  height:100%; 
+}
+
+body {
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+  outline: 0;
+  overflow-x: hidden;
+  width: 1024px;
+  border-left: 1px solid $border_gray;
+  border-right: 1px solid $border_gray;
 }
 
 a.anchor {
   display: block;
   position: relative;
-  top: -5.75vw;
+  top: -60px;
   visibility: hidden;
 }
 
@@ -49,27 +82,24 @@ a.anchor {
 h1 {
   font-family: "trajan-pro-3",sans-serif;
   color: white;
-  font-size:6vw;
-  font-weight:normal;
-  line-height:6vw; 
-  position: absolute; 
-  top:.19 * 40.9956vw; 
-  left:11.8vw; 
-  width: 30%;
+  font-size: 48pt;
+  line-height: 48pt;
+  font-weight: normal;
 }
 
 h2 {
   font-family: "trajan-pro-3",sans-serif;
+  font-size: 24pt;
   color: black;
-  font-size:3vw;
-  font-weight:normal;
+  font-weight: normal;
   text-align: center;
+  margin: 0;
 }
 
 h3 {
   font-family: "trajan-pro-3",sans-serif;
   color: black;
-  font-size:1.5vw;
+  font-size:14pt;
   font-weight:normal;
 }
 
@@ -85,718 +115,340 @@ nav {
 /* header */
 
 .header {
+  position: fixed;
+  display: block;
   width: 100%;
-  height: 5.75vw;
-  overflow: hidden; 
-  position: absolute;
+  height: 60px;
+  z-index:50;
   background: white;
   opacity: .95;
-  position: fixed;
   margin:0;
 }
 
 .logo_container {
-  position: absolute;
-}
-
- .nav_container {
   position: relative;
-  width:70vw;
-  height:5.75vw;
-  float: right;
-  margin-right: 5vw;
-  margin-top: 2.2vw;
-}
-
-.logo img {
-  height: 4.25vw;
-  padding-top: 0.75vw;
-  padding-left: .75vw;
-  float: left;
-  z-index: 3;
-  &:hover {
+  display: inline-block;
+  width: 500px;
+  height: 60px;
+  a:hover {
+    text-decoration: none;
+    background: transparent;
+  }
+  img {
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
   }
 }
 
-.topnav {
-  margin-top: 0px;
-  position: absolute;
-  width: 100%;
+.nav_container {
+  position: relative;
   display: inline-block;
-  text-align: right;
-  padding-right: 10 vw;
+  width: 600px;
+  height: 60px;
   list-style: none;
-  margin-left: 0px;
   text-decoration:none;
-}
-
-.topnav a {
-  text-decoration: none;
-  &:hover {
-    color: black;
-    background-color: white;
+  vertical-align: top;
+  margin-top: 6px;
+  ul {
+    li {
+      text-decoration:none;
+      font-family: "futura-pt",sans-serif;
+      margin-right: 10px;
+      display: inline-block;
+      text-align:center;
+      text-decoration: none;
+      z-index: 55;
+      &:hover {
+        opacity: 1;
+      }
+  }
+  a {
+    text-decoration: none;
+    &:hover {
+      color: black; 
+      background-color: white;
+    }
+  }
+  
   }
 }
-
-.topnav li {
-  text-decoration:none;
-  font-family: "futura-pt",sans-serif;
-  font-size: 1.4vw;
-  display: inline-block;
-  text-align:center;
-  padding-right: 2vw;
-  text-decoration: none;
-  &:hover {
-    opacity: 1;
-  }
-}
-
-
-
 
 /* home page clinical trial search section */
 
-.clinical_trial_search_section {
+.ctsearch_section {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 421px;
   background-image: image-url("background_clinical_trial_search.png"); 
   background-size: contain;
   background-repeat: no-repeat;
-  width:100%;
-  height: 0;
-  padding-top:40.9956%;
-  position:relative;
-  z-index:-1;
+  background-position: center;
+  z-index: 10;
   margin:0;
+  padding:0;
   }
 
-.clinical_trial_search_divider {
-  width:7.2vw;
-  background: white;
-  height:.1vw;
-  position:absolute;
-  top:.76 * 40.9956vw;
-  z-index:1;
-  left:12.4vw;
+.ctsearch_title_container {
+  position: relative;  
+  display:inline-block;
+  margin-left: 15%; 
+  margin-top: 50px;
+  width: 30%;
 }
 
-.clinical_trial_search_text {
-  font-family: "futura-pt",sans-serif;
-  color: white;
-  font-size:2vw;
-  position: absolute;
-  top:.75 * 40.9956vw;
-  line-height: 2.2vw;
-  left:12.2vw; 
-}
-
-.clinical_trial_search_box {
-  background-image: image-url("clinical_trial_search_box.png");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  right:-1vw;
-  top:.1vw;
-  width: 101vw;
-  height: 175vw;
-  position: absolute;
-  opacity:1;
-  z-index:2;
-}
-
-.fpo_clinical_trial_text {
-  font-family: "futura-pt",sans-serif;
-  color:red;
-  font-weight:bold;
-  font-size:4vw;
-  line-height:4vw;
-  text-align:left;
+.ctsearch_divider {
   position:relative;
-  padding-left:48vw;
-  padding-top:12vw;
+  display:block;
+  width:10%;
+  margin-left:15%; 
+  background: white;
+  height:1px;
+  z-index:20;
 }
+
+.ctsearch_body_container {
+  display: block;
+  margin-left: 15%;
+  bottom: 0%;
+  margin-right:5%; 
+  p {
+    font-family: "futura-pt",sans-serif; 
+    color: white;
+  }
+}
+
+ .clinical_trial_search_box {
+  position: relative;
+  display: inline-block;
+  height: 200px;
+  width: 50%;
+  background-image: image-url("clinical_trial_search_box.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 4%;
+  margin-top: 50px;
+  opacity:1;
+  z-index:30;
+} 
 
 /* clinical trials 101 section */
 
-.clinical_trials_101_section {
+.ct101_section {
+  margin:0;
+  padding:0;
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 517px;
   background-image: image-url("background_clinical_trials_101_no_color_bars.png"); 
   background-size: contain;
   background-repeat: no-repeat;
-  width:100%;
-  height: 0;
-  padding-top:50.4392%;
-  position: relative;
-  z-index:-1;
-  margin:0;
+  background-position: center;
+  h2 {
+    padding-top: 60px;
+    text-align: center;
+    z-index: 30;
+    position: relative;
+  }
 }
 
-
-.clinical_trials_101_section h2 {
-  text-align: center;
-  z-index: 2;
-  position: relative;
-  margin-top: -44.3vw;
+.ct101_body_container {
+  display:block;
+  width: 100%;
+  padding-top: 40px;
 }
 
+.panel_link_block {
+  padding-top: 20px;
+  width: 49%;
+  position: relative;
+  display:inline-block;
+}
 
-
-.clinical_trials_101_section .ct101_text {
-  position:relative;
-  float:right;
-  width: 48vw;
-  margin-top: 2vw;
+.panel-link {
   h3 {
-    color: $crc_purple;
-    font-size:2vw;
+    text-align:left;
+    position: relative;
+    line-height: 70px;
+    margin-left: 40px;  
+    display: inline;
+    &:before {
+      content:"";
+      padding-top: 20px;
+      margin-left: -20px;
+      position: absolute;
+      height: 50px;
+    }
   }
+}
+
+#purple h3:before {
+  @include ct101_left_line($crc_purple);
+}
+
+#orange h3:before {
+  @include ct101_left_line($crc_orange);
+}
+
+#green h3:before {
+  @include ct101_left_line($crc_green);
+}
+
+#teal h3:before {
+  @include ct101_left_line($crc_teal);
+}
+
+.panel_content_block {
+  width: 50%;
+  height: 400px;
+  position: relative;
+  display:inline-block;
+}
+
+.panel-content {
+  display:none;
   p {
+    vertical-align: middle;
     font-family: "futura-pt",sans-serif;
-    font-size: 1.4vw;
-    line-height: 1.8vw;
-  }
-  &:before {
-    content:"";
-    margin-left: -2vw;
-    margin-top: 1.3vw;
-    position: absolute;
-    height: 31.5vw;
-    border-left: .15vw solid $crc_purple;
-    -moz-border-image: -moz-linear-gradient(transparent 0%, $crc_purple 50%, transparent 100%);
-    -webkit-border-image: -webkit-linear-gradient(transparent 0%, $crc_purple 50%, transparent 100%);
-    border-image: linear-gradient(transparent 0%, $crc_purple 50%, transparent 100%);
-    border-image-slice: 1;
+    font-size: 12pt;
+    line-height: 19px;
   }
 }
 
-.clinical_trials_101_section .purple {
-  width: 45vw;
-  text-align: left;
-  z-index: 2;
-  position: relative;
-  line-height: 7vw;
-  margin-top: 8vw;
-  margin-left: 6vw;  
-  display: inline;
-  text-indent: 20px;
-  &:before {
-    content:"";
-    margin-left: -1vw;
-    margin-top: .5vw;
-    position: absolute;
-    height: 6vw;
-    border-left: .1vw solid $crc_purple;
-    -moz-border-image: -moz-linear-gradient(transparent -20%, $crc_purple 50%, transparent 120%);
-    -webkit-border-image: -webkit-linear-gradient(transparent -20%, $crc_purple 50%, transparent 120%);
-    border-image: linear-gradient(transparent -20%, $crc_purple 50%, transparent 120%);
-    border-image-slice: 1;
-    } 
+#panel-1 {
+  display:block;
 }
-
-
- .clinical_trials_101_section .orange {
-  width: 45vw;
-  text-align: left;
-  z-index: 2;
-  position: relative;
-  line-height: 7vw;
-  margin-top: 6vw;
-  margin-left: 6vw;  
-  display: inline;
-  text-indent: 20px;
-   &:before {
-    content:"";
-    margin-left: -1vw;
-    margin-top: .5vw;
-    position: absolute;
-    height: 6vw;
-    border-left: .1vw solid $crc_orange;
-    -moz-border-image: -moz-linear-gradient(transparent -20%, $crc_orange 50%, transparent 120%);
-    -webkit-border-image: -webkit-linear-gradient(transparent -20%, $crc_orange 50%, transparent 120%);
-    border-image: linear-gradient(transparent -20%, $crc_orange 50%, transparent 120%);
-    border-image-slice: 1;
-    } 
-} 
-
-.clinical_trials_101_section .green {
-  width: 45vw;
-  text-align: left;
-  z-index: 2;
-  position: relative;
-  line-height: 7vw;
-  margin-top: 6vw;
-  margin-left: 6vw;  
-  display: inline;
-  text-indent: 20px;
-   &:before {
-    content:"";
-    margin-left: -1vw;
-    margin-top: .5vw;
-    position: absolute;
-    height: 6vw;
-    border-left: .1vw solid $crc_green;
-    -moz-border-image: -moz-linear-gradient(transparent -20%, $crc_green 50%, transparent 120%);
-    -webkit-border-image: -webkit-linear-gradient(transparent -20%, $crc_green 50%, transparent 120%);
-    border-image: linear-gradient(transparent -20%, $crc_green 50%, transparent 120%);
-    border-image-slice: 1;
-    } 
-}
-
-.clinical_trials_101_section .teal {
-  width: 45vw;
-  text-align: left;
-  z-index: 2;
-  position: relative;
-  line-height: 7vw;
-  margin-top: 6vw;
-  margin-left: 6vw;  
-  display: inline;
-  text-indent: 20px;
-   &:before {
-    content:"";
-    margin-left: -1vw;
-    margin-top: .5vw;
-    position: absolute;
-    height: 6vw;
-    border-left: .1vw solid $crc_teal;
-    -moz-border-image: -moz-linear-gradient(transparent -20%, $crc_teal 50%, transparent 120%);
-    -webkit-border-image: -webkit-linear-gradient(transparent -20%, $crc_teal 50%, transparent 120%);
-    border-image: linear-gradient(transparent -20%, $crc_teal 50%, transparent 120%);
-    border-image-slice: 1;
-    } 
-}
-
-
 
 
 /* fda process section */
 
-.fda_process_section {
+.fdaprocess_section {
+  position: relative;
+  display: block;
+  width:100%;
+  height: 542.73499px;
   background-image: image-url("background_fda_process.png"); 
   background-size: contain;
   background-repeat: no-repeat;
-  width:100%;
-  height: 0;
-  padding-top:53.0015%;
-  position: relative;
-  z-index:-1;
-  margin:0;
+  h2 {
+    text-align: center;
+    padding-top: 80px;
+    z-index: 2;
+    position: relative;
+  }
 }
 
-.fda_process_section h2 {
-  text-align: center;
-  z-index: 2;
-  position: relative;
-  margin-top: -45vw;
-}
-
-.fda_process_divider {
-  margin-top: 2vw;
-  margin-left: 7vw;
-  margin-right: 7vw;
-  border-bottom: .1vw solid $border_gray; 
-/*  -moz-border-image: -moz-linear-gradient(transparent 35%, $border_gray 50%, transparent 65%);
-  -webkit-border-image: -webkit-linear-gradient(transparent 35%, $border_gray 50%, transparent 65%);
-  border-image: linear-gradient(transparent 35%, $border_gray 50%, transparent 65%);
-  border-image-slice: 1; */
+.fdaprocess_divider {
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-bottom: 1px solid $border_gray; 
  }
 
 
-.fda_process_steps {
+.fdaprocess_body_container {
   width: 100%;
   position: relative;
-  margin-top: 6vw;
+  padding-top: 60px;
+}
+
+.fdaprocess_step {
+  vertical-align:top;
+  width: 23.25%;
+  height: 365px;
+  position: relative;
+  display: inline-block;
+  border: 1px solid $border_gray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px $border_gray;
+  background-size: 120px auto;
+  background-position: right bottom;
+  background-repeat: no-repeat;
   p {
     text-align: center;
-    margin-left: 1vw;
-    margin-right: 1vw;
-    margin-top: 2vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
     font-family: "futura-pt",sans-serif;
-    font-size: 1.5vw;
-    line-height: 1.9vw;
+    font-size: 12pt;
+    line-height: 18px;
     }
   img {
     display: block;
     position: relative;
-    width: 5vw;
+    width: 55px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 4vw;
+    margin-top: 30px;
   }
 }
 
-.lab_step {
-  vertical-align:top;
-  width: 23.25vw;
-  height: 34.5vw;
-  position: relative;
-  display: inline-block;
-  margin-left: 2.45vw;
-  border: .1vw solid $border_gray;
-  border-radius: 0.66vw;
-  border-bottom: .1vw solid $crc_purple;
-  box-shadow: .2vw .2vw 1vw $border_gray;
-  background-image: image-url("lab_background_cropped.png"); 
-  background-size: 15vw auto;
-  background-position: right bottom;
-  background-repeat: no-repeat;
+#lab {
+  @include fda_process_box_vars(2.45%, $crc_purple, "lab_background_cropped.png");
 }
 
-.application_step {
-  vertical-align:top;
-  width: 23.25vw;
-  height: 34.5vw;
-  position: relative;
-  display: inline-block;
-  margin-left: 0vw;
-  border: .1vw solid $border_gray;
-  border-radius: 0.66vw;
-  border-bottom: .1vw solid $crc_teal;
-  box-shadow: .2vw .2vw 1vw $border_gray;
-  background-image: image-url("application_background_cropped.png"); 
-  background-size: 15vw auto;
-  background-position: right bottom;
-  background-repeat: no-repeat;
+#application {
+  @include fda_process_box_vars(0, $crc_teal, "applcation_background_cropped.png");
 }
 
-.clinical_trial_step {
-  vertical-align:top;
-  width: 23.25vw;
-  height: 34.5vw;
-  position: relative;
-  display: inline-block;
-  margin-left: 0vw;
-  border: .1vw solid $border_gray;
-  border-radius: 0.66vw;
-  border-bottom: .1vw solid $crc_orange;
-  box-shadow: .2vw .2vw 1vw $border_gray;
-  background-image: image-url("clinical_trial_background_cropped.png"); 
-  background-size: 15vw auto;
-  background-position: right bottom;
-  background-repeat: no-repeat;
+#trial {
+  @include fda_process_box_vars(0, $crc_orange, "trial_background_cropped.png");
 }
 
-.fda_approval_step {
-  vertical-align:top;
-  width: 23.25vw;
-  height: 34.5vw;
-  position: relative;
-  display: inline-block;
-  margin-left: 0vw;
-  border: .1vw solid $border_gray;
-  border-radius: 0.66vw;
-  border-bottom: .1vw solid $crc_green;
-  box-shadow: .2vw .2vw 1vw $border_gray;
-  background-image: image-url("fda_approval_background_cropped.png"); 
-  background-size: 15vw auto;
-  background-position: right bottom;
-  background-repeat: no-repeat;
+#approval {
+  @include fda_process_box_vars(0, $crc_green, "approval_background_cropped.png");
 }
 
 
 /* who we are section */
 
 
-.who_we_are_section {
+.whoweare_section {
+  position: relative;
+  display: block;
+  width:100%;
+  height: 299.8536px;
   background-image: image-url("background_who_we_are.png"); 
   background-size: contain;
   background-repeat: no-repeat;
-  width:100%;
-  height: 0;
-  padding-top: 29.2826%; 
-  position: relative;
   z-index:-1;
-  margin:0;
   h2 {
     color: white;
     text-align: center;
     z-index: 2;
     position: relative;
-    margin-top: -21vw;
+    padding-top: 83px;
   }
   p {
     text-align: center;
     color: white;
-    margin-left: 16vw;
-    margin-right: 16vw;
-    margin-top: 6vw;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 75px;
     font-family: "futura-pt",sans-serif;
-    font-size: 1.7vw;
-    line-height: 2.1vw;
+    font-size: 12pt;
+    line-height: 18px;
   }
   .copyright {
     position:relative;
     text-align: left;
-    margin-top: 0vw;
-    margin-left: 1vw;
-    margin-top: 3vw;
+    margin-left: 5px;
+    margin-top: 30px;
     color: white;
     font-family: "futura-pt",sans-serif;
-    font-size: .9vw;
+    font-size: 8pt;
     z-index:3;
   }
 } 
 
 
 
-/* EVERYTHING BELOW IS COMMENTED OUT - WAS PREVIOUSLY PART OF APP BUT 
-NOW DESIGN HAS CHANGED */
+/* clinical trial table */
 
-/* @import "bootstrap-sprockets";
-@import "bootstrap";
-*/
-/* mixins, variables, etc. */
-
-/*
-
-$gray-medium-light: #eaeaea;
-
-@mixin box_sizing {
-  -moz-box-sizing:    border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing:         border-box;
-}
-
-*/
-
-/* universal */
-
-/*
-
-body {
-  padding-top: 60px;
-}
-
-section {
-  overflow: auto;
-}
-
-textarea {
-  resize: vertical;
-}
-
-.center {
-  text-align: center;
-  h1 {
-    margin-bottom: 10px;
-  }
-}
-
-*/
-
-/* typography */
-
-/*
-
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1;
-}
-
-h1 {
-  font-size: 3em;
-  letter-spacing: -2px;
-  margin-bottom: 30px;
-  text-align: center;
-}
-
-h2 {
-  font-size: 1.2em;
-  letter-spacing: -1px;
-  margin-bottom: 30px;
-  text-align: center;
-  font-weight: normal;
-  color: $gray-light;
-}
-
-p {
-  font-size: 1.1em;
-  line-height: 1.7em;
-}
-
-*/
-
-/* header */
-
-/*
-
-#logo {
-  float: left;
-  margin-right: 10px;
-  font-size: 1.7em;
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: -1px;
-  padding-top: 9px;
-  font-weight: bold;
-  &:hover {
-    color: white;
-    text-decoration: none;
-  }
-}
-
-*/
-
-/* footer */
-
-/*
-
-footer {
-  margin-top: 45px;
-  padding-top: 5px;
-  border-top: 1px solid $gray-medium-light;
-  color: $gray-light;
-  a {
-    color: $gray;
-    &:hover {
-      color: $gray-darker;
-    }
-  }
-  small {
-    float: left;
-  }
-  ul {
-    float: right;
-    list-style: none;
-    li {
-      float: left;
-      margin-left: 15px;
-    }
-  }
-}
-
-*/
-
-/* table */
-table { 
-color: #333;
-font-family: Helvetica, Arial, sans-serif; 
-border-collapse: 
-collapse; border-spacing: 0; 
-}
-
-td, th { 
-border: 1px solid transparent; /* No more visible border */
-height: 30px; 
-transition: all 0.3s;  /* Simple transition for hover effect */
-}
-
-th {
-background: #DFDFDF;  /* Darken header a bit */
-font-weight: bold;
-text-align: center;
-}
-
-td {
-background: #FAFAFA;
-text-align: center;
-}
-
-/* Cells in even rows (2,4,6...) are one color */ 
-tr:nth-child(even) td { background: #F1F1F1; }   
-
-/* Cells in odd rows (1,3,5...) are another (excludes header cells)  */ 
-tr:nth-child(odd) td { background: #FEFEFE; }  
-
-.wide_column {
-  -webkit-column-width: 600px; /* Chrome, Safari, Opera */
-    -moz-column-width: 600px; /* Firefox */
-}
-
-/* miscellaneous */
-
-/*
-
-.debug_dump {
-  clear: both;
-  float: left;
-  width: 100%;
-  margin-top: 45px;
-  @include box_sizing;
-}
-
-*/
-
-/* sidebar */
-
-/*
-
-aside {
-  section.user_info {
-    margin-top: 20px;
-  }
-  section {
-    padding: 10px 0;
-    margin-top: 20px;
-    &:first-child {
-      border: 0;
-      padding-top: 0;
-    }
-    span {
-      display: block;
-      margin-bottom: 3px;
-      line-height: 1;
-    }
-    h1 {
-      font-size: 1.4em;
-      text-align: left;
-      letter-spacing: -1px;
-      margin-bottom: 3px;
-      margin-top: 0px;
-    }
-  }
-}
-
-.gravatar {
-  float: left;
-  margin-right: 10px;
-}
-
-.gravatar_edit {
-  margin-top: 15px;
-}
-
-*/
-
-/* forms */
-
-/*
-
-input, textarea, select, .uneditable-input {
-  border: 1px solid #bbb;
-  width: 100%;
-  margin-bottom: 15px;
-  @include box_sizing;
-}
-
-input {
-  height: auto !important;
-}
-
-#error_explanation {
-  color: red;
-  ul {
-    color: red;
-    margin: 0 0 30px 0;
-  }
-}
-
-.field_with_errors {
-  @extend .has-error;
-  .form-control {
-    color: $state-danger-text;
-  }
-}
-
-.checkbox {
-  margin-top: -10px;
-  margin-bottom: 10px;
-  span {
-    margin-left: 20px;
-    font-weight: normal;
-  }
-}
-
-#session_remember_me {
-  width: auto;
-  margin-left: 0;
-}
-
-*/
-
+.clinical_trial_table {
+  position:relative;
+} 

@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Site name:</strong>
+  <%= @trial_site.site_name %>
+</p>
+
+<p>
+  <strong>Site city:</strong>
+  <%= @trial_site.site_city %>
+</p>
+
+<p>
+  <strong>Site state:</strong>
+  <%= @trial_site.site_state %>
+</p>
+
+<p>
+  <strong>Site zip:</strong>
+  <%= @trial_site.site_zip %>
+</p>
+
+<p>
+  <strong>Site county:</strong>
+  <%= @trial_site.site_county %>
+</p>
+
+<p>
+  <strong>Site status:</strong>
+  <%= @trial_site.site_status %>
+</p>
+
+<%= link_to 'Edit', edit_trial_site_path(@trial_site) %> |
+<%= link_to 'Back', trial_sites_path %>

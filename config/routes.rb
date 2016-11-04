@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :trial_sites
   resources :c_clinical_trials
   get 'clinical_trials/show'
 

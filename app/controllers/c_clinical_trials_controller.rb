@@ -7,7 +7,12 @@ class CClinicalTrialsController < ApplicationController
     # @cct_scrape = CClinicalTrial.new
     # @cct_scrape.scrape_clinical_trials
     # Not sure about params below
-    @c_clinical_trials = CClinicalTrial.paginate(page: params[:page])
+    @c_clinical_trials = CClinicalTrial.all # CClinicalTrial.paginate(page: params[:page]) UNCOMMENT WHEN WANT TO PAGINATE
+    respond_to do |format|
+      format.html
+      format.csv { send_data @c_clinical_trials.to_csv }
+      format.xls { send_data @c_clinical_trials.to_csv(col_sep: "\t") }
+    end
   end
 
   # GET /c_clinical_trials/1
