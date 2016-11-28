@@ -171,6 +171,7 @@ LONGER_SAMPLE_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=
 LUNG_CANCER_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="lung+cancer"&phase=1&phase=2&studyxml=true]
 COLORECTAL_CANCER_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="colon cancer"+OR+"rectal cancer"+OR+"colorectal cancer"+OR+"rectum cancer"&phase=1&phase=2&studyxml=true]
 LEUKEMIA_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="leukemia"&phase=1&phase=2&studyxml=true]
+LYMPHOMA_UPLOAD_URL = %q[https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&cond="lymphoma"&phase=1&phase=2&studyxml=true]
 FULL_UPLOAD_URL = "https://clinicaltrials.gov/ct2/results?term=&recr=Recruiting&cntry1=NA%3AUS&studyxml=true"
 
 
@@ -188,7 +189,7 @@ expl_xml_dir_path = xml_dir_path + '*.xml'
 
 create_upload_directories(parent_dir_path, zip_dir_path, xml_dir_path) # Create necessary directories for upload
 
-download_zip_file(LEUKEMIA_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
+download_zip_file(LYMPHOMA_UPLOAD_URL, zip_dir_path, xml_dir_path) # Download zip file to directory and unzip
 
 CClinicalTrial.destroy_all # Clear database
 

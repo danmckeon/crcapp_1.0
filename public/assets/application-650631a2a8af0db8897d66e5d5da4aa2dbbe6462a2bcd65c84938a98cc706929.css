@@ -1,0 +1,589 @@
+/* TODO
+
+Fix top nav aligning elements
+Fix horizontal align between divs due to different
+sizes if unages not lining up perfectly to 1024px width
+Could adjust border-top in fda process to be css instead of img
+Align Clin Trials 101 answers in center
+Insert gap between most top nav and log in/sign up
+Insert white background on top nav bar with hover
+@each function for colors in clinical trials 101
+Ensure we are okay to use graphics in FDA Process section without license
+Notify 99 Designs designer when site is live
+Add gradient to gray dividers in FDA Process section
+Uncomment debug and footer in views -> layouts -> application.html.erb
+Fix gradient CSS in other browsers
+Use @media max-width to make app responsive to tablets and phones - currently set up for computers
+Consider using http://purecss.io/ to make website responsive
+ctsearch section could use some refactoring
+
+@media (min-width:320px)  { smartphones, iPhone, portrait 480x320 phones  }
+@media (min-width:481px)  {  portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide.  }
+@media (min-width:641px)  { portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones  }
+@media (min-width:961px)  { tablet, landscape iPad, lo-res laptops ands desktops  }
+@media (min-width:1025px) { big landscape tablets, laptops, and desktops }
+@media (min-width:1281px) { hi-res laptops and desktops }
+
+*/
+/* mixins, variables, etc. */
+/* universal */
+/* line 56, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+html {
+  width: 100%;
+  height: 100%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+  outline: 0;
+  overflow-x: hidden;
+}
+
+/* line 68, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+body {
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  padding: 0;
+  outline: 0;
+  overflow-x: hidden;
+  width: 1024px;
+  border-left: 1px solid #e6e6e6;
+  border-right: 1px solid #e6e6e6;
+}
+
+/* line 81, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+a.anchor {
+  display: block;
+  position: relative;
+  top: -60px;
+  visibility: hidden;
+}
+
+/* typography */
+/* line 90, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+h1 {
+  font-family: "trajan-pro-3",sans-serif;
+  color: white;
+  font-size: 48pt;
+  line-height: 48pt;
+  font-weight: normal;
+}
+
+/* line 98, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+h2 {
+  font-family: "trajan-pro-3",sans-serif;
+  font-size: 24pt;
+  color: black;
+  font-weight: normal;
+  text-align: center;
+  margin: 0;
+}
+
+/* line 107, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+h3 {
+  font-family: "trajan-pro-3",sans-serif;
+  color: black;
+  font-size: 14pt;
+  font-weight: normal;
+}
+
+/* line 114, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+p {
+  font-family: "futura-pt",sans-serif;
+}
+
+/* line 118, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+nav {
+  font-family: "futura-pt",sans-serif;
+}
+
+/* header */
+/* line 125, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.header {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 60px;
+  z-index: 50;
+  background: white;
+  opacity: .95;
+  margin: 0;
+}
+
+/* line 136, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.logo_container {
+  position: relative;
+  display: inline-block;
+  width: 500px;
+  height: 60px;
+}
+/* line 141, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.logo_container a:hover {
+  text-decoration: none;
+  background: transparent;
+}
+/* line 145, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.logo_container img {
+  height: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+}
+
+/* line 153, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.nav_container {
+  position: relative;
+  display: inline-block;
+  width: 600px;
+  height: 60px;
+  list-style: none;
+  text-decoration: none;
+  vertical-align: top;
+  margin-top: 6px;
+}
+/* line 163, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.nav_container ul li {
+  text-decoration: none;
+  font-family: "futura-pt",sans-serif;
+  margin-right: 10px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  z-index: 55;
+}
+/* line 171, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.nav_container ul li:hover {
+  opacity: 1;
+}
+/* line 175, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.nav_container ul a {
+  text-decoration: none;
+}
+/* line 177, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.nav_container ul a:hover {
+  color: black;
+  background-color: white;
+}
+
+/* home page clinical trial search section */
+/* line 188, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ctsearch_section {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 421px;
+  background-image: url(/assets/background_clinical_trial_search-c8729d9a4105ad4895e08d96a2f410317b723549db1b5ddbee43fe0bcb27f540.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 10;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 202, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ctsearch_title_container {
+  position: relative;
+  display: inline-block;
+  margin-left: 15%;
+  margin-top: 50px;
+  width: 30%;
+}
+
+/* line 210, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ctsearch_divider {
+  position: relative;
+  display: block;
+  width: 10%;
+  margin-left: 15%;
+  background: white;
+  height: 1px;
+  z-index: 20;
+}
+
+/* line 220, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ctsearch_body_container {
+  display: block;
+  margin-left: 15%;
+  bottom: 0%;
+  margin-right: 5%;
+}
+/* line 225, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ctsearch_body_container p {
+  font-family: "futura-pt",sans-serif;
+  color: white;
+}
+
+/* line 231, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.clinical_trial_search_box {
+  position: relative;
+  display: inline-block;
+  height: 200px;
+  width: 50%;
+  background-image: url(/assets/clinical_trial_search_box-669e6b75aba4811837acf0cc6890234a7bedfa3e5ec1a711d9fb5bb04087b783.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 4%;
+  margin-top: 50px;
+  opacity: 1;
+  z-index: 30;
+}
+
+/* clinical trials 101 section */
+/* line 247, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ct101_section {
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 517px;
+  background-image: url(/assets/background_clinical_trials_101_no_color_bars-a0d7ab2213d74bcf4e573acf31a77dac7c4cf7e38cbbe67fd50051f3916d3865.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* line 258, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ct101_section h2 {
+  padding-top: 60px;
+  text-align: center;
+  z-index: 30;
+  position: relative;
+}
+
+/* line 266, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.ct101_body_container {
+  display: block;
+  width: 100%;
+  padding-top: 40px;
+}
+
+/* line 272, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel_link_block {
+  padding-top: 20px;
+  width: 49%;
+  position: relative;
+  display: inline-block;
+}
+
+/* line 280, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel-link h3 {
+  text-align: left;
+  position: relative;
+  line-height: 70px;
+  margin-left: 40px;
+  display: inline;
+}
+/* line 286, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel-link h3:before {
+  content: "";
+  padding-top: 20px;
+  margin-left: -20px;
+  position: absolute;
+  height: 50px;
+}
+
+/* line 296, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#purple h3:before {
+  border-left: 1px solid #601069;
+  /*  -moz-border-image: -moz-linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  -webkit-border-image: -webkit-linear-gradient(transparent 0%, #601069 50%, transparent 100%);
+  /*  border-image: linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  border-image-slice: 1;
+}
+
+/* line 300, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#orange h3:before {
+  border-left: 1px solid #e67925;
+  /*  -moz-border-image: -moz-linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  -webkit-border-image: -webkit-linear-gradient(transparent 0%, #e67925 50%, transparent 100%);
+  /*  border-image: linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  border-image-slice: 1;
+}
+
+/* line 304, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#green h3:before {
+  border-left: 1px solid #599a45;
+  /*  -moz-border-image: -moz-linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  -webkit-border-image: -webkit-linear-gradient(transparent 0%, #599a45 50%, transparent 100%);
+  /*  border-image: linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  border-image-slice: 1;
+}
+
+/* line 308, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#teal h3:before {
+  border-left: 1px solid #006f99;
+  /*  -moz-border-image: -moz-linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  -webkit-border-image: -webkit-linear-gradient(transparent 0%, #006f99 50%, transparent 100%);
+  /*  border-image: linear-gradient(transparent 0%, $color 50%, transparent 100%); */
+  border-image-slice: 1;
+}
+
+/* line 312, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel_content_block {
+  width: 50%;
+  height: 400px;
+  position: relative;
+  display: inline-block;
+}
+
+/* line 319, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel-content {
+  display: none;
+}
+/* line 321, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.panel-content p {
+  vertical-align: middle;
+  font-family: "futura-pt",sans-serif;
+  font-size: 12pt;
+  line-height: 19px;
+}
+
+/* line 329, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#panel-1 {
+  display: block;
+}
+
+/* fda process section */
+/* line 336, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_section {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 542.73499px;
+  background-image: url(/assets/background_fda_process-356bce69beabf87ce283238fbc210c574f3273b8b2ac9d908d0bc9badddcf861.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+/* line 344, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_section h2 {
+  text-align: center;
+  padding-top: 80px;
+  z-index: 2;
+  position: relative;
+}
+
+/* line 352, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_divider {
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* line 360, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_body_container {
+  width: 100%;
+  position: relative;
+  padding-top: 60px;
+}
+
+/* line 366, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_step {
+  vertical-align: top;
+  width: 23.25%;
+  height: 365px;
+  position: relative;
+  display: inline-block;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px #e6e6e6;
+  background-size: 120px auto;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+/* line 378, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_step p {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
+  font-family: "futura-pt",sans-serif;
+  font-size: 12pt;
+  line-height: 18px;
+}
+/* line 387, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.fdaprocess_step img {
+  display: block;
+  position: relative;
+  width: 55px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+/* line 398, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#lab {
+  margin-left: 2.45%;
+  border-bottom: 1px solid #601069;
+  background-image: url(/assets/lab_background_cropped-a126b7f8a3707aa7ff0d904b18c39f8ebf08fe3bdca99cd485bc28ecd1793357.png);
+}
+
+/* line 402, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#application {
+  margin-left: 0;
+  border-bottom: 1px solid #006f99;
+  background-image: url(/images/applcation_background_cropped.png);
+}
+
+/* line 406, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#trial {
+  margin-left: 0;
+  border-bottom: 1px solid #e67925;
+  background-image: url(/assets/trial_background_cropped-de108615ec71dfe9d71057c456f243911571a3b943ab1824c4f12f9e0a94a45f.png);
+}
+
+/* line 410, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+#approval {
+  margin-left: 0;
+  border-bottom: 1px solid #599a45;
+  background-image: url(/assets/approval_background_cropped-9c81afa1d21cb3bfda2318caeccb711eeae761f807a028cc7cdaf0c0e40fa132.png);
+}
+
+/* who we are section */
+/* line 418, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.whoweare_section {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 299.8536px;
+  background-image: url(/assets/background_who_we_are-ac8e181cf203e8fa301f5eda568e8a058d8d6528ec79fa04a06cca4a4efb1ded.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+/* line 427, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.whoweare_section h2 {
+  color: white;
+  text-align: center;
+  z-index: 2;
+  position: relative;
+  padding-top: 83px;
+}
+/* line 434, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.whoweare_section p {
+  text-align: center;
+  color: white;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 75px;
+  font-family: "futura-pt",sans-serif;
+  font-size: 12pt;
+  line-height: 18px;
+}
+/* line 444, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.whoweare_section .copyright {
+  position: relative;
+  text-align: left;
+  margin-left: 5px;
+  margin-top: 30px;
+  color: white;
+  font-family: "futura-pt",sans-serif;
+  font-size: 8pt;
+  z-index: 3;
+}
+
+/* clinical trial table */
+/* line 460, /Users/danmckeon/workspace/cancer_research_connect/app/assets/stylesheets/custom.css.scss */
+.clinical_trial_table {
+  position: relative;
+}
+/* line 1, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 9, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 15, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 21, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+a {
+  color: #000;
+}
+/* line 24, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+a:visited {
+  color: #666;
+}
+/* line 28, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 35, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 40, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+#notice {
+  color: green;
+}
+
+/* line 44, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 50, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 58, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0px;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 69, /Users/danmckeon/workspace/cancer_resources/app/assets/stylesheets/scaffolds.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
